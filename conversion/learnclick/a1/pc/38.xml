@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum ist Frau Kaiser verwirrt?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum ist Frau Kaiser verwirrt?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Sie weiß nicht, wovon Simone und Stefan reden.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sei weiß nicht, wo sie ihre Brille hingetan (=put) hat.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie weiß nicht, wo Herr Fischer ist.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Mit wem soll Frau Kaiser die Hunde entführt haben?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Mit wem soll Frau Kaiser die Hunde entführt haben?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[mit Herrn Fischer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit niemandem. Sie arbeitete allein.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit Herrn Müller]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wobei (=doing what) hat Stefan die Hunde im Schuppen (=shed) gefunden?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wobei (=doing what) hat Stefan die Hunde im Schuppen (=shed) gefunden?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[als er die Toilette benutzt hat]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[als er in den Keller ging]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[als er in den Garten ging]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum ist Herr Müller weggefahren?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum ist Herr Müller weggefahren?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[weil er Stefan angegriffen (=attacked) hat]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil er nach Berlin musste]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil Simone und Stefan bei ihm eingebrochen sind]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

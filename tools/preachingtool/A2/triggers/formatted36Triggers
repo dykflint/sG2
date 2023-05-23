@@ -1,0 +1,1 @@
+const triggers = ['sich auf die Hochzeit freuen (+Akk.)', 'sich an die Reise erinnern (+Akk.)', 'sich fürs neue E', 'auf das Kaninchen aufpassen (+Akk.)', 'sich für Berlin entscheiden (+Akk.)', 'von dem Vorfall wissen (+Dat.)', 'für den autofreien Sonntag sein (+Akk.)', 'gegen Plastikmüll sein (+Akk.)', 'vom Geld abhängen (+Dat.)', 'aufs Taxi warten (+Akk.)'];

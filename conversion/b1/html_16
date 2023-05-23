@@ -1,0 +1,74 @@
+-------------------- LESSON 16-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich freue mich sehr, dass XY. </strong>I am very happy that XY.
+</li><li><strong>Die Vorfreude ist groß. </strong>The anticipation is great.
+</li><li><strong>Wir haben uns schon lange nicht gesehen. </strong>We haven't seen each other for a long time.
+</li><li><strong>das Wiedersehen feiern </strong>to celebrate the reunion
+</li><li><strong>Passt euch XY? </strong>Does XY suit you?
+</li><li><strong>Wie sieht's bei auch am XY aus? </strong>Would it be all right at XY?
+</li><li><strong>alles beim Alten </strong>everything the same
+</li><li><strong>Hier kann man einfach sein, der man ist. </strong>Here you can just be who you are.
+</li><li><strong>Man braucht sich nicht zu verstellen. </strong>You don't need to pretend.
+</li><li><strong>das Meer </strong>the sea
+</li><li><strong>die Alpen </strong>the Alps
+</li><li><strong>die Verrücktheit </strong>the craziness
+</li><li><strong>bei mir übernachten </strong>to spend the night at my place
+</li><li><strong>eine Tour durch meinen Kiez machen </strong>to take a stroll through my neighbourhood
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Matthias! 
+</li><li> Ich freue mich sehr, 
+</li><li> dass Ihr nach Deutschland kommt. 
+</li><li> Hamburg ist ja ganz nett, 
+</li><li> und München hat natürlich die Alpen, 
+</li><li> aber Berlin gefällt mir immer noch am besten! 
+</li><li> Man kann hier einfach sein, der man ist. 
+</li><li> Wo ist das noch heutzutage möglich? 
+</li><li> Bei mir alles beim Alten. 
+</li><li> Aber ich freue mich sehr, dich bald wiederzusehen. 
+</li><li> Wir könnten uns am 01. September treffen. 
+</li><li> Passt euch das auch? 
+</li><li> Dann gebe ich euch eine kleine Tour durch meinen Lieblingskiez. 
+</li><li> Liebe Grüße auch an Maria 
+</li><li> Max 
+<br /><br />= 84 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 16-----------------------------

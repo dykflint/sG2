@@ -1,0 +1,69 @@
+-------------------- LESSON 12-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Aushang </strong>the post
+</li><li><strong>die Bewerbung </strong>the application
+</li><li><strong>Ich möchte mich auf die Stelle als XY bewerben. </strong>I would like to apply for the position as XY.
+</li><li><strong>Ich möchte mich gerne als XY bei Ihnen vorstellen. </strong>I would like to introduce myself to you as XY.
+</li><li><strong>Meine Deutschkenntnisse sind XY. </strong>My German language skills are XY.
+</li><li><strong>fließend </strong>fluent
+</li><li><strong>sehr gut </strong>very good
+</li><li><strong>ein bisschen </strong>a little
+</li><li><strong>Ich habe Erfahrung als XY. </strong>I have experience as XY.
+</li><li><strong>Kellnern liegt mir sehr. </strong>I am very good in waitressing.
+</li><li><strong>der Umgang mit Menschen </strong>to deal with people
+</li><li><strong>Ich bin gut in XY. </strong>I am good at XY.
+</li><li><strong>Ich kenne mich mit XY gut aus. </strong>I am good with XY.
+</li><li><strong>Ich freue mich auf eine Nachricht. </strong>I am looking forward to hearing from you.
+</li><li><strong>Ich freue mich, Sie kennenzulernen. </strong>I look forward to meeting you.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Frau Bohne, 
+</li><li> ich möchte mich gerne bei Ihnen als Barista bewerben. 
+</li><li> Zurzeit studiere ich an der FU Berlin, 
+</li><li> und suche noch einen Nebeneinkommen. 
+</li><li> In Madrid habe ich zwei Jahre gekellnert, 
+</li><li> und als Barista gearbeitet. 
+</li><li> Ich freue mich sehr auf eine Nachricht von Ihnen. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max Mustermann 
+<br /><br />= 50 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 12-----------------------------

@@ -1,0 +1,1 @@
+const triggers = ['er | sein müde', 'sie | verstehen Deutsch', 'du | wollen etwas sagen', 'sie | sein Polizistin', 'ihr | kommen von der Arbeit', 'du | brauchen ein Bier', 'Sie | führen etwas im Schilde', 'sein Friseur | sein in Urlaub', 'ihr | spielen gerne Fußball', 'Sie | fallen gleich in Ohnmacht'];

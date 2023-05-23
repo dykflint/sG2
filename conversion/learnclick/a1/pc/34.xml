@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum ist Simone genervt?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum ist Simone genervt?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[weil Stefan lange auf der Toilette ist]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil sie den Fall noch nicht gelöst hat]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil Herr Fischer verschwunden ist]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum ist Stefans Gesicht rot?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum ist Stefans Gesicht rot?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Er ist aufgeregt.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er ist außer Atem.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sein Gesicht ist immer rot.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum möchte Stefan gehen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum möchte Stefan gehen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[weil er und Simone noch viel vor haben (=have plans)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil er keinen Kuchen mehr essen kann]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil er Herrn Fischer gesehen hat]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Kann Frau Kaiser Simone und Stefan überreden (=convince) zu bleiben (=stay)?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Kann Frau Kaiser Simone und Stefan überreden (=convince) zu bleiben (=stay)?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[nein]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ja]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[nur Simone]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

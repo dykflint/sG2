@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was hat Stefan am Leben gehalten?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was hat Stefan am Leben gehalten?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[die Würstchen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[der Sport]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[die Schule]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Simone mit dem Würstchen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Simone mit dem Würstchen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Sie weicht ihm reflexartig aus (=evade).]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie nimmt es dankend an.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie schmeißt es weg. (=toss away)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie viele Würstchen isst Stefan?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie viele Würstchen isst Stefan?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[zwei gleichzeitig (=at the same time)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[eins nach dem anderen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[nur eins]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Womit hat Simone kein Problem mehr?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Womit hat Simone kein Problem mehr?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[mit Stefans Schmatzen (=smacking)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit Stefans Arbeitsmoral]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit Stefans Aussehen (=looks)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

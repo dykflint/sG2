@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan zurück?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan zurück?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Zurück in die Detektei.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Zur Polizei in Berlin.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Zurück ins Chemielabor.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum lädt Simone Stefan auf Würstchen ein?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum lädt Simone Stefan auf Würstchen ein?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Als Belohnung.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil Stefan Hunger hat.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil die Würstchenbude auf dem Weg zum Büro ist.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Worüber sind sich Simone und Stefan einig?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Worüber sind sich Simone und Stefan einig?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Über ihre Kinder.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Über die Würstchen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Über den Namen der Detektei.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was sollten die Lehrer auf Schulen nicht sein?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was sollten die Lehrer auf Schulen nicht sein?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Wie Brad Pitt aussehen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sich wie Schauspieler benehmen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Faule Lehrer.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

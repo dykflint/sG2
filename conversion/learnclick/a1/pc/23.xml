@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was hasst Stefan?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was hasst Stefan?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Wenn Simone entschlossen ist.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Wenn er keinen Kuchen essen kann.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Dass er Überstunden machen muss.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was kennt Simone nicht, wenn sie einen Fall lösen will?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was kennt Simone nicht, wenn sie einen Fall lösen will?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[das Gesetz]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Stefans Telefonnummer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ihren Verstand (=mind)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum muss Stefan mitmachen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum muss Stefan mitmachen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[weil er Simones Assistent ist]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil er nichts Besseres zu tun hat]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil er mehr Kuchen essen will]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Herr Müller?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Herr Müller?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Er schläft.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er backt einen Kuchen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er trinkt Kaffee.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

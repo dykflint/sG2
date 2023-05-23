@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum hat Herr Müller die Tat geplant?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum hat Herr Müller die Tat geplant?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Weil er keine Hunde mag.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil er Fix nicht mag.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil er Foxi nicht mag.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was erzählt Simone dem Kanzler?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was erzählt Simone dem Kanzler?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Dass die Hunde in Sicherheit sind.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Dass die Hunde weg sind.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Dass er sich nun auch um Katzen kümmern muss.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Bleibt Herr Müller weiterhin in Hohenwalde?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Bleibt Herr Müller weiterhin in Hohenwalde?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[nein]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ja]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[jein]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Herr Müller in Süddeutschland?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Herr Müller in Süddeutschland?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Schmetterlinge erforschen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Skifahren.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Seine Familie besuchen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

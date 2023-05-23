@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wann hatte Valerie den Test geschwänzt?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wann hatte Valerie den Test geschwänzt?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[letzte Woche]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[vor zwei Wochen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[heute]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was wollte Valerie beim Nachschreiben des Tests tun?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was wollte Valerie beim Nachschreiben des Tests tun?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Sie wollte alleine mit Herrn Liebig im Chemiesaal sein.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie wollte mit einer guten Note bestehen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie wollte den Test einfach nur hinter sich bringen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wann ging Herr Liebig in die Materialkammer?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wann ging Herr Liebig in die Materialkammer?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[kurz nach Beginn des Tests]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[am Ende des Tests]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[nachdem alle weg waren]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was hat Valerie gemacht, als Herr Liebig in die Materialkammer gegangen ist?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was hat Valerie gemacht, als Herr Liebig in die Materialkammer gegangen ist?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Sie ist ihm gefolgt.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie blieb an ihrem Platz.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie hat den Test abgegeben und den Chemiesaal verlassen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

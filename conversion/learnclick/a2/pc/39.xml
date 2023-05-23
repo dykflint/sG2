@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie hatte sich Valerie in dem Moment gefühlt?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie hatte sich Valerie in dem Moment gefühlt?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[als ob ihre ganze Welt zusammengebrochen wäre]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[als ob sie im Lotto gewonnen hätte]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ganz gelassen]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was ist jetzt bedeutungslos (=senseless) geworden?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was ist jetzt bedeutungslos (=senseless) geworden?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[die Blicke von Herrn Liebig im Unterricht]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[der Chemietest]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[die Schule]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Hat Valerie endlich aufgehört zu weinen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Hat Valerie endlich aufgehört zu weinen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Nein, sie ist immer noch am heulen (=lit. howl).]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Ja, endlich hat sie damit aufgehört.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Ja, aber stattdessen (=instead) ist sie jetzt wütend.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Denkt Valerie, dass Herr Liebig es verdient hat zu sterben?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Denkt Valerie, dass Herr Liebig es verdient hat zu sterben?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[ja]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[nein]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[jein]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

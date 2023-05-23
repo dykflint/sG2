@@ -1,0 +1,71 @@
+-------------------- LESSON 8-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich habe schlechte Nachrichten. </strong>I have some bad news.
+</li><li><strong>krankheitsbedingt absagen </strong>to cancel due to illness
+</li><li><strong>aus Krankheitsgründen absagen </strong>to cancel due to illness
+</li><li><strong>Ich liege mit XY im Bett. </strong>I am sick in bed with XY.
+</li><li><strong>mit einer schlimmen Erkältung </strong>with a bad cold
+</li><li><strong>mit hohem Fieber </strong>with a high fever
+</li><li><strong>Ich schaffe es nicht. </strong>I can't make it.
+</li><li><strong>Könntest du XY übernehmen? </strong>Could you cover XY for me?
+</li><li><strong>Würdest du mir einen Gefallen tun? </strong>Would you do me a favour?
+</li><li><strong>im Anhang </strong>attached
+</li><li><strong>bei Unklarheiten / wenn etwas unklar ist </strong>if something isn't clear
+</li><li><strong>herzlichen Dank im Voraus </strong>thanks in advance
+</li><li><strong>schöne Grüße </strong>best regards
+</li><li><strong>viel zu tun haben </strong>to be very busy
+</li><li><strong>Tut mir Leid für die Umstände. </strong>Sorry for the inconvinience.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Petra, 
+</li><li> leider habe ich schlechte Nachrichten. 
+</li><li> Ich liege mit Fieber im Bett, 
+</li><li> und schaffe es nicht, morgen meine Präsentation zu halten. 
+</li><li> Könntest du sie vielleicht übernehmen? 
+</li><li> Im Anhang meine aktuelle Version, 
+</li><li> und bei Unklarheiten ruf einfach an. 
+</li><li> Tut mir leid für die Umstände, 
+</li><li> ich weiß ja wie viel du zu tun hast! 
+</li><li> Tausend Dank 
+</li><li> Michael 
+<br /><br />= 56 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 8-----------------------------

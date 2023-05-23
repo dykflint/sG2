@@ -1,0 +1,77 @@
+-------------------- LESSON 22-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>eine besondere Begegnung </strong>a special encounter
+</li><li><strong>ganz unerwartet </strong>quite unexpectedly
+</li><li><strong>einen fremden Mann / eine fremde Frau ansprechen </strong>to approach a strange man / woman
+</li><li><strong>normalerweise </strong>normally
+</li><li><strong>schüchtern sein </strong>to be shy
+</li><li><strong>Ich traue mich (nicht), XY zu tun. </strong>I (don't) dare to do XY.
+</li><li><strong>Ich mag an ihm / ihr, dass XY. </strong>I like about him / her that XY.
+</li><li><strong>die Offenheit </strong>the openness
+</li><li><strong>viele Gemeinsamkeiten haben </strong>to have many things in common
+</li><li><strong>viele Interessen teilen </strong>to share many interests
+</li><li><strong>den Gleichen Sinn für Humor haben </strong>to have the same sense of humour
+</li><li><strong>viel gemeinsam unternehmen </strong>to do a lot together
+</li><li><strong>in Urlaub fahren </strong>to go on holiday
+</li><li><strong>Städte besichtigen </strong>to visit cities
+</li><li><strong>alte Filme anschauen </strong>to watch old films
+</li><li><strong>Ich fühle mich wie im siebten Himmel. </strong>I am head over heels in love.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> wie schön zu hören, dass du frisch verliebt bist. 
+</li><li> Ich freue mich für dich. 
+</li><li> Du erinnerst dich richtig, ich habe letzten Sommer eine tolle Frau/einen tollen Mann kennengelernt. 
+</li><li> Wir haben uns auf einem Meditationsseminar getroffen. 
+</li><li> Seitdem haben wir viel unternommen. 
+</li><li> Sie ist so entspannt und offen. 
+</li><li> Wir verstehen uns so richtig gut. 
+</li><li> Manchmal denke ich, es war Schicksal, 
+</li><li> dass wir uns getroffen haben. 
+</li><li> Ich glaube, 
+</li><li> dass wir für immer zusammen bleiben werden. 
+</li><li> Melde Dich einfach, 
+</li><li> sobald du Zeit hast dich zu treffen. 
+</li><li> Alles Liebe 
+</li><li> Max 
+<br /><br />= 88 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 22-----------------------------

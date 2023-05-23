@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Simone bevor sie die Hunde zurückbringt?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Simone bevor sie die Hunde zurückbringt?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Sie schaut in den Schuppen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie geht zu Herrn Müller.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sie ruft die Polizei.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was findet Simone im Schuppen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was findet Simone im Schuppen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[einen silbernen Knopf]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[die Futternäpfe von Fix und Foxi]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[einen Rasenmäher (=lawn mower)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was ist auf dem Knopf eingraviert (=engraved)?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was ist auf dem Knopf eingraviert (=engraved)?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[das Logo der Universität Leipzig]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[“Fix und Foxi”]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Herrn Müllers Name]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wohin tut Simone den Knopf?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wohin tut Simone den Knopf?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[in ihre Jackentasche]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in ihre Hosentasche]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in ihre Handtasche]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

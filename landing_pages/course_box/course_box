@@ -1,0 +1,72 @@
+{% assign icon_path = "icons/bundles.svg" %}
+
+<!-- Course Listing -->
+<div class='course-card'>
+  <div data-course-id="{{course_box.id}}" data-course-url="{{course_box.course_link_for_user}}", class='course-listing bg-{{course_box.id}}' >
+    <a href="{{course_box.course_link_for_user}}" data-role="course-box-link">
+      <div class='course-box-container'>
+        <!-- Course Image, Name & Subtitle (everyone) -->
+        <div class='course-box-image-container'>
+          <img class='course-box-image' src='{{course_box.safe_image_url }}' role="presentation">
+          {% if course_box.product_collection %}
+            <div class="bundle-icon-container">
+              <img
+                alt="Part of: {{ course_box.product_collection.name }}"
+                class="bundles-icon"
+                src="{{ icon_path | liquid_asset_path }}"
+              />
+              <span class="tooltiptext">Part of: {{ course_box.product_collection.name }}</span>
+            </div>
+          {% endif %}
+        </div>
+        <div class='course-listing-title' role="heading" aria-level="2" title="{{ course_box.name }}">
+          {{ course_box.name }}
+        </div>
+        <!-- Progress bar (enrolled users) -->
+        <div class='col-xs-12 hidden course-listing-enrolled' aria-hidden="true">
+          <div class='progressbar'>
+            <div class='progressbar-fill progressbar-{{course_box.id}}' role="progressbar" aria-valuemin='0' aria-valuemax='100' aria-labelledby="percent-complete-{{course_box.id}}"></div>
+          </div>
+          <div class="course-progress percentage-info">
+              <span class='percentage' id="percent-complete-{{course_box.id}}" data-course-id="{{course_box.id}}">
+                  %
+              </span>
+              <span>Complete</span>
+          </div>
+          <p class="course-access-limit hidden">{{'courses.available_until'|i18n}} <span></span></p>
+        </div>
+        {% if course_box.heading.size > 0 %}
+          <!-- Subtitle (unenrolled users) -->
+          <div class='course-listing-subtitle' title="{{ course_box.heading }}" role="heading" aria-level="3">
+            {{ course_box.heading }}
+          </div>
+          {% endif %}
+      <div class='course-listing-extra-info'>
+          <div>
+              <!-- Bundle Info (everyone) -->
+              {% if course_box.bundle? %}
+              <div class='small course-bundle'>
+                  {{course_box.bundled_courses_count}} {{'courses.bundle_size'|i18n}}
+              </div>
+              {% else %}
+              <!-- Author Image and Name (everyone) -->
+              <div class="course-author">
+                  <img class='img-circle' src='{{course_box.author_bio.profile_image_thumb_url}}' alt="{{ course_box.author_bio.name | escape }}">
+                  <span class='small course-author-name'>
+                      {{ course_box.author_bio.name }}
+                  </span>
+              </div>
+              {% endif %}
+          </div>
+          <!-- Price (unenrolled users) -->
+          <div>
+              <div class='small course-price btn-{{course_box.id}}'>
+              View
+              </div>
+          </div>
+      </div>
+      </div>
+    </a>
+  </div>
+</div>
+

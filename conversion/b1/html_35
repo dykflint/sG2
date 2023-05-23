@@ -1,0 +1,74 @@
+-------------------- LESSON 35-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Die Vorbereitungen laufen. </strong>The preparations are underway.
+</li><li><strong>Die Vorfreude ist groß. </strong>The anticipation is great.
+</li><li><strong>sich freuen auf XY </strong>to look forward to XY
+</li><li><strong>Alle Sachen sind gepackt. </strong>All things are packed.
+</li><li><strong>der Arbeitsbeginn </strong>the start of work
+</li><li><strong>die Arbeitskleidung mitbringen </strong>to bring work clothes
+</li><li><strong>die Gummistiefel leihen </strong>to borrow rubber boots
+</li><li><strong>der Wochenplan </strong>the weekly schedule
+</li><li><strong>die Freizeit </strong>the free time
+</li><li><strong>Ich klettere für mein Leben gern. </strong>I like climbing for my life.
+</li><li><strong>einen Kletterkurs besuchen </strong>to attend a climbing course
+</li><li><strong>Herzlichen Dank für XY. </strong>Thank you very much for XY.
+</li><li><strong>Ich danke im Voraus für Ihre Mühen. </strong>Thank you in advance for your efforts.
+</li><li><strong>bis nächste Woche </strong>see you next week
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Demeter Bauernhof, 
+</li><li> ich freue mich schon sehr auf den Arbeitsbeginn nächste Woche! 
+</li><li> Ich habe alles vorbereitet und gepackt, 
+</li><li> und noch zwei praktische Fragen. 
+</li><li> Ich habe ganz normale Arbeitskleidung, 
+</li><li> aber keine wasserfesten Gummistiefel. 
+</li><li> Kann ich mir die bei Ihnen leihen? 
+</li><li> Könnten Sie mir auch noch schreiben, 
+</li><li> wie eine typische Arbeitswoche aussieht? 
+</li><li> Arbeite ich jeden Tag, und auch am Wochenende? 
+</li><li> Ich klettere für mein Leben gern. 
+</li><li> und würde gerne in der Freizeit einen Kletterkurs besuchen. 
+</li><li> Ich freue mich schon sehr auf die Zeit bei Ihnen. 
+</li><li> Vielen Dank im Voraus für Ihre Mühen. 
+</li><li> Klara Kletter 
+<br /><br />= 91 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 35-----------------------------

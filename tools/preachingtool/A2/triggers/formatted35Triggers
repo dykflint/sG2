@@ -1,0 +1,1 @@
+const triggers = ['sprechen mit (+Dat.)', 'träumen von (+Dat.)', 'telefonieren mit (+Dat.)', 'fragen nach (+Dat.)', 'streiten mit (+Dat.)', 'diskutieren mit (+Dat.)', 'erzählen von (+Dat.)', 'suchen nach (+Dat.)', 'zweifeln an (+Dat.)', 'wissen von (+Dat.)'];

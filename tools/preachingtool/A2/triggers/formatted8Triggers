@@ -1,0 +1,1 @@
+const triggers = ['Peter | Arm | krank | einreiben', 'Maria | Freund | alt | meiden', 'Peter | Lied | neu | pfeifen', 'Maria | Haar | lang | schneiden', 'Peter | Hund | lang | beißen', 'Maria | Erkältung | kompliziert | begreifen', 'Peter | Auto | teuer | leihen', 'Maria | Vertrag | lang | unterschreiben', 'Peter | Geld | überweisen', 'Maria | Wohnung | neu | streichen'];

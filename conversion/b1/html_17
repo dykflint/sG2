@@ -1,0 +1,73 @@
+-------------------- LESSON 17-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Lange nichts von dir gehört. </strong>Long time no hear from you.
+</li><li><strong>Wie sieht's bei dir aus? </strong>How about you?
+</li><li><strong>einen neuen Job haben </strong>to have a new job
+</li><li><strong>neue Arbeit finden </strong>to find a new job
+</li><li><strong>Endlich habe ich den Absprung geschafft. </strong>I have finally made the jump.
+</li><li><strong>eine Arbeit, die mir gefällt </strong>a job I like
+</li><li><strong>die berufliche Herausforderung </strong>the professional challenge
+</li><li><strong>Ich arbeite jetzt als XY. </strong>I am now working as XY.
+</li><li><strong>einen neuen Partner haben </strong>to have a new partner
+</li><li><strong>solo sein </strong>to be solo
+</li><li><strong>umziehen - ich bin umgezogen </strong>to move - I have moved
+</li><li><strong>Hast du Lust XY? </strong>Do you fancy XY?
+</li><li><strong>Kommst du vorbei? </strong>Are you coming over?
+</li><li><strong>Komm mal vorbei! </strong>Come over!
+</li><li><strong>Lass uns mal wieder um die Häuser ziehen. </strong>Let's grab a beer.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Matteo, 
+</li><li> ich freu mich sehr für dich. 
+</li><li> Wie geht es Emilia und den Kindern? 
+</li><li> Ich arbeite auch viel, so dass ich am Wochenende oft nur chillen möchte. 
+</li><li> Ich habe nebenher mit einem Fernstudium für Wirtschaftspsychologie angefangen, 
+</li><li> und das kostet mich gerade viel Energie. 
+</li><li> Ich besuche euch gerne nächstes Wochenende. 
+</li><li> Soll ich am Samstagabend kommen, 
+</li><li> dann können wir wie früher um die Häuser ziehen? 
+</li><li> Oder doch lieber am Sonntag zum Kaffee trinken? 
+</li><li> Sag mir doch mal kurz Bescheid, wann es dir passt. 
+</li><li> Liebe Grüße 
+</li><li> Max 
+<br /><br />= 85 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 17-----------------------------

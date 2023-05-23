@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Welcher Lehrer befindet sich im Lehrerzimmer?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Welcher Lehrer befindet sich im Lehrerzimmer?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[die Direktorin]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Frau Richtig]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Herr Liebig]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Ist Frau Richter einfühlsam (=sensitive) gegenüber Valerie?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Ist Frau Richter einfühlsam (=sensitive) gegenüber Valerie?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Nein, sie ist streng (=strict) zu ihr.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Ja, sie ist sehr einfühlsam und empathisch.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Nein, aber sie muss auch weinen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Womit hat das Ganze (=this all) angefangen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Womit hat das Ganze (=this all) angefangen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[mit dem Piratenfilm von Brad Pitt]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit dem Chemieunterricht]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit einer Doku über Piraten]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wann hat Herr Liebig angefangen, an der Schule zu arbeiten?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wann hat Herr Liebig angefangen, an der Schule zu arbeiten?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[vor kurzem]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[vor einem Jahr]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[gestern]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

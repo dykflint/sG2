@@ -1,0 +1,117 @@
+/* Settings for the Container */
+.container {
+    display: flex;
+    flex-direction: column;
+}
+/* Settings for the Inputs Container */
+.inputs-container {
+    background-color: #D7EBFA;
+    padding: 2.0rem;
+    border-radius: 25px;
+    width: 700px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.input-field {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.radio-field {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    /* margin-right: 2.5rem; */
+}
+.radio-field.bahncard {
+    margin-right: 15.5rem;
+}
+/* Input Fields */
+input {
+    border: none;
+    border-radius: 15px;
+    padding: 0.2rem 0.4rem;
+    width: 50%;
+}
+.input-field.smaller input {
+    width: 15%;
+}
+label {
+    font-weight: bold;
+    margin-right: 0.5rem;
+}
+/* Check Button */
+.check-button {
+    background-color: #377CDE;
+    border: none;
+    padding: .5rem 1.0rem;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    color: white;
+    width: max-content;
+    margin: auto;
+    margin-top: 2.0rem;
+}
+.check-button:hover {
+    cursor: pointer;
+    background-color: #8aa6cf;
+}
+.check-button:active {
+    background-color: #377CDE;
+}
+/* Correct and Incorrect coloring */
+.correct {
+    border: 2px solid green;
+    box-sizing: content-box;
+}
+.incorrect {
+    border: 2px solid red;
+    box-sizing: content-box
+}
+.radio-correct {
+    color: green;
+}
+.radio-incorrect {
+    color: red;
+}
+@media (max-width: 60.0rem) {
+    .inputs-container {
+        width: 500px;
+    }
+}
+@media (max-width: 50.0rem) {
+    .inputs-container {
+        width: 350px;
+    }
+}
+
+@media (max-width: 40.0rem) {
+    .inputs-container {
+        width: 300px;
+    }
+    .radio-field.bahncard {
+        margin-right: 0.0rem;
+    }
+}
+
+@media (max-width: 30.0rem) {
+    .inputs-container {
+        width: 250px;
+    }
+    .input-field {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .radio-field {
+        margin-right: 0.0rem;
+    }
+    input {
+        width: 80%;
+    }
+}

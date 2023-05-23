@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wen hat Simone gefunden?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wen hat Simone gefunden?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Valerie]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Frau Richter]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Markus]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Der Fall führt nirgendwo (=nowhere) hin. Stimmt das?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Der Fall führt nirgendwo (=nowhere) hin. Stimmt das?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Nein, Simone und Stefan sind auf einer heißen Spur.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Ja, sie wollen aufgeben (=give up).]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Nein, sie haben den Fall bereits gelöst.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie lange müssen Simone und Stefan auf Valerie warten?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie lange müssen Simone und Stefan auf Valerie warten?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[einen kurzen Augenblick]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[eine Stunde]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[bis zum Ende der Pausenzeit]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Welche Farbe haben Valeries Haare?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Welche Farbe haben Valeries Haare?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[braun]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[schwarz]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[blond]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

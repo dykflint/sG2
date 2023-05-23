@@ -1,0 +1,73 @@
+-------------------- LESSON 39-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich brauche Ihre Unterstützung / Hilfe </strong>I need your support / help
+</li><li><strong>XY wurde gestohlen </strong>XY was stolen
+</li><li><strong>XY wurde geklaut </strong>XY was stolen
+</li><li><strong>der Diebstahl </strong>the theft
+</li><li><strong>eine Meldung bei der Polizei machen </strong>to make a report to the police
+</li><li><strong>die Versichertenkarte bestellen </strong>to order the insurance card
+</li><li><strong>die Versichertennummer </strong>the insurance number
+</li><li><strong>dauern </strong>to take
+</li><li><strong>Wie lange dauert es ungefähr? </strong>Approximately how long does it take?
+</li><li><strong>der Arzttermin </strong>the doctor's appointment
+</li><li><strong>herzlichen Dank für XY </strong>thank you very much for XY
+</li><li><strong>vielen Dank im Voraus für XY </strong>thank you in advance for XY
+</li><li><strong>Ich danke Ihnen im Voraus für Ihre Mühen. </strong>Thank you in advance for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> ich brauche Ihre Hilfe: 
+</li><li> Leider ist mir letzte Woche mein Portemonnaie mit Versichertenkarte gestohlen worden. 
+</li><li> Ich habe es direkt bei der Polizei gemeldet, 
+</li><li> aber bis heute keine positiven Nachrichten bekommen. 
+</li><li> Darum möchte ich eine neue Karte bei Ihnen bestellen. 
+</li><li> Meine Versichertennummer ist: 123456789, 
+</li><li> mein Versichertenname ist Michael Johannes Harald Schmitz, 
+</li><li> und meine Geburtsdatum ist: 22.10.1976. 
+</li><li> Wissen Sie, 
+</li><li> wie lange es ungefähr dauert? 
+</li><li> Nächste Woche habe ich nämlich zwei Arzttermine. 
+</li><li> Ich danke Ihnen im Voraus für Ihre Mühen. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Michael Schmitz 
+<br /><br />= 89 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 39-----------------------------

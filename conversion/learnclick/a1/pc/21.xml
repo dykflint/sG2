@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was interessiert Herrn Fischer nicht?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was interessiert Herrn Fischer nicht?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Die Möpse interessieren ihn nicht.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Simone interessiert ihn nicht.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Sein Auto interessiert ihn nicht.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum wundert sich Herr Fischer nicht, dass die Möpse verschwunden sind?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum wundert sich Herr Fischer nicht, dass die Möpse verschwunden sind?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Weil sie schlecht erzogen sind.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil sie immer weglaufen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil sie immer zu Frau Kaiser laufen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Mit wem möchte Herr Fischer nicht reden?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Mit wem möchte Herr Fischer nicht reden?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[mit Simone]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit Stefan]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit Frau Kaiser]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie dreht sich Simone um?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie dreht sich Simone um?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[enttäuscht]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit Freude]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[mit Angst]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

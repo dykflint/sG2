@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was möchte Stefan Simone erzählen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was möchte Stefan Simone erzählen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[dass er etwas gefunden hat]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[dass er auf Toilette war]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[dass er einen neuen Namen für die Detektei hat]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wo sind Fix und Foxi?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wo sind Fix und Foxi?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[in der Gartenhütte von Frau Kaiser]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in der Garage]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[im Keller]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wer soll die Entführerin sein?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wer soll die Entführerin sein?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Frau Kaiser]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Simone]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[die Frau vom Kanzler]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wem tut Frau Kaiser leid?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wem tut Frau Kaiser leid?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Sie tut Simone und Stefan leid.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Dem Kanzler tut sie leid.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Herrn Müller tut sie leid.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

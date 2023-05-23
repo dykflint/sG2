@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie wirkt das Grinsen von Herrn Müller?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie wirkt das Grinsen von Herrn Müller?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[künstlich (=artificial)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[echt (=authentic)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[übertrieben (=exaggerated)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Herr Müller?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Herr Müller?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Er bereitet alles für die Ankunft der Hunde vor (=prepare).]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er ruft den Bundeskanzler an.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er ruft die Polizei.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[zurück zu Frau Kaiser]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[zu Herrn Fischer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in die Bibliothek]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wann können Simone und Stefan den Vorfall (=incidence) vergessen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wann können Simone und Stefan den Vorfall (=incidence) vergessen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[wenn Frau Kaiser die Hunde zurückgibt]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[wenn Frau Kaiser wieder Kuchen backt]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[wenn es den Hunden gut geht]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

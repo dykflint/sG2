@@ -1,0 +1,78 @@
+-------------------- LESSON 24-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich mag besonders gern XY. </strong>I especially like XY.
+</li><li><strong>Ich liebe es, zu XY. </strong>I love to XY.
+</li><li><strong>In meiner Freizeit unternehme ich XY. </strong>In my free time I XY.
+</li><li><strong>einen Ausflug machen </strong>to go on an excursion
+</li><li><strong>Museen besuchen </strong>to visit museums
+</li><li><strong>Schach spielen </strong>to play chess
+</li><li><strong>Sport treiben </strong>to play sports
+</li><li><strong>Freunde zum Essen einladen </strong>to invite friends for dinner
+</li><li><strong>faulenzen </strong>to laze around
+</li><li><strong>in die Sauna gehen </strong>to go to the sauna
+</li><li><strong>faulenzen </strong>to loaf
+</li><li><strong>sich Zeit für die alltäglichen Dinge nehmen </strong>to take time for everyday things
+</li><li><strong>viel / wenig Freizeit haben </strong>to have much / little free time
+</li><li><strong>eine neue Ausbildung machen </strong>to do a new apprenticeship
+</li><li><strong>ein neues Studium beginnen </strong>to start a new course of study
+</li><li><strong>seinen Traum verwirklichen </strong>to realise one's dream
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Ariane, 
+</li><li> vielen Dank für deine Mail. 
+</li><li> Ich habe mich sehr darüber gefreut. 
+</li><li> Du hast Recht, ich habe nicht viel Freizeit. 
+</li><li> So ein eigenes Unternehmen nimmt sehr viel Zeit in Anspruch. 
+</li><li> Aber wenn ich mal ein paar Stunden frei habe, 
+</li><li> spiele ich Klavier. 
+</li><li> Ich spiele schon seit ich fünf bin. 
+</li><li> Das entspannt mich sehr. 
+</li><li> Sport mache ich natürlich auch, 
+</li><li> aber das ist eher Pflicht als eine Freizeitaktivität. 
+</li><li> Radfahren finde ich auch super. 
+</li><li> Vielleicht besuche ich dich eines Tages. 
+</li><li> Dann fahren wir gemeinsam Rad. 
+</li><li> Ich freue mich auf deine nächste Mail. 
+</li><li> Viele liebe Grüße 
+</li><li> Maria 
+<br /><br />= 94 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 24-----------------------------

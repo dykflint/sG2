@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie fühlte sich das Deja-Vu von Stefan an?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie fühlte sich das Deja-Vu von Stefan an?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[wie Telepathie]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[wie Französisch]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[wie ein Schicksalsschlag (= a stroke of fate)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wer soll in der Nähe bleiben?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wer soll in der Nähe bleiben?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Markus]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Valerie]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Simone und Stefan]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was passiert bevor Simone und Stefan die Aula verlassen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was passiert bevor Simone und Stefan die Aula verlassen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Markus ruf den beiden Detektiven nach (=to call after sb).]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Valerie erscheint (=appears)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Stefan dreht sich nochmal um (=turn around).]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Markus beim Lachen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Markus beim Lachen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[ein Duckface]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weinen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[tanzen]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

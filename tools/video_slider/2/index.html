@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Video Slider</title>
+  </head>
+  <body>
+    <!-- Full-width images with number and caption text -->
+  <div class="slider-container">
+    <a class="prev" onclick="prevSlide()">&#10094;</a>
+    <div class="carousel-container">
+    <div class="mySlides">
+      <video controls controlslist poster="https://www.filepicker.io/api/file/19Fkqdi5RfqpIgWweLbb">
+        <source src="https://www.dropbox.com/s/phuzbsfcl5amuuj/Vocab%20Tool.mp4?raw=1" type="video/mp4">
+      </video>
+      <!-- <div class="number">1 / 5</div> -->
+    </div>
+    
+    <div class="mySlides">
+      <video controls controlslist poster="https://www.filepicker.io/api/file/DSBUlSkSTkC7kpPoOEI0">
+        <source src="https://www.dropbox.com/s/p864wr7vbete1he/Dictation%20Tool.mp4?raw=1" type="video/mp4">
+      </video>
+      <!-- <div class="number">2 / 5</div> -->
+    </div>
+    
+    <div class="mySlides">
+      <video controls controlslist poster="https://www.filepicker.io/api/file/QHY0TymtTpStmA7j5m7c">
+        <source src="https://www.dropbox.com/s/jvobmob7ny92j5x/Interactive-Exercises.mp4?raw=1" type="video/mp4">
+      </video>
+      <!-- <div class="number">3 / 5</div> -->
+    </div>
+  
+    <div class="mySlides">
+      <video controls controlslist poster="https://www.filepicker.io/api/file/cAsR9oyRTvOeXlQJD6Vs">
+        <source src="https://www.dropbox.com/s/kwy1eisy7y2f3s4/A1-Writing-Tool.mp4?raw=1" type="video/mp4">
+      </video>
+      <!-- <div class="number">4 / 5</div> -->
+    </div>
+    
+    <div class="mySlides">
+      <video controls controlslist poster="https://www.filepicker.io/api/file/NIBWSagSeiOWtImTMHT0">
+        <source src="https://www.dropbox.com/s/6giage2s0pek12k/B1-Writing-Tool.mp4?raw=1" type="video/mp4">
+      </video>
+      <!-- <div class="number">5 / 5</div> -->
+    </div>
+  </div>
+  <!-- Next and previous buttons -->
+  <a class="next" onclick="nextSlide()">&#10095;</a>    
+</div>
+<!-- The dots/circles -->
+<div class="dots-container">
+  <span class="dots" onclick="currentSlide(1)"></span>
+  <span class="dots" onclick="currentSlide(2)"></span>
+  <span class="dots" onclick="currentSlide(3)"></span>
+  <span class="dots" onclick="currentSlide(4)"></span>
+  <span class="dots" onclick="currentSlide(5)"></span>
+</div>
+</body>
+<script src="script.js"></script>
+</html>

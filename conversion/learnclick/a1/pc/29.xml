@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[zurück in das Ferienhaus]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[zurück nach Berlin]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[zu Frau Kaiser]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Herr Müller?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Herr Müller?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Er kocht Tee.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er trinkt Kaffee.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er isst Kuchen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wohin ziehen sich Simone und Stefan zurück?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wohin ziehen sich Simone und Stefan zurück?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[in das Gästezimmer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in das Wohnzimmer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in die Küche]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Von wem gibt es keine Spur im Keller?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Von wem gibt es keine Spur im Keller?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[von den Hunden]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[von dem Kanzler]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[von Stefan]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

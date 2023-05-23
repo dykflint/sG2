@@ -1,0 +1,48 @@
+.overall-container-konstantin {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.rate-k {
+    float: left;
+    height: 10.0rem;
+    padding: 0 10px;
+    /* margin: auto 0 0 0; */
+    /* width: 50%; */
+}
+.rate-k:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+.rate-k:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:5.0rem;
+    color:#ccc;
+}
+.rate-k:not(:checked) > label:before {
+    content: '★ ';
+}
+.rate-k > input:checked ~ label {
+    color: #ffc700;    
+}
+.rate-k:not(:checked) > label:hover,
+.rate-k:not(:checked) > label:hover ~ label {
+    color: #deb217;  
+}
+.rate-k > input:checked + label:hover,
+.rate-k > input:checked + label:hover ~ label,
+.rate-k > input:checked ~ label:hover,
+.rate-k > input:checked ~ label:hover ~ label,
+.rate-k > label:hover ~ input:checked ~ label {
+    color: #c59b08;
+}
+
+.hide-konstantin {
+    display: none;
+}
+
+/* Modified from: https://github.com/mukulkant/Star-rating-using-pure-css */

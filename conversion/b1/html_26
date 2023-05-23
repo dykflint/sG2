@@ -1,0 +1,73 @@
+-------------------- LESSON 26-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich bin sehr eingespannt. </strong>I am very busy.
+</li><li><strong>Der neue Job verlangt viel von mir ab. </strong>The new job demands a lot from me.
+</li><li><strong>Ich habe mich gut eingelebt. </strong>I have settled in well.
+</li><li><strong>seit meinem Jobwechsel </strong>since my job change
+</li><li><strong>ein hohes / niedriges Gehalt bekommen </strong>to get a high / low salary
+</li><li><strong>einen unbefristeten / befristeten Arbeitsvertrag haben </strong>to have a permanent / limited employment contract
+</li><li><strong>abwechslungsreiche Aufgaben haben </strong>to have varied tasks
+</li><li><strong>gute Aufstiegschancen haben </strong>to have good promotion prospects
+</li><li><strong>viele Überstunden machen </strong>to work a lot of overtime
+</li><li><strong>selbständig arbeiten </strong>to work independently
+</li><li><strong>kontaktfreudige Kollegen </strong>to have sociable colleagues
+</li><li><strong>anspruchsvolle Arbeit </strong>demanding work
+</li><li><strong>Kunden betreuen </strong>to look after customers
+</li><li><strong>Dienstreisen machen </strong>to make business trips
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Hey Michael, 
+</li><li> du hast schon lange nichts mehr von mir gehört. 
+</li><li> Die letzten Wochen haben mich mega eingespannt. 
+</li><li> Seit meinem neuen Jobwechsel habe ich keine Zeit mehr für Privates. 
+</li><li> Ich habe als Redakteur beim Berliner Rundfunk angefangen, 
+</li><li> und bin zuständig für die Serie “Das schaffst du nie”. 
+</li><li> Es geht darum, dass man unmögliche Aufgaben in viel zu wenig Zeit lösen soll.. 
+</li><li> Das Team ist fantastisch und hoch motiviert, 
+</li><li> und die Arbeitsmoral hier sehr hoch. 
+</li><li> Um 16:30 verlässt niemand das Büro :) 
+</li><li> Und dir, wie geht es dir? 
+</li><li> Hast du dich in deinem neuen Job gut eingelebt? 
+</li><li> Alles Liebe 
+</li><li> Maria 
+<br /><br />= 99 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 26-----------------------------

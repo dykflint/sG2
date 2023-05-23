@@ -1,0 +1,1 @@
+const triggers = ['die Prüfung bestehen', 'durch die Fahrprüfung fallen', "sein (=one's) Auto verkaufen", 'heiraten', 'die Scheidung einreichen', 'sich zum Pastafarismus bekennen', 'seine Steuererklärung abgeben', 'das Problem ansprechen', 'mit dem Rauchen aufhören', 'die Operation überstehen'];

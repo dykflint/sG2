@@ -1,0 +1,76 @@
+-------------------- LESSON 44-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ein großer Vorteil / Nachteil ist XY. </strong>A great advantage / disadvantage is XY.
+</li><li><strong>Nicht so gut ist XY. </strong>Not so good is XY.
+</li><li><strong>Ein weiteres Argument für / gegen XY ist YZ. </strong>Another argument for / against XY is YZ.
+</li><li><strong>die Zeit einteilen </strong>to divide the time
+</li><li><strong>der Lernerfolg </strong>the learning success
+</li><li><strong>zeitlich flexibel sein </strong>to be flexible in terms of time
+</li><li><strong>Der Gruppenzwang fällt weg. </strong>The peer pressure is removed.
+</li><li><strong>Ich habe die Freiheit, zu XY. </strong>I have the freedom to XY.
+</li><li><strong>billiger / teurer sein als XY </strong>to be cheaper / more expensive than XY
+</li><li><strong>in der Gruppe </strong>in the group
+</li><li><strong>schneller abgelenkt sein </strong>to be distracted more quickly
+</li><li><strong>sehr zufrieden sein mit XY. </strong>to be very satisfied with XY.
+</li><li><strong>Meine Empfehlung ist XY. </strong>My recommendation is XY.
+</li><li><strong>Ich empfehle XY. </strong>I recommend XY.
+</li><li><strong>Ich kann jedem wärmstens empfehlen, XY zu tun. </strong>I highly recommend everyone to do XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> ich freue mich, 
+</li><li> dass du Deutsch lernen möchtest. 
+</li><li> Ein Deutschkurs in Deutschland kostet leider sehr viel Geld. 
+</li><li> Und da du nebenbei auch noch studierst, 
+</li><li> würde ich dir einen Onlinekurs empfehlen: 
+</li><li> Man kann sich besser als in der Gruppe konzentrieren, 
+</li><li> man ist nicht so schnell abgelenkt, 
+</li><li> und man kann sich die Zeit selber einteilen. 
+</li><li> Ich habe mich damals für den Onlinekurs von smarterGermans entschieden, 
+</li><li> weil er sehr günstig und qualitativ hochwertig ist. 
+</li><li> Und ich konnte mich schnell auf Deutsch unterhalten. 
+</li><li> Ich wünsche dir viel Vergnügen mit dem Deutsch lernen. 
+</li><li> Deutsch ist eine schrecklich schöne Sprache ;-) 
+</li><li> Alles Liebe 
+</li><li> Max 
+<br /><br />= 84 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 44-----------------------------

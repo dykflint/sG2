@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <title>Writing Tool</title>
+</head>
+<body>
+    <div class="container">
+        <div class="inputs-container">
+            <div class="input-field">
+                <label for="first">0. Familienname: </label>
+                <input type="text" id="first" name="first" readonly placeholder="Olivares Moreno" value="Olivares Moreno">
+            </div>
+            <div class="input-field">
+                <label for="second">1. Vorname(n):</label>
+                <input type="text" id="second" name="second">
+            </div>
+            <div class="input-field anzahl">
+                <label for="third">2. Geburtsdatum:</label>
+                <input type="text" id="third" name="third">
+            </div>
+            <div class="input-field">
+                <label for="fourth">3. Geburtsort: </label>
+                <input type="text" id="fourth" name="fourth">
+            </div>
+            <div class="input-field">
+                <label for="fifth">4. Gewünschtes Niveau: </label>
+                <div class="radio-field">
+                    <div class="top">
+                        <span class="radio1">
+                            <input type="radio" id="radio1" class="fifth" name="writing" value="A1">A1<br>
+                        </span>
+                        <span class="radio2">
+                            <input type="radio" id="radio2" class="fifth" name="writing" value="A2">A2<br>
+                        </span>
+                        <span class="radio3">
+                            <input type="radio" id="radio3" class="fifth" name="writing" value="B1">B1<br>
+                        </span>
+                        <span class="radio4">
+                            <input type="radio" id="radio4" class="fifth" name="writing" value="B2">B2<br>
+                        </span>
+                        <span class="radio5">
+                            <input type="radio" id="radio5" class="fifth" name="writing" value="C1">C1<br>
+                        </span>
+                    </div>
+                    <div class="bottom">
+                        <span class="radio6">
+                            <input type="radio" id="radio6" class="fifth" name="writing" value="Test DaF">Test DaF<br>
+                        </span>
+                        <span class="radio7">
+                            <input type="radio" id="radio7" class="fifth" name="writing" value="Integrationskurs (IK)">Integrationskurs (IK)<br>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="input-field">
+                <label for="sixth">5. Kursart:</label>
+                <div class="radio-field kursart">
+                    <span class="radio8">
+                        <input type="radio" id="radio8" class="sixth" name="kursart" value="Abendkurs">Abendkurs (1.5 UE/Woche, 6 UE/Monat<br>
+                    </span>
+                    <span class="radio9">
+                        <input type="radio" id="radio9" class="sixth" name="kursart" value="Wochenendkurs">Wochenendkurs (Sa, So, 24 UE insgesamt<br>
+                    </span>
+                    <span class="radio10">
+                        <input type="radio" id="radio10" class="sixth" name="kursart" value="Intensivkurs">Intensivkurs (100 UE)<br>
+                    </span>
+                </div>
+            </div>
+            <div class="input-field">
+                <label for="misc">Unterschrift:</label>
+                <input type="text" class="misc unterschrift" name="Istiklal Straße 121" 
+                value="Carmen Andreina Olivares Moreno" placeholder="Carmen Andreina Olivares Moreno">
+            </div>
+            <button class="check-button">Check</button>
+        </div>
+    </div>
+</body>
+<script src="solutions.js"></script>
+<script src="script.js"></script>
+</html>
+
+<!-- (0) 	Name, Vorname: Volodymyr Zelenskyy 
+Telefon: 0611 / 654 87 98
+Straße, Hausnummer:  Hauptstraße 21
+(1) 	Postleitzahl, Wohnort: 55246 
+(2)	Alter: 
+(3) 	Krankenkasse: 
+(4) 	Beruf: 
+	Seit wann krank? 11.11. 
+(5) 	Symptome?  -->

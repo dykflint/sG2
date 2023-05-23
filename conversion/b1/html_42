@@ -1,0 +1,71 @@
+-------------------- LESSON 42-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich bedaure sehr, dass ich XY. </strong>I am very sorry that I have to XY.
+</li><li><strong>Es tut mir leid, dass ich XY. </strong>I am sorry that I have to XY.
+</li><li><strong>Entschuldigen Sie bitte die Umstände, aber XY. </strong>I apologise for the inconvenience, but XY.
+</li><li><strong>den Termin absagen </strong>to cancel the appointment
+</li><li><strong>den Termin verschieben </strong>to postpone the appointment
+</li><li><strong>den Termin verlegen </strong>to reschedule the appointment
+</li><li><strong>mit Grippe im Bett liegen </strong>to stay in bed with flu
+</li><li><strong>krank sein </strong>to be ill
+</li><li><strong>Passt Ihnen XY? </strong>Does XY suit you?
+</li><li><strong>Wie wäre es am XY? </strong>How about XY?
+</li><li><strong>Ginge auch XY? </strong>Would XY also work?
+</li><li><strong>vielen Dank für Ihr Verständnis </strong>thank you for your understanding
+</li><li><strong>herzlichen Dank im Voraus für Ihr Verständnis </strong>thank you in advance for your understanding
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Herr Schmitz! 
+</li><li> Entschuldigen Sie bitte die Umstände, 
+</li><li> aber leider muss ich den Termin für das Elterngespräch morgen absagen. 
+</li><li> Ich bin plötzlich krank geworden, 
+</li><li> und liege mit Grippe im Bett. 
+</li><li> Können wir bitte einen Ersatztermin für nächste Woche vereinbaren? 
+</li><li> Ich könnte zum Beispiel am Dienstag und Donnerstag nach 14 Uhr. 
+</li><li> Passt es Ihnen auch? 
+</li><li> Ansonsten ginge es die Woche darauf an allen Tagen nach 13 Uhr. 
+</li><li> Ich bedaure es sehr, 
+</li><li> dass ich den Termin verschieben muss. 
+</li><li> Herzlichen Dank im Voraus für Ihr Verständnis 
+</li><li> Maria Mustermann 
+<br /><br />= 86 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 42-----------------------------

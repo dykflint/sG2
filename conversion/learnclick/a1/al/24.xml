@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wer könnte eine gute Einbrecherin sein?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wer könnte eine gute Einbrecherin sein?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Simone]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Frau Kaiser]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Stefans Schwester]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was hat Stefan im Keller gefunden?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was hat Stefan im Keller gefunden?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[zwei Hundehalsbänder]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Fix und Foxi]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[den Entführer (=the kidnapper)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was hängt an den Hundehalsbändern?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was hängt an den Hundehalsbändern?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[ein Herz aus Metall]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ein Herz aus Holz]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ein Herz aus Papier]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was ist auf dem Herz eingraviert?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was ist auf dem Herz eingraviert?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Fix und Foxi]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[das Gesicht der Möpse]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[“Angelo”]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

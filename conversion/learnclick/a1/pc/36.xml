@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wo waren die Näpfe von Fix und Foxi?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wo waren die Näpfe von Fix und Foxi?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[im Keller von Herrn Fischer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in der Gartenhütte (=shed)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[bei Herrn Müller]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wohin gehen Simone und Stefan?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[zu Herrn Müller]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[zu Herrn Fischer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[zu Herrn Meyer]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wo ist Herr Müller?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wo ist Herr Müller?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[in der Bibliothek Bücher abstauben (=undust)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[in der Küche Kuchen backen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[im Wohnzimmer Fernsehen schauen]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wer erzählt Herrn Müller die Neuigkeiten (=news)?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wer erzählt Herrn Müller die Neuigkeiten (=news)?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Simone tut das.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Stefan tut das.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Beide tun das zusammen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+
+#correct_answer span{
+    background-color: lightgreen;
+    font-size: 20px;
+}

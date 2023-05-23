@@ -1,0 +1,74 @@
+-------------------- LESSON 40-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das Interesse haben an der Wohnung </strong>to have interest in the flat
+</li><li><strong>Ist die Wohnung noch zu haben? </strong>Is the flat still available?
+</li><li><strong>Ist die Wohnung noch frei? </strong>Is the flat still available?
+</li><li><strong>sich für das Wohnungsinserat interessieren </strong>to be interested in the flat advertisement
+</li><li><strong>Verfügt die Wohnung über XY? </strong>Does the flat have XY?
+</li><li><strong>Zuwachs bekommen </strong>to have a child
+</li><li><strong>der Umzug </strong>the move
+</li><li><strong>die Besichtigung </strong>the viewing
+</li><li><strong>tierlieb </strong>animal-loving
+</li><li><strong>Tiere sind gestattet </strong>animals are allowed
+</li><li><strong>die monatlichen Nebenkosten </strong>the monthly service charges
+</li><li><strong>die anfallende Kaution </strong>the deposit to be paid
+</li><li><strong>Herzlichen Dank im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Wir danken Ihnen für XY. </strong>Thank you for XY.
+</li><li><strong>Sie können mich am besten unter XY erreichen. </strong>You can best reach me at XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Herr Schmitz, 
+</li><li> meine Frau und ich interessieren uns sehr für Ihre 3-Zimmer Wohnung. 
+</li><li> Wir wohnen seit 7 Jahren in München, 
+</li><li> und bekommen im Januar unser erstes Kind. 
+</li><li> Jetzt suchen wir eine größere Wohnung für uns und unseren Dackel Wolfgang. 
+</li><li> Es freut uns sehr, 
+</li><li> dass Sie Tiere mögen. 
+</li><li> Eine Frage haben wir noch: 
+</li><li> Wie hoch sind Nebenkosten und Kaution? 
+</li><li> Sie erreichen uns am besten unter meiner Handynummer: 0123456789. 
+</li><li> Wir danken Ihnen im Voraus für Ihre Mühen, 
+</li><li> und freuen uns auf eine eventuelle Besichtigung. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max & Maria Mustermann 
+<br /><br />= 91 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 40-----------------------------

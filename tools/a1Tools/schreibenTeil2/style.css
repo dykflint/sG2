@@ -1,0 +1,15 @@
+.wrap {
+    text-align: center;
+}
+.lesson-title {
+    text-align: center;
+    margin-top: 2.0rem;
+    margin-bottom: 1.0rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+select {
+    width: 200px;
+    font-size: 35px;
+    text-align: center;
+}

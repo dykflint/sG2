@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Auf welche Schulnote hofft Markus?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Auf welche Schulnote hofft Markus?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[auf eine Vier]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[auf eine Fünf]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[auf eine Eins]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie nennt Markus seinen Vater?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie nennt Markus seinen Vater?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Alter]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Junge]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Bruder]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wofür ist Cannabis nicht gut?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wofür ist Cannabis nicht gut?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[fürs Kurzzeitgedächtnis]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[für die Augen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[für die Haare]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was ist Karma?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was ist Karma?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[der Tod von Herr Liebig]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[der Name von Markus’ Hund]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[eine Modemarke aus Indien]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

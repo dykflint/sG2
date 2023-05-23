@@ -1,0 +1,12 @@
+let allTriggerAnswersJSON = `[
+{"Der Iltis stinkt. | riechen" : ["Ich rieche einen stinkenden Iltis.", "Ich sehe ein fahrendes Auto.", "Ich höre eine kreischende Säge", "Ich höre eine schmatzende Oma."],
+"Das Auto fährt. | sehen" : ["Ich sehe einen langsam fahrenden Zug.", "Ich höre einen klingelnden Wecker.", "Ich sehe einen brennenden Baum.", "Ich rieche ein stinkendes Parfum."],
+"Die Säge kreischt. | hören" : ["Ich höre einen piependen Feuermelder.", "Ich rieche eine duftende Pizza."],
+"Die Oma schmatzt. | hören" : [],
+"Der Zug fährt langsam. | sehen" : [],
+"Der Wecker klingelt. | hören" : [],
+"Der Baum brennt. | sehen" : [],
+"Das Parfüm stinkt. | riechen" : [],
+"Der Feuermelder piept. | hören" : [],
+"Die Pizza duftet. | riechen" : []}
+]`;

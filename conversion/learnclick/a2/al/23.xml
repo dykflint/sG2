@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was glaubt Simone?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was glaubt Simone?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[dass Markus nicht versteht, worum es geht]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[dass Markus der Mörder ist]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[dass Herr Liebig ein schlechter Lehrer war]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was war Herr Liebig für Markus?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was war Herr Liebig für Markus?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[ein entspannter Lehrer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ein strenger Lehrer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ein Vater]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was haben Markus und Herr Liebig immer gemacht?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was haben Markus und Herr Liebig immer gemacht?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[sich beömmelt (=to amuse, slang)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[gemeinsam Sport gemacht]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[einen Film geschaut]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Welche Farbe haben die Augen von Markus?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Welche Farbe haben die Augen von Markus?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Er hat rote Augen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er hat schwarze Augen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Er hat gelbe Augen.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

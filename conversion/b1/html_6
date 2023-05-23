@@ -1,0 +1,69 @@
+-------------------- LESSON 6-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Dank für XY. </strong>Thank you very much for XY.
+</li><li><strong>Ich freue mich sehr über XY. </strong>I am very happy about XY.
+</li><li><strong>Die Vorfreude ist groß. </strong>The anticipation is great.
+</li><li><strong>der Ausflug </strong>the excursion
+</li><li><strong>die Zusage </strong>the confirmation
+</li><li><strong>die Weinprobe </strong>the wine tasting
+</li><li><strong>Hiermit möchte ich gerne zusagen. </strong>Herewith I would like to confirm (that I am joining).
+</li><li><strong>Leider schaffe ich es nicht zum/zur XY. </strong>Unfortunately, I will not be able to make it to XY.
+</li><li><strong>Es tut mir leid, aber ich bin verhindert. </strong>I am sorry, but I am unavailable.
+</li><li><strong>der Firmenbesuch </strong>the company visit
+</li><li><strong>die Anschrift </strong>the address
+</li><li><strong>Ich wollte mich erkundigen, ob XY. </strong>I wanted to enquire whether XY.
+</li><li><strong>Wo findet XY statt? </strong>Where will the XY take place?
+</li><li><strong>Im Voraus Dank für Ihre Mühen / Ihre Organisation. </strong>Thank you in advance for your efforts / organisation.
+</li><li><strong>Mit besten Grüßen </strong>With best regards
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Angelika, 
+</li><li> herzlichen Dank für die tolle Organisation! 
+</li><li> Leider kann ich an der Kanufahrt nicht teilnehmen, 
+</li><li> weil ich noch ausländische Firmenbesuch aus Kopenhagen zu Besuch habe. 
+</li><li> Aber zur Weinprobe schaffe ich es! 
+</li><li> Schickst du mir noch die Anschrift, wo die Weinprobe stattfindet? 
+</li><li> Dann komme ich direkt dorthin. 
+</li><li> Im Voraus lieben Dank für deine Mühen. 
+</li><li> Michaela 
+<br /><br />= 55 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 6-----------------------------

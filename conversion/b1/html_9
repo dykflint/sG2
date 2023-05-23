@@ -1,0 +1,69 @@
+-------------------- LESSON 9-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Könntest du mir einen Gefallen tun / helfen? </strong>Could you do me a favour / help me?
+</li><li><strong>Ich habe es nicht mehr geschafft, XY zu tun. </strong>I haven't managed to do XY.
+</li><li><strong>auf dem Weg sein </strong>be on my way
+</li><li><strong>plötzlich </strong>suddenly
+</li><li><strong>überraschend </strong>surprisingly
+</li><li><strong>Ich musste plötzlich / überraschend verreisen. </strong>I had to go away suddenly / surprisingly.
+</li><li><strong>Ich bin spätestens am XY zurück </strong>I will be back by XY at the latest
+</li><li><strong>die Wohnung aufräumen </strong>tidy the flat
+</li><li><strong>die Blumen gießen </strong>water the flowers
+</li><li><strong>das Geschirr spülen </strong>
+</li><li><strong> </strong>den Kater füttern
+</li><li><strong>feed the cat </strong>Du bist ein Schatz.
+</li><li><strong>You are a treasure. </strong>Danke für XY.
+</li><li><strong>Thank you for XY. </strong></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Pedro, 
+</li><li> meine Schwester hat heute Morgen ihr Baby bekommen. 
+</li><li> Ich bin jetzt auf dem Weg nach Hamburg, 
+</li><li> und habe die Wohnung etwas chaotisch hinterlassen. 
+</li><li> Könntest du bitte für mich die Spülmaschine einräumen, 
+</li><li> die Wäsche aufhängen, 
+</li><li> und Kater Momo füttern? 
+</li><li> Ganz lieben Dank. 
+</li><li> Du bist ein Schatz. 
+</li><li> Bussi 
+</li><li> Maria 
+<br /><br />= 49 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 9-----------------------------

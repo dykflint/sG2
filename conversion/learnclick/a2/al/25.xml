@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum ist der Tod von Herr Liebig Karma?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum ist der Tod von Herr Liebig Karma?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[weil Markus im Test durchgefallen (=failed) ist]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil er im Unterricht einen Tee getrunken hat]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil Markus ihn nicht mochte]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was hat Markus nie gemacht?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was hat Markus nie gemacht?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Herrn Liebig bei der Schulleitung angeschwärzt]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[eine gute Note bekommen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[sein Handy aus den Augen gelassen (=left out of sight)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Worin hat sich Markus getäuscht (=was wrong about)?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Worin hat sich Markus getäuscht (=was wrong about)?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[dass er und Herr Liebig Freunde waren]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[dass er beim Test die beste Note bekommt]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[dass er Astronaut werden kann]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was kann Simone  am Ende nicht mehr tun?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was kann Simone  am Ende nicht mehr tun?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[sich das verwirrte Gerede von Markus anhören]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[aufhören Markus zuzuhören]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[auf den Beinen stehen]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

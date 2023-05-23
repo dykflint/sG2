@@ -1,0 +1,73 @@
+-------------------- LESSON 25-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich könnte deine Hilfe gebrauchen. </strong>I could use your help.
+</li><li><strong>Könntest du mir helfen? </strong>Could you help me?
+</li><li><strong>eine Bitte haben </strong>to have a request
+</li><li><strong>um Hilfe bitten </strong>to ask for help
+</li><li><strong>Was würdest du tun? </strong>What would you do?
+</li><li><strong>Wo würdest du inserieren? </strong>Where would you advertise?
+</li><li><strong>Was rätst du mir? </strong>I would recommend that you do XY.
+</li><li><strong>Was empfiehlst du mir? </strong>My recommendation would be to do XY.
+</li><li><strong>eine Anzeige aufgeben </strong>to place an ad
+</li><li><strong>das soziale Netzwerk einschalten </strong>to use the social network
+</li><li><strong>ein Zimmer in einer WG (=Wohngemeinschaft) </strong>to get a room in a shared flat (WG = Wohngemeinschaft)
+</li><li><strong>nicht aufgeben </strong>to not give up
+</li><li><strong>immer positiv bleiben </strong>to always stay positive
+</li><li><strong>Liebe Grüße </strong>Kind regards
+</li><li><strong>Alles Liebe </strong>Warm wishes
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> ich möchte nächstes Jahr nach Deutschland ziehen, 
+</li><li> und habe ein paar Fragen an dich. 
+</li><li> Kannst du mir vielleicht eine Stadt empfehlen? 
+</li><li> Ist es schwer eine Wohnung in Deutschland zu finden? 
+</li><li> Und was muss ich beachten, wenn ich eine Wohnung suche? 
+</li><li> Ich suche natürlich auch eine Arbeit. 
+</li><li> Glaubst du, ich kann in meinem Beruf schnell eine Arbeitsstelle finden? 
+</li><li> Ich wäre dir für Deine Hilfe sehr dankbar. 
+</li><li> Und wenn ich dann in Deutschland bin, 
+</li><li> würde ich mich sehr über ein Wiedersehen mit dir freuen. 
+</li><li> Lieben Gruß 
+</li><li> Max 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 25-----------------------------

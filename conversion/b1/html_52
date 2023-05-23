@@ -1,0 +1,73 @@
+-------------------- LESSON 52-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Wahrheit sprechen </strong>to speak the truth
+</li><li><strong>eine kleine Notlüge </strong>a little white lie
+</li><li><strong>das Trostpflaster </strong>the consolation
+</li><li><strong>innerhalb kürzester Zeit </strong>within the shortest time
+</li><li><strong>aus Angst </strong>out of fear
+</li><li><strong>aus Scham </strong>out of shame
+</li><li><strong>Ich möchte besser dastehen. </strong>I want to look better.
+</li><li><strong>Ich möchte dich nicht enttäuschen. </strong>I don't want to disappoint you.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion, XY.
+</li><li><strong>Viel wichtiger finde ich, XY. </strong>More importantly, in my opinion, XY.
+</li><li><strong>außerdem </strong>also
+</li><li><strong>Ich persönlich finde, dass XY. </strong>Personally, I think XY.
+</li><li><strong>Was mich betrifft XY. </strong>As far as I am concerned XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Stellen Sie sich vor, ich würde immer die Wahrheit sprechen! 
+</li><li> Ich bin mir sicher, 
+</li><li> dass ich innerhalb kurzer Zeit keine Freunde mehr hätte. 
+</li><li> Viel interessanter finde ich, 
+</li><li> warum man lügt: 
+</li><li> Lüge ich aus Scham, aus Angst vor einem Konflikt, 
+</li><li> oder weil ich besser dastehen möchte? 
+</li><li> Oder lüge ich, 
+</li><li> weil ich den anderen nicht verletzen möchte? 
+</li><li> Das finde ich nämlich sehr verständlich. 
+</li><li> Und wenn mich jemand belügt, 
+</li><li> dann denke ich mir immer: 
+</li><li> “Wer lügt, hat zumindest die Wahrheit gedacht.” 
+</li><li> Das ist doch ein kleines Trostpflaster, oder? 
+<br /><br />= 85 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 52-----------------------------

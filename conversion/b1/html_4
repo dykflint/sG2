@@ -1,0 +1,68 @@
+-------------------- LESSON 4-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich bin in XY geboren. </strong>I was born in XY.
+</li><li><strong>Meine Heimatstadt ist XY. </strong>My hometown is XY.
+</li><li><strong>die Kleinstadt </strong>the small town
+</li><li><strong>die Großstadt </strong>the big city
+</li><li><strong>auf dem Dorf aufwachsen </strong>to grow up in the village
+</li><li><strong>in der Stadt groß werden </strong>to grow up in the city
+</li><li><strong>in der Großstadt aufwachsen </strong>to grow up in the big city
+</li><li><strong>auf einem Bauernhof groß werden </strong>to grow up on a farm
+</li><li><strong>auf dem Land aufwachsen </strong>to grow up on the countryside
+</li><li><strong>in der Natur groß werden </strong>to grow up in the nature
+</li><li><strong>in einem Mietshaus aufwachsen </strong>to grow up in an apartment building
+</li><li><strong>viele Autos </strong>many cars
+</li><li><strong>Ich bin naturverbunden </strong>I am nature loving.
+</li><li><strong>Ich brauche XY zum Leben. </strong>I need XY for life.
+</li><li><strong>Heimat bedeutet XY für mich. </strong>Home means XY to me.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich heiße Ömer Bayram. 
+</li><li> Ich bin in Ankara geboren, 
+</li><li> in Istanbul aufgewachsen, 
+</li><li> und dort zur Schule gegangen. 
+</li><li> Das türkische Essen ist sehr abwechslungsreich. 
+</li><li> Mein Lieblingsgericht sind gefüllte Weinblätter mit Hackfleisch und Reis. 
+</li><li> Hier in Berlin schmecken sie gut, 
+</li><li> aber die von meiner Mutter sind die besten. 
+<br /><br />= 48 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 4-----------------------------

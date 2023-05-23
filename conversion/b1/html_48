@@ -1,0 +1,70 @@
+-------------------- LESSON 48-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>ein spannendes Thema </strong>an exciting topic
+</li><li><strong>die genderfreie Toilette </strong>the gender-free toilet
+</li><li><strong>das gendergerechte Schreiben </strong>gender-responsive writing
+</li><li><strong>transgender </strong>transgender
+</li><li><strong>intergeschlechtlich </strong>intergender
+</li><li><strong>Witze machen </strong>to make jokes
+</li><li><strong>das Thema ins Lächerliche ziehen </strong>to make fun of the topic
+</li><li><strong>die Spitze vom Eisberg sein </strong>to be the tip of the iceberg
+</li><li><strong>In beiden Fällen handelt es sich um XY. </strong>In both cases, it is XY.
+</li><li><strong>in der Minderheit sein </strong>to be in the minority
+</li><li><strong>die gleichen Rechte bekommen </strong>to get the same rights
+</li><li><strong>der erste Schritt in die richtige Richtung </strong>the first step in the right direction
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Das ist ein hoch brisantes Thema. </strong>This is a highly charged issue.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Das Thema genderfreie Toilette ist super spannend. 
+</li><li> In meinem Freundeskreis denken viele, 
+</li><li> dass die Diskussion von genderfreien Toiletten ein Luxusproblem ist, 
+</li><li> genauso wie das gendergerechte Schreiben. 
+</li><li> Man macht Witze und zieht das Thema ins Lächerliche. 
+</li><li> Meines Erachtens ist die Diskussion aber nur die Spitze vom Eisberg. 
+</li><li> Ob transgender oder intergeschlechtlch - 
+</li><li> in beiden Fällen handelt es sich um Minderheiten. 
+</li><li> Und im 21. Jahrhundert sollte jede Minderheit die gleichen Recht bekommen! 
+</li><li> Eine unisex Toilette ist meiner Meinung der erste kleine Schritt in die richtige Richtung, 
+<br /><br />= 82 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 48-----------------------------

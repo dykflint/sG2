@@ -1,0 +1,72 @@
+-------------------- LESSON 53-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die autofreie Innenstadt </strong>the car-free city centre
+</li><li><strong>die verkehrsberuhigte Zone </strong>the traffic-calmed zone
+</li><li><strong>der Personennahverkehr </strong>the local public transport
+</li><li><strong>der Widerstand </strong>the resistance
+</li><li><strong>die Luftverschmutzung </strong>air pollution
+</li><li><strong>die Umweltverschmutzung </strong>environmental pollution
+</li><li><strong>die gesundheitlichen Schäden </strong>damage to health
+</li><li><strong>der Unfall </strong>the accident
+</li><li><strong>gratis </strong>for free
+</li><li><strong>umsonst </strong>for free
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Ich denke, dass XY. </strong>I think XY.
+</li><li><strong>Am Ende sagen alle XY. </strong>In the end, everyone says XY.
+</li><li><strong>Wie kann es sein, dass XY? </strong>How is it possible that XY?
+</li><li><strong>Wie ist es nur möglich, dass XY? </strong>How is it possible that XY?
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Wie ist es nur möglich, 
+</li><li> dass im 21. Jahrhundert noch immer halbleere Autos durch die Städte fahren? 
+</li><li> Meiner Meinung nach sollten Bus, Straßenbahn und U-Bahn gratis, 
+</li><li> und alle Innenstädte autofrei sein. 
+</li><li> Erst wird es viel Widerstand geben. 
+</li><li> Aber danach werden fast alle froh sein, 
+</li><li> dass die Luft besser ist, 
+</li><li> dass man viel entspannter mit dem Rad fahren kann, 
+</li><li> dass es ruhiger in den Städten ist, 
+</li><li> und dass es weniger Unfälle gibt. 
+</li><li> Am Ende werden sich alle fragen: 
+</li><li> Warum haben wir das nicht schon viel früher gemacht? 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 53-----------------------------

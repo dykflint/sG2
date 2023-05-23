@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Woher kommt das Geräusch, dass Simone hört?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Woher kommt das Geräusch, dass Simone hört?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[aus der Nachbarkabine]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[aus dem Chemielabor]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[aus dem Waschbecken (=sink)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Simone vorsichtig?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Simone vorsichtig?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[sich heranschleichen (=sneak up)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weglaufen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[stehen bleiben (=stay put)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was ist das Geräusch?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was ist das Geräusch?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[eine Mädchenstimme]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[eine tickende Bombe]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[die Toilettenspülung]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht das Mädchen?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht das Mädchen?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[telefonieren]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[kacken (=to poo)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[eine Serie schauen]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

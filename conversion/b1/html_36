@@ -1,0 +1,73 @@
+-------------------- LESSON 36-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich habe großes Interesse für XY. </strong>I am very interested in XY.
+</li><li><strong>Ich interessiere mich sehr für Ihr Angebot. </strong>I am very interested in your offer.
+</li><li><strong>Ich suche / brauche Hilfe. </strong>I am looking for / need help.
+</li><li><strong>die verschlechterte Situation </strong>the worsened situation
+</li><li><strong>die große Herausforderung </strong>the big challenge
+</li><li><strong>Ich schaffe es nicht mehr. </strong>I can't manage it any more.
+</li><li><strong>Ich bin am Ende meiner Kräfte. </strong>I am at the end of my tether.
+</li><li><strong>Ich kann mich nicht mehr motivieren. </strong>I can't motivate myself any more.
+</li><li><strong>Ich habe es mit XY probiert, aber es hilft nicht. </strong>I have tried XY, but it doesn't help.
+</li><li><strong>eine Termin vereinbaren </strong>to make an appointment
+</li><li><strong>eine Probestunde machen </strong>to take a trial lesson
+</li><li><strong>Wird der Kurs von XY übernommen / bezahlt? </strong>Is the course covered / paid for by XY?
+</li><li><strong>die Gesundheitskasse </strong>the health insurance company
+</li><li><strong>Vielen Dank im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Ich danke Ihnen im Voraus für XY. </strong>Thank you in advance for XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Damen und Herren, 
+</li><li> ich habe mit großem Interesse Ihre Anzeige gelesen, 
+</li><li> und suche tatsächlich Hilfe. 
+</li><li> Durch Corona hat sich die Situation für mich verschlechtert. 
+</li><li> Zum Home-Office kommt die Schulbetreuung von unseren Kindern hinzu. 
+</li><li> Das ist für meinen Mann und mich eine große Herausforderung. 
+</li><li> Ich habe es mit Yoga und Meditation probiert, 
+</li><li> aber kann mich alleine nicht mehr motivieren. 
+</li><li> Ich würde sehr gerne einen Termin für eine Probestunde vereinbaren. 
+</li><li> Eine praktische Frage: 
+</li><li> Wird der Kurs von der Gesundheitskasse bezahlt? 
+</li><li> Herzlichen Dank im Voraus für die Information 
+</li><li> Susanne Stress 
+<br /><br />= 89 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 36-----------------------------

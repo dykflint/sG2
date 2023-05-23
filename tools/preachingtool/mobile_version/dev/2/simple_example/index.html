@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Speech-to-Text Example</title>
+</head>
+<body>
+    <h1>Speech-to-Text Example</h1>
+
+    <button onclick="startRecording()">Start Recording</button>
+    <button onclick="stopRecording()">Stop Recording</button>
+    <div id="output"></div>
+
+    <script>
+        let recognition;
+        let isRecording = false;
+
+        function startRecording() {
+            if (!('webkitSpeechRecognition' in window)) {
+                alert("Speech recognition is not supported by this browser.");
+                return;
+            }
+
+            if (isRecording) {
+                alert("Already recording.");
+                return;
+            }
+
+            recognition = new webkitSpeechRecognition();
+            recognition.continuous = true;
+            recognition.interimResults = false;
+
+            recognition.onstart = function () {
+                isRecording = true;
+                console.log("Recording started.");
+            };
+
+            recognition.onerror = function (event) {
+                console.error("Error during recording: ", event.error);
+            };
+
+            recognition.onresult = function (event) {
+                const transcript = event.results[event.results.length - 1][0].transcript;
+                console.log("Transcript: ", transcript);
+
+                // Display the transcript
+                const outputDiv = document.getElementById("output");
+                outputDiv.innerText += transcript + " ";
+            };
+
+            recognition.start();
+        }
+
+        function stopRecording() {
+            if (!isRecording) {
+                alert("Not recording.");
+                return;
+            }
+            recognition.stop();
+            isRecording = false;
+            console.log("Recording stopped.");
+        }
+
+        // function loadGoogleAPI() {
+        //     const script = document.createElement('script');
+        //     script.src = 'https://www.google.com/speech-to-text/docs/reference/rest/v1/RecognitionAudio?key=' + apiKey;
+        //     document.head.appendChild(script);
+        // }
+
+        // window.addEventListener('load', loadGoogleAPI);
+    </script>
+</body>
+</html>

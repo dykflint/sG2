@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf8">
+    <style>
+        table.lid, tr.lid, td.lid {
+            border: 2px solid #A25772;
+            border-radius: 10px;
+            background-color: #FFF9F6;        }
+        table.lid {
+            border: 5px solid #A25772;
+        }
+        #correct_answer span {
+            background-color: #BBE4DA;
+        }
+        td.lid {
+            margin: auto;
+            padding: 10px;
+            padding-left: 15px;
+        }
+        #lidquestionnumber {
+            font-size: 30px;
+        }
+        div.lid {
+            width: 50%;
+            margin: auto;
+        }
+    </style>
+</head>
+<body class="lid">
+    <div class="lid">
+        <table class="lid">
+            <colgroup>
+                <col>
+                <col>
+                <col>
+            </colgroup>
+            <body class="lid">
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">1                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil …</p>
+                        <ul>
+                            <li> hier Religionsfreiheit gilt.</li><br>
+                            <li> die Menschen Steuern zahlen.</li><br>
+                            <li> die Menschen das Wahlrecht haben.</li><br>
+<li id="correct_answer"> <span> &#10004; hier Meinungsfreiheit gilt. </span></li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>In Germany people are allowed to say something openly against the government because ...</p>
+                        <ul>
+                            <li> here religious freedom applies.</li><br>
+                            <li> people pay taxes.</li><br>
+                            <li> people have the right to vote.</li><br>
+<li id="correct_answer"> <span> &#10004; Freedom of expression applies here. </span></li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">2                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …</p>
+                        <ul>
+                            <li> Geschichtsunterricht teilnimmt.</li><br>
+<li id="correct_answer"> <span> &#10004; Religionsunterricht teilnimmt. </span></li><br>
+                            <li> Politikunterricht teilnimmt.</li><br>
+                            <li> Sprachunterricht teilnimmt.</li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>In Germany, parents up to the age of 14 can decide whether their child should go to school on ...</p>
+                        <ul>
+                            <li> History class is taking part.</li><br>
+<li id="correct_answer"> <span> &#10004; Religious education is taking part. </span></li><br>
+                            <li> Politics class participates.</li><br>
+                            <li> Language lessons participate.</li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">3                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Deutschland ist ein Rechtsstaat. Was ist damit gemeint?</p>
+                        <ul>
+<li id="correct_answer"> <span> &#10004; Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten. </span></li><br>
+                            <li> Der Staat muss sich nicht an die Gesetze halten.</li><br>
+                            <li> Nur Deutsche müssen die Gesetze befolgen.</li><br>
+                            <li> Die Gerichte machen die Gesetze.</li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>Germany is a constitutional state. What do you mean with that?</p>
+                        <ul>
+<li id="correct_answer"> <span> &#10004; All residents and the state must obey the law. </span></li><br>
+                            <li> The state does not have to obey the law.</li><br>
+                            <li> Only Germans have to obey the law.</li><br>
+                            <li> The courts make the laws.</li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">4                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Welches Recht gehört zu den Grundrechten in Deutschland?</p>
+                        <ul>
+                            <li> Waffenbesitz</li><br>
+                            <li> Faustrecht</li><br>
+<li id="correct_answer"> <span> &#10004; Meinungsfreiheit </span></li><br>
+                            <li> Selbstjustiz</li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>Which right is one of the fundamental rights in Germany?</p>
+                        <ul>
+                            <li> Gun ownership</li><br>
+                            <li> right of thumb</li><br>
+<li id="correct_answer"> <span> &#10004; Freedom of expression </span></li><br>
+                            <li> vigilante justice</li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">5                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Wahlen in Deutschland sind frei. Was bedeutet das?</p>
+                        <ul>
+                            <li> Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.</li><br>
+<li id="correct_answer"> <span> &#10004; Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben. </span></li><br>
+                            <li> Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.</li><br>
+                            <li> Alle wahlberechtigten Personen müssen wählen.</li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>Elections in Germany are free. What does that mean?</p>
+                        <ul>
+                            <li> You can accept money if you choose a specific candidate for it.</li><br>
+<li id="correct_answer"> <span> &#10004; The voter must not be influenced during the election, nor forced to cast a particular vote, and must not suffer any disadvantages as a result of the election. </span></li><br>
+                            <li> Only people who have never been in prison are allowed to vote.</li><br>
+                            <li> All eligible voters must vote.</li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">6                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Wie heißt die deutsche Verfassung?</p>
+                        <ul>
+                            <li> Volksgesetz</li><br>
+                            <li> Bundesgesetz</li><br>
+                            <li> Deutsches Gesetz</li><br>
+<li id="correct_answer"> <span> &#10004; Grundgesetz </span></li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>What is the german constitution called?</p>
+                        <ul>
+                            <li> People's Law</li><br>
+                            <li> federal law</li><br>
+                            <li> German law</li><br>
+<li id="correct_answer"> <span> &#10004; Basic Law </span></li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">7                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …</p>
+                        <ul>
+<li id="correct_answer"> <span> &#10004; Glaubens und Gewissensfreiheit </span></li><br>
+                            <li> Unterhaltung</li><br>
+                            <li> Arbeit</li><br>
+                            <li> Wohnung</li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>Which right is one of the basic rights guaranteed by the German constitution? The right to …</p>
+                        <ul>
+<li id="correct_answer"> <span> &#10004; Freedom of belief and conscience </span></li><br>
+                            <li> Entertainment</li><br>
+                            <li> Work</li><br>
+                            <li> Apartment</li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">8                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Was steht nicht im Grundgesetz von Deutschland?</p>
+                        <ul>
+                            <li> Die Würde des Menschen ist unantastbar.</li><br>
+<li id="correct_answer"> <span> &#10004; Alle sollen gleich viel Geld haben. </span></li><br>
+                            <li> Jeder Mensch darf seine Meinung sagen.</li><br>
+                            <li> Alle sind vor dem Gesetz gleich.</li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>What is not in the Basic Law of Germany?</p>
+                        <ul>
+                            <li> Human dignity is inviolable.</li><br>
+<li id="correct_answer"> <span> &#10004; Everyone should have the same amount of money. </span></li><br>
+                            <li> Everyone is allowed to express their opinion.</li><br>
+                            <li> All are equal before the law.</li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">9                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Welches Grundrecht gilt in Deutschland nur für Ausländer / Ausländerinnen? Das Grundrecht auf …</p>
+                        <ul>
+                            <li> Schutz der Familie</li><br>
+                            <li> Menschenwürde</li><br>
+<li id="correct_answer"> <span> &#10004; Asyl </span></li><br>
+                            <li> Meinungsfreiheit</li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>Which basic right only applies to foreigners in Germany? The fundamental right to...</p>
+                        <ul>
+                            <li> Protection of the family</li><br>
+                            <li> Human dignity</li><br>
+<li id="correct_answer"> <span> &#10004; Asylum </span></li><br>
+                            <li> Freedom of speech</li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+                <tr class="lid">
+                    <td class="lid">
+                        <p class="lid" id="lidquestionnumber">10                        </p>
+                    </td>
+                    <td class="lid">
+                        <p>Was ist mit dem deutschen Grundgesetz vereinbar?</p>
+                        <ul>
+                            <li> die Prügelstrafe</li><br>
+                            <li> die Folter</li><br>
+                            <li> die Todesstrafe</li><br>
+<li id="correct_answer"> <span> &#10004; die Geldstrafe </span></li><br>
+                        </ul><br>
+                    </td>
+                    <td class="lid">
+                        <p>What is compatible with the German Basic Law?</p>
+                        <ul>
+                            <li> the corporal punishment</li><br>
+                            <li> the torture</li><br>
+                            <li> the death penalty</li><br>
+<li id="correct_answer"> <span> &#10004; the fine </span></li><br>
+                        </ul><br>
+                    </td>
+                </tr>
+            </body>
+        </table>
+    </div>
+</body>
+</html>

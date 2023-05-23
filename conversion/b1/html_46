@@ -1,0 +1,70 @@
+-------------------- LESSON 46-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die 6-Stunden-Arbeitswoche </strong>the 6-hour working week
+</li><li><strong>die Abschaffung der 40-Stunden-Woche </strong>the abolition of the 40-hour week
+</li><li><strong>der gleichbleibende Lohn </strong>the constant wage
+</li><li><strong>sich konzentrieren auf XY </strong>to concentrate on XY
+</li><li><strong>die Konzentrationsfähigkeit sinkt / steigt </strong>the ability to concentrate decreases / increases
+</li><li><strong>Im Durchschnitt ist man XY Stunden produktiv. </strong>On average, one is productive for XY hours.
+</li><li><strong>leistungsfähig </strong>productive
+</li><li><strong>die Leistungsfähigkeit </strong>the ability to perform
+</li><li><strong>Die meiste Zeit lenkt man sich ab. </strong>Most of the time one is distracted.
+</li><li><strong>sich auf eine neue Stelle bewerben </strong>to apply for a new job
+</li><li><strong>die Steuererklärung machen </strong>to do the tax return
+</li><li><strong>Das ist eine tolle Idee! </strong>That's a great idea!
+</li><li><strong>Ich kann mir gut vorstellen, dass XY. </strong>I can well imagine XY.
+</li><li><strong>Das ist nur sinnvoll, wenn XY. </strong>That only makes sense if XY.
+</li><li><strong>Ich persönlich finde XY. </strong>Personally, I think XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich begrüße den 6-Stunden-Arbeitstag! 
+</li><li> Psychologisch gesehen weiß man doch schon lange, 
+</li><li> dass man sich nicht 8 Stunden am Stück konzentrieren kann. 
+</li><li> Eine Studie in England hat gezeigt, 
+</li><li> dass man im Durchschnitt knapp 3 Stunden produktiv ist. 
+</li><li> In der übrigen Zeit lenkt man sich ab, zum Beispiel: 
+</li><li> mit Gesprächen, mit social Media, zum Kaffeeautomaten gehen, die Steuererklärung machen, sich um einen neuen Job bewerben, etc. 
+</li><li> Dieses Experiment ist jedoch nur sinnvoll, wenn man auch dasselbe Gehalt bekommt. 
+</li><li> Das einzige Problem ist dann nur: 
+</li><li> Wo mach ich denn in Zukunft meine Steuererklärung? 
+<br /><br />= 89 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 46-----------------------------

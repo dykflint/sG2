@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <title>Writing Tool</title>
+</head>
+<body>
+    <div class="container">
+        <div class="inputs-container">
+            <div class="input-field">
+                <label for="first">1. Name, Vorname des Kindes: </label>
+                <input type="text" id="first" name="first">
+            </div>
+            <div class="input-field">
+                <label for="misc">Name, Vorname eines Erziehungsberechtigten (Vater oder Mutter):</label>
+                <input type="text" class="misc" name="misc" placeholder="Selmanovic, Slatko" value="Selmanovic, Slatko">
+            </div>
+            <div class="input-field">
+                <label for="misc">Straße, Hausnummer:</label>
+                <input type="text" class="misc" name="misc" placeholder="Monumentenstraße 17" value="Monumentenstraße 17">
+            </div>
+            <div class="input-field">
+                <label for="second">2. Telefon:</label>
+                <input type="text" id="second" name="second">
+            </div>
+            <div class="input-field">
+                <label for="third">3. Gewünschte(r) Trainingstag(e):</label>
+                <div class="radio-field">
+                    <span class="radio1">
+                        <input type="radio" id="radio1" class="third" name="writing" value="Montag">Montag<br>
+                    </span>
+                    <span class="radio2">
+                        <input type="radio" id="radio2" class="third" name="writing" value="Freitag">Freitag<br>
+                    </span>
+                </div>
+            </div>
+            <div class="input-field">
+                <label for="fourth">4. Alter: </label>
+                <input type="text" id="fourth" class="fourth" name="fourth">
+            </div>
+            <div class="input-field">
+                <label for="fifth">Zahlung: </label>
+                <div class="radio-field">
+                    <span class="radio3">
+                        <input type="radio" id="radio3" class="fifth" name="fifth" value="bar">bar<br>
+                    </span>
+                    <span class="radio4">
+                        <input type="radio" id="radio4" class="fifth" name="fifth" value="PayPal">PayPal<br>
+                    </span>
+                    <span class="radio5">
+                        <input type="radio" id="radio5" class="fifth" name="fifth" value="Bankeinzug">Bankeinzug<br>
+                    </span>
+                </div>
+            </div>
+            <div class="input-field">
+                <label for="misc">Ort, Datum:</label>
+                <input type="text" class="misc" placeholder="Appelhülsen ,14.11.2022" value="Appelhülsen ,14.11.2022">
+            </div>
+            <div class="input-field">
+                <label for="misc">Unterschrift:</label>
+                <input type="text" class="misc unterschrift" 
+                value="Slatko Selmanovic" placeholder="Slatko Selmanovic">
+            </div>
+            <button class="check-button">Check</button>
+        </div>
+    </div>
+</body>
+<script src="solutions.js"></script>
+<script src="script.js"></script>
+</html>
+
+<!-- (0) 	Name, Vorname: Volodymyr Zelenskyy 
+Telefon: 0611 / 654 87 98
+Straße, Hausnummer:  Hauptstraße 21
+(1) 	Postleitzahl, Wohnort: 55246 
+(2)	Alter: 
+(3) 	Krankenkasse: 
+(4) 	Beruf: 
+	Seit wann krank? 11.11. 
+(5) 	Symptome?  -->

@@ -1,0 +1,1 @@
+const triggers = ['sich gewöhnen an + Akk. | er', 'sich interessieren für + Akk. | sie', 'sich kümmern um + Akk. | er', 'sich erinnern an + Akk. | sie', 'sich ärgern über + Akk. | er', 'sich entscheiden gegen + Akk. | sie', 'sich freuen über + Akk. | er', 'sich verlieben in + Akk. | sie', 'sich verlassen auf + Akk. | er', 'sich aufregen über + Akk. | sie'];

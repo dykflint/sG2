@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Button Design</title>
+        <meta charset="utf-8">
+        <style>
+            #csbutton {
+                border-radius: 5px;
+                background-color: #FF6999;
+                font-style: "Roboto", sans-serif;
+            }
+        </style>
+        <script>
+            function setLink(link){
+                document.write(`window.open(${link}),'_blank')`)
+            }
+        </script>
+    </head>
+
+    <body>
+        <button onclick="window.open('https://www.google.com','_blank')" id="csbutton" type="button" target="_blank">GOOGLE</button>
+        <a class="btn btn-success" href="https://www.google.com" target="_blank" style="background-color: red;">Google</a>
+    </body>
+</html>

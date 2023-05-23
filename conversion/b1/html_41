@@ -1,0 +1,74 @@
+-------------------- LESSON 41-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Anzeige </strong>the advertisement
+</li><li><strong>Mit großem Interesse habe ich Ihre Anzeige gelesen. </strong>I read your advertisement with great interest.
+</li><li><strong>Ich möchte mich gerne vorstellen. </strong>I would like to introduce myself.
+</li><li><strong>viel Erfahrung haben </strong>to have a lot of experience
+</li><li><strong>über viel Erfahrung verfügen </strong>to have a lot of experience
+</li><li><strong>Erziehungswissenschaften studieren </strong>to study educational science
+</li><li><strong>regelmäßig auf Kinder aufpassen </strong>to look after children regularly
+</li><li><strong>Meine Lohnvorstellungen sind XY Euro pro Stunde. </strong>My wage expectations are XY euros per hour.
+</li><li><strong>Normalerweise nehme ich zwischen XY und XY Euro pro Stunde. </strong>I usually charge between XY and XY euros per hour.
+</li><li><strong>Üblich sind XY Euro pro Stunde. </strong>Usual are XY Euro per hour.
+</li><li><strong>bei Interesse </strong>if you are interested
+</li><li><strong>einen Termin vereinbaren </strong>to make an appointment
+</li><li><strong>Ich bin telefonisch unter XY erreichbar. </strong>I can best be reached by phone at XY.
+</li><li><strong>Ich freue mich auf XY. </strong>I am looking forward to XY.
+</li><li><strong>Ich freue mich, von Ihnen zu hören. </strong>I look forward to hearing from you.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Familie Klein, 
+</li><li> ich habe Ihre Anzeige im Babysitter Portal gelesen, 
+</li><li> und möchte mich vorstellen. 
+</li><li> Ich heiße Nena Nanny, 
+</li><li> ich bin 23 Jahre alt und gelernte Erzieherin. 
+</li><li> Außerdem studiere ich Erziehungswissenschaften an der FU Hamburg, 
+</li><li> und passe regelmäßig auf meine Nichte auf. 
+</li><li> Da ich relativ viel Erfahrung habe, 
+</li><li> nehme ich zwischen 15-17 Euro die Stunde. 
+</li><li> Bei Interesse können wir gerne einen Termin zum Kennenlernen vereinbaren. 
+</li><li> Sie erreichen mich telefonisch unter: 01-23456789 
+</li><li> Ich freue mich schon sehr, von Ihnen zu hören. 
+</li><li> Herzliche Grüße 
+</li><li> Nena Nanny 
+<br /><br />= 83 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 41-----------------------------

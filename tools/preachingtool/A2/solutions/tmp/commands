@@ -1,0 +1,1 @@
+sox --show-progress input.mp3 output.mp3 tempo 1.5 

@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+        body{
+	padding: 0;
+	margin: 0;	
+	width: 100vw;
+	height: 100vh;	
+}
+.panel{
+    width: 50vw; 
+	display: flex; 
+	flex-direction: column;
+	align-items: center;
+    /* border-radius: 10px; */
+    background-color: #E9F3F3;
+	box-shadow: 0 0 5px grey;
+    margin: auto;
+	flex-wrap: wrap;
+}
+.question-container{
+	width: 40vw;
+	/* height: 10vh; */
+	background-color: white;
+	font-size: 2em;
+	text-align: center;
+	font-weight: bold; 
+	border: 0.1em black solid;
+	border-style: double;
+	margin-bottom: 1em;
+}
+.result_container, .finished{
+	padding: 5px;
+	width: auto;
+	text-align: center;
+	font-size: 2em;
+    z-index: 1;
+}
+.option-container{
+	display: flex;
+    flex-direction: column;
+	width: auto;
+	height: 20vh;
+	background-color: #E9F3F3;
+		
+}
+.option{	
+    border: none;
+	padding: 10px;
+    margin-bottom: 5px;
+	width: auto;
+	height: 10vh;
+	font-size: larger;
+	border: 2px solid grey;
+	background-color: rgb(250, 250, 250);
+	/* border-radius: 10px; */
+}
+.option:hover{
+	background-color: lightgoldenrodyellow;
+}
+.navigation{
+	width: 40vw;
+	height: 5vh;
+    padding-top: 20px;
+	display: flex;
+    justify-content: center;
+	background-color: #E9F3F3;
+}
+
+.check,.next,.evaluate,.restart, .translation_button, .questions-bank, .try-again{
+	width: auto;
+	height: 4vh;
+	padding: 5px;
+    margin-right: 20px;
+	font-size: x-large;
+    /* border-radius: 10px; */
+	box-shadow: 0 0 4px grey;
+	border: none;
+}
+.check{
+	padding: 0 1em;
+	color: white;
+	background-color: #64A69F;
+}
+.next{
+	padding: 0 1em;
+	color: white;
+	background-color: #64A69F;
+}
+.evaluate {
+	color: white;
+	background-color: rgb(218, 110, 128);
+}
+.restart {
+	color: white;
+	background-color: #64A69F;
+}
+.hide-konstantin {
+	display: none;
+}
+.translation_button {
+	font-size: 1em;
+	margin: 1em 0;
+	background-color: #FFA4A5;
+	color: white;
+}
+
+.questions-bank {
+	color: white;
+	background-color: #64A69F;
+}
+
+.try-again {
+	background-color: #FFA4A5;
+	color: white;	
+}
+    </style>
+</head>
+<body>
+	<div class="panel">
+		<div class="finished hide-konstantin"></div>
+		<div class="translation_button_div">
+			<button class="translation_button">Show Translation</button>
+		</div>
+		<!-- <div class="result_container">
+		</div> -->
+		<div class="question-container" id="question">
+			Question goes here.
+		</div>
+		<div class="option-container">
+			<button class="option" onclick="" id="op1" >option1</button>
+	
+			<button class="option" id="op2" >option2</button>
+
+			<button class="option" id="op3">option3</button>
+
+			<button class="option" id="op4">option4</button>
+		</div>
+		<div class="navigation">
+			<button class="check">CHECK</button>
+			<button class="try-again hide-konstantin">TRY AGAIN</button>
+			<button class="next hide-konstantin">NEXT</button>
+			<button class="evaluate hide-konstantin">EVALUATE</button>
+			<button class="restart hide-konstantin">RETAKE QUIZ</button>
+			<a href="https://www.google.com"><button class="questions-bank hide-konstantin">GO TO QUESTIONS BANK</button></a>
+		</div>
+	</div>
+	<script>
+        // Set start
+var start = true;
+
+// Counter for correct answers
+var ncorrect = 0;
+
+var selected = "";
+var chosenAnswer = "";
+// Iterate
+var counter = 0;
+const option_container = document.getElementsByClassName("option-container")[0];
+const check_button = document.getElementsByClassName("check")[0];
+const evaluate_button = document.getElementsByClassName("evaluate")[0];
+const panel_container = document.getElementsByClassName("panel")[0];
+const question_container = document.getElementsByClassName("question-container")[0];
+// const result_container = document.getElementsByClassName("result_container")[0];
+const finished_container = document.getElementsByClassName("finished")[0];
+const restart_button = document.getElementsByClassName("restart")[0];
+const translation_button = document.getElementsByClassName("translation_button")[0];
+const questionsBank = document.getElementsByClassName("questions-bank")[0];
+const tryAgainButton = document.getElementsByClassName("try-again")[0];
+// const result = document.getElementsByClassName("result_container");
+
+
+function iterate(id) {
+
+// Getting the result display section
+// var result = document.getElementsByClassName("result_container");
+// result[0].innerText = "";
+
+
+// Getting the question
+const question = document.getElementById("question");
+
+
+// Setting the question text
+question.innerText = Questions[id].q;
+
+// Getting the options
+const op1 = document.getElementById('op1');
+const op2 = document.getElementById('op2');
+const op3 = document.getElementById('op3');
+const op4 = document.getElementById('op4');
+
+
+// Providing option text
+op1.innerText = Questions[id].a[0].text;
+op2.innerText = Questions[id].a[1].text;
+op3.innerText = Questions[id].a[2].text;
+op4.innerText = Questions[id].a[3].text;
+
+// Providing the true or false value to the options
+op1.value = Questions[id].a[0].isCorrect;
+op2.value = Questions[id].a[1].isCorrect;
+op3.value = Questions[id].a[2].isCorrect;
+op4.value = Questions[id].a[3].isCorrect;
+
+// Translation button 
+translation_button.addEventListener("click", () => {
+    if (counter %2 == 0) {
+        // English Version of the Questions and Answers
+        // Setting the question text
+        question.innerText = Translations[id].q;
+        // Providing option text
+        op1.innerText = Translations[id].a[0].text;
+        op2.innerText = Translations[id].a[1].text;
+        op3.innerText = Translations[id].a[2].text;
+        op4.innerText = Translations[id].a[3].text;
+    
+        // Providing the true or false value to the options
+        op1.value = Translations[id].a[0].isCorrect;
+        op2.value = Translations[id].a[1].isCorrect;
+        op3.value = Translations[id].a[2].isCorrect;
+        op4.value = Translations[id].a[3].isCorrect;
+        translation_button.innerHTML = "Show Original";
+    }
+    else {
+        // German Version of the Questions and Answers
+        // Setting the question text
+        question.innerText = Questions[id].q;
+        // Providing option text
+        op1.innerText = Questions[id].a[0].text;
+        op2.innerText = Questions[id].a[1].text;
+        op3.innerText = Questions[id].a[2].text;
+        op4.innerText = Questions[id].a[3].text;
+
+        // Providing the true or false value to the options
+        op1.value = Questions[id].a[0].isCorrect;
+        op2.value = Questions[id].a[1].isCorrect;
+        op3.value = Questions[id].a[2].isCorrect;
+        op4.value = Questions[id].a[3].isCorrect;
+        translation_button.innerHTML = "Show Translation";
+    }
+    counter++
+})
+// var selected = "";
+
+// Show selection for op1
+op1.addEventListener("click", () => {
+    op1.style.backgroundColor = "lightgoldenrodyellow";
+    op2.style.backgroundColor = "rgb(250, 250, 250)";
+    op3.style.backgroundColor = "rgb(250, 250, 250)";
+    op4.style.backgroundColor = "rgb(250, 250, 250)";
+    selected = op1.value;
+    chosenAnswer = op1;
+})
+
+// Show selection for op2
+op2.addEventListener("click", () => {
+    op1.style.backgroundColor = "rgb(250, 250, 250)";
+    op2.style.backgroundColor = "lightgoldenrodyellow";
+    op3.style.backgroundColor = "rgb(250, 250, 250)";
+    op4.style.backgroundColor = "rgb(250, 250, 250)";
+    selected = op2.value;
+    chosenAnswer = op2;
+})
+
+// Show selection for op3
+op3.addEventListener("click", () => {
+    op1.style.backgroundColor = "rgb(250, 250, 250)";
+    op2.style.backgroundColor = "rgb(250, 250, 250)";
+    op3.style.backgroundColor = "lightgoldenrodyellow";
+    op4.style.backgroundColor = "rgb(250, 250, 250)";
+    selected = op3.value;
+    chosenAnswer = op3;
+})
+
+// Show selection for op4
+op4.addEventListener("click", () => {
+    op1.style.backgroundColor = "rgb(250, 250, 250)";
+    op2.style.backgroundColor = "rgb(250, 250, 250)";
+    op3.style.backgroundColor = "rgb(250, 250, 250)";
+    op4.style.backgroundColor = "lightgoldenrodyellow";
+    selected = op4.value;
+    chosenAnswer = op4;
+})
+
+// Grabbing the evaluate button
+// const check = document.getElementsByClassName("check")[0];
+
+// Evaluate method
+// check.addEventListener("click", () => {
+//     check.classList.add("hide-konstantin");
+//     if (selected == "true") {
+//         ncorrect++;
+//         result[0].innerHTML = "True";
+//         result[0].style.color = "green";
+//     } else {
+//         result[0].innerHTML = "False";
+//         result[0].style.color = "red";
+//     }
+// })
+// return selected;
+}
+
+initialize: if (start) {
+iterate("0");
+}
+
+const next = document.getElementsByClassName('next')[0];
+var id = 0;
+
+// Next button and method
+evaluate_button.addEventListener("click", () => {
+    option_container.classList.add("hide-konstantin");
+    question_container.classList.add("hide-konstantin");
+    finished_container.classList.remove("hide-konstantin");
+    finished_container.innerHTML = "YOU GOT " + ncorrect + " OUT OF " + Questions.length + " QUESTIONS CORRECT. <br> DO YOU WANT TO PRACTICE MORE?";
+    evaluate_button.classList.add("hide-konstantin");
+    restart_button.classList.remove("hide-konstantin");
+    translation_button.classList.add("hide-konstantin");
+    questionsBank.classList.remove("hide-konstantin");
+    tryAgainButton.classList.add("hide-konstantin");
+    // result[0].innerText = "";
+})
+restart_button.addEventListener("click", () => {
+    // window.location.reload();
+    finished_container.innerHTML = "";
+    option_container.classList.remove("hide-konstantin");
+    question_container.classList.remove("hide-konstantin");
+    translation_button.classList.remove("hide-konstantin");
+    questionsBank.classList.add("hide-konstantin"); 
+    restart_button.classList.add("hide-konstantin");
+    check_button.classList.remove("hide-konstantin");
+    ncorrect = 0;
+    id = 0;
+    iterate(id);
+    // console.log();
+})
+var retry = false;
+check_button.addEventListener("click", () => {
+    if (!retry) {
+        if (selected == "true") {
+            ncorrect++;
+            chosenAnswer.style.backgroundColor = "#BBE4DA";
+            check_button.classList.add("hide-konstantin");
+            next.classList.remove("hide-konstantin");
+            // result[0].innerHTML = "True";
+            // result[0].style.color = "green";
+        } else {
+            chosenAnswer.style.backgroundColor = "#FFA4A5";
+            check_button.classList.add("hide-konstantin");
+            next.classList.remove("hide-konstantin");
+            // result[0].innerHTML = "False";
+            // result[0].style.color = "red";
+            tryAgainButton.classList.remove("hide-konstantin");
+        }
+        selected = "";
+    }
+    else {
+        if (selected == "true") {
+            ncorrect++;
+            chosenAnswer.style.backgroundColor = "#BBE4DA";
+            check_button.classList.add("hide-konstantin");
+            next.classList.remove("hide-konstantin");
+            // result[0].innerHTML = "True";
+            // result[0].style.color = "green";
+        } else {
+            chosenAnswer.style.backgroundColor = "#FFA4A5";
+            check_button.classList.add("hide-konstantin");
+            next.classList.remove("hide-konstantin");
+            // result[0].innerHTML = "False";
+            // result[0].style.color = "red";
+            tryAgainButton.classList.remove("hide-konstantin");
+        }
+        selected = "";
+    }
+})
+
+tryAgainButton.addEventListener("click", () => {
+    check_button.classList.remove("hide-konstantin");
+    tryAgainButton.classList.add("hide-konstantin");
+    retry = true;
+})
+
+next.addEventListener("click", () => {
+    chosenAnswer.style.backgroundColor = "white";
+    start = false;    
+    if (id < (Questions.length-1)) {
+        check_button.classList.remove("hide-konstantin")
+        tryAgainButton.classList.add("hide-konstantin");
+        next.classList.add("hide-konstantin")
+        id++;
+        iterate(id);
+        console.log(id);
+        console.log(selected);
+    }    
+    else  {
+        next.classList.add("hide-konstantin");
+        check_button.classList.add("hide-konstantin");
+        evaluate_button.classList.remove("hide-konstantin");
+    }    
+}
+)
+    </script>
+</body>
+</html>

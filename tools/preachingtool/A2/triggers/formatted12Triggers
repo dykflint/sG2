@@ -1,0 +1,1 @@
+const triggers = ['Dachboden (m)', 'Wohnzimmer (n)', 'Küche (f)', 'Klo (n)', 'Stadt (f)', 'Strand (m)', 'Tür (f)', 'Haus n)', 'Dusche (f)', 'Markt (m)'];

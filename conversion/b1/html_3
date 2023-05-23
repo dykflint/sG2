@@ -1,0 +1,67 @@
+-------------------- LESSON 3-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Angestellte / die Angestellte </strong>the employee
+</li><li><strong>der Freiberufler / die Freiberuflerin </strong>the freelancer
+</li><li><strong>der Student / die Studentin </strong>the student
+</li><li><strong>der Rentner / die Rentnerin </strong>the pensioner
+</li><li><strong>die Vollzeit </strong>full time
+</li><li><strong>die Teilzeit </strong>part time
+</li><li><strong>Ich arbeite gern mit anderen Menschen. </strong>I like to work with other people.
+</li><li><strong>Ich arbeite draußen. </strong>I work outside.
+</li><li><strong>Ich arbeite von Zuhause. </strong>I work from home.
+</li><li><strong>Ich habe flexible Arbeitszeiten. </strong>I have flexible working hours.
+</li><li><strong>Ich verstehe mich gut mit meinen Mitstudenten / Mitstudentinnen. </strong>I get along well with my fellow students.
+</li><li><strong>Ich hätte gerne eine neue Stelle. </strong>I would like to have a new job.
+</li><li><strong>gut / schlecht verdienen </strong>to earn well / poorly
+</li><li><strong>stressig </strong>stressful
+</li><li><strong>arbeitslos sein </strong>unemployed
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich bin (Kraftfahrzeug-)Ingenieur (von Beruf). 
+</li><li> Ich arbeite in München bei BMW. 
+</li><li> Ich designe Karosserien. 
+</li><li> Und ich baue Karosserie-Modelle. 
+</li><li> Auf meinem Arbeitsplatz spreche ich leider kein Deutsch, sondern nur Englisch. 
+</li><li> Mein Beruf macht mir viel / keinen Spaß. 
+</li><li> Die Arbeit ist sehr interessant / anstrengend. 
+<br /><br />43 =  Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 3-----------------------------

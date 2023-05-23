@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wo kommen Simone und Stefan ein zweites Mal vorbei?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wo kommen Simone und Stefan ein zweites Mal vorbei?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[an der Mensa]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[am Pausenhof]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[am Lehrerzimmer]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was isst Stefan in der Mensa?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was isst Stefan in der Mensa?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[ein Wiener Würstchen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ein Schnitzel]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[einen Döner (=kebab)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum ist Klaus in seiner Ehre (=honor) verletzt?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum ist Klaus in seiner Ehre (=honor) verletzt?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[weil Herr Liebig ihm nur eine 2+ gegeben hat]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil er bei der Chemieolympiade nur zweiter geworden ist.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[weil seine Freundin mit ihm Schluss gemacht hat (=break up)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was waren Herr Liebig und Markus?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was waren Herr Liebig und Markus?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Kiff Buddies (=Stoner Buddies)]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Vater und Sohn]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Erzfeinde (=arch enemies)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

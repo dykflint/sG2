@@ -1,0 +1,1 @@
+const triggers = ['folgen | Taxi | Auto', 'absagen | Schülerin | Lehrerin', 'danken | Angestellte | Chef', 'gefallen | Design | Designerin', 'gehorchen | Hund | Eigentümer', 'gratulieren | Nachbarin | Vermieter', 'helfen | Verkäufer | Kundin', 'leid tun | Bettlerin | Berliner', 'schmecken | Currywurst | Ratte', 'zuhören | Studentin| Gesang'];

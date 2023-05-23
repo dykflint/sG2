@@ -1,0 +1,74 @@
+-------------------- LESSON 33-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>auf der Webseite </strong>on the website
+</li><li><strong>der lieferbare Artikel </strong>the deliverable item
+</li><li><strong>Die Kundennummer lautet XY. </strong>The customer number is XY.
+</li><li><strong>Die Bestellnummer ist XY. </strong>The order number is XY.
+</li><li><strong>die Bestellung annullieren / stornieren </strong>to cancel the order
+</li><li><strong>Es handelt sich um ein Geburtstagsgeschenk. </strong>It is a birthday present.
+</li><li><strong>Wie lange dauert es noch? </strong>How long will it take?
+</li><li><strong>pünktlich eintreffen </strong>to arrive on time
+</li><li><strong>bis spätestens XY eintreffen </strong>to arrive by XY at the latest
+</li><li><strong>Ansonsten muss ich leider XY stornieren. </strong>Otherwise, I'm afraid I'll have to cancel XY.
+</li><li><strong>hoffentlich </strong>hopefully
+</li><li><strong>Es wäre schön, wenn es klappt. </strong>It would be nice if it works out.
+</li><li><strong>Ich danke Ihnen im Voraus. </strong>Thank you in advance.
+</li><li><strong>Im Voraus danke ich für Ihre Mühen. </strong>Thank you in advance for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> ich habe auf Ihrer Website vor drei Wochen den singenden Barsch bestellt. 
+</li><li> Damals stand auf Ihrer Webseite, 
+</li><li> dass der Artikel direkt lieferbar ist. 
+</li><li> Meine Kundennummer ist 123456, 
+</li><li> und meine Bestellnummer ist 654321. 
+</li><li> Jetzt habe ich ein kleines Problem. 
+</li><li> Das Geschenk ist ein Gruppengeschenk zum Geburtstag, 
+</li><li> und wir möchten es diesen Samstag übergeben. 
+</li><li> Für mich ist wichtig zu wissen, 
+</li><li> ob die Bestellung bis Freitagmorgen eintrifft? 
+</li><li> Sonst muss ich die Bestellung leider annullieren. 
+</li><li> Hoffentlich klappt es noch! 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max Mustermann 
+<br /><br />= 85 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 33-----------------------------

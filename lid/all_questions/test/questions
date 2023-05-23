@@ -1,0 +1,45 @@
+const Questions = [{
+    id: 0,
+    q: 'Welches Land ist ein Nachbarland von Deutschland?',
+    a: [{ text: ' Ungarn', isCorrect: false},
+        { text: ' Portugal', isCorrect: false},
+        { text: ' Spanien', isCorrect: false},
+        { text: '  Schweiz', isCorrect: true},
+]
+},
+{
+    id: 1,
+    q: 'Welches Land ist ein Nachbarland von Deutschland?',
+    a: [{ text: ' Rumänien', isCorrect: false},
+        { text: ' Bulgarien', isCorrect: false},
+        { text: '  Polen', isCorrect: true},
+        { text: ' Griechenland', isCorrect: false},
+]
+},
+{
+    id: 5,
+    q: 'Welches Land ist ein Nachbarland von Deutschland?',
+    a: [{ text: ' Finnland', isCorrect: false},
+        { text: '  Dänemark', isCorrect: true},
+        { text: ' Norwegen', isCorrect: false},
+        { text: ' Schweden', isCorrect: false},
+]
+},
+{
+    id: 7,
+    q: 'Welches Land ist ein Nachbarland von Deutschland?',
+    a: [{ text: ' Spanien', isCorrect: false},
+        { text: ' Bulgarien', isCorrect: false},
+        { text: ' Norwegen', isCorrect: false},
+        { text: '  Luxemburg', isCorrect: true},
+]
+},
+{
+    id: 11,
+    q: 'Welches Land ist ein Nachbarland von Deutschland?',
+    a: [{ text: '  Tschechien', isCorrect: true},
+        { text: ' Bulgarien', isCorrect: false},
+        { text: ' Griechenland', isCorrect: false},
+        { text: ' Portugal', isCorrect: false},
+]
+},

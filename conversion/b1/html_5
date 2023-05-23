@@ -1,0 +1,69 @@
+-------------------- LESSON 5-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Es tut mir Leid. </strong>I'm sorry.
+</li><li><strong>Entschuldige bitte. </strong>I apologise.
+</li><li><strong>Leider muss ich XY absagen. </strong>Unfortunately I have to cancel XY.
+</li><li><strong>die Verabredung </strong>the date
+</li><li><strong>das Abendessen </strong>the dinner
+</li><li><strong>der Termin </strong>the appointment
+</li><li><strong>sich beeilen </strong>to hurry
+</li><li><strong>einen wichtigen Auftrag bekommen </strong>to get an important job
+</li><li><strong>einen Auftrag erledigen </strong>to finish a job
+</li><li><strong>Überstunden machen </strong>to work overtime
+</li><li><strong>Ich schlage vor, dass XY. </strong>I suggest XY.
+</li><li><strong>Ich danke für dein Verständnis. </strong>Thank you for your understanding.
+</li><li><strong>Ich hoffe, dass ist ok. </strong>I hope that is ok.
+</li><li><strong>Ich hoffe, es klappt morgen. </strong>I hope it works out tomorrow.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Martin, 
+</li><li> es tut mir wirklich leid, 
+</li><li> aber ich muss ich unser Abendessen heute Abend absagen. 
+</li><li> Ich habe soeben einen Eilauftrag bekommen, 
+</li><li> den ich bis heute Abend verschicken muss. 
+</li><li> Wie sieht es bei dir morgen oder übermorgen aus? 
+</li><li> Ich würde mich sehr freuen, 
+</li><li> wenn es klappt. 
+</li><li> Alles Liebe 
+</li><li> Martina 
+<br /><br />= 49 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 5-----------------------------

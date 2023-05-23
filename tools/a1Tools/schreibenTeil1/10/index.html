@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <title>Writing Tool</title>
+</head>
+<body>
+    <div class="container">
+        <div class="inputs-container">
+            <div class="input-field">
+                <label for="misc">Familienname: </label>
+                <input type="text" class="misc" name="misc" readonly placeholder="Zufall" value="Zufall">
+            </div>
+            <div class="input-field">
+                <label for="misc">Vorname: </label>
+                <input type="text" class="misc" name="misc" readonly placeholder="Soein" value="Soein">
+            </div>
+            <div class="input-field">
+                <label for="misc">Straße, Hausnummer: </label>
+                <input type="text" class="misc" name="misc" readonly placeholder="Wiesenweg 31" value="Wiesenweg 31">
+            </div>
+            <div class="input-field">
+                <label for="misc">Postleitzahl, Wohnort: </label>
+                <input type="text" class="misc" name="misc" readonly placeholder="67227 Frankenthal" value="67227 Frankenthal">
+            </div>
+            <div class="input-field">
+                <label for="misc">Telefon: </label>
+                <input type="text" class="misc" name="misc" readonly placeholder="0161 78319496" value="0161 78319496">
+            </div>
+            <div class="input-field">
+                <label for="second">1. Beruf:</label>
+                <input type="text" id="second" name="second">
+            </div>
+            <div class="input-field">
+                <label for="misc">Geschlecht: </label>
+                <div class="radio-field">
+                    <span class="radio1">
+                        <input type="radio" id="radio1" class="second" name="writing" value="f" readonly checked>f<br>
+                    </span>
+                    <span class="radio2">
+                        <input type="radio" id="radio2" class="second" name="writing" value="d" readonly>d<br>
+                    </span>
+                    <span class="radio3">
+                        <input type="radio" id="radio3" class="second" name="writing" value="m" readonly>m<br>
+                    </span>
+                </div>
+            </div>
+            <div class="input-field">
+                <label for="third">2. Geburtsdatum:</label>
+                <input type="text" id="third" name="third">
+            </div>
+            <div class="input-field">
+                <label for="fourth">3. Geburtsort:</label>
+                <input type="text" id="fourth" name="fourth">
+            </div>
+            <div class="input-field">
+                <label for="misc"><br>Einzugsermächtigung</label>
+            </div>
+            <div class="input-field">
+                <label for="misc">Bankverbindung</label>
+            </div>
+            <div class="input-field">
+                <label for="fifth">4. Name der Bank:</label>
+                <input type="text" id="fifth" name="fifth">
+            </div>
+            <div class="input-field">
+                <label for="sixth">5. IBAN:</label>
+                <input type="text" id="sixth" name="sixth">
+            </div>
+            <div class="input-field">
+                <label for="misc">Datum, Unterschrift:</label>
+                <input type="text" class="misc unterschrift" placeholder="25.11.2023 Soein Zufall" value="25.11.2023 Soein Zufall">
+            </div>
+            <button class="check-button">Check</button>
+        </div>
+    </div>
+</body>
+<script src="solutions.js"></script>
+<script src="script.js"></script>
+</html>
+
+<!-- (0) 	Name, Vorname: Volodymyr Zelenskyy 
+Telefon: 0611 / 654 87 98
+Straße, Hausnummer:  Hauptstraße 21
+(1) 	Postleitzahl, Wohnort: 55246 
+(2)	Alter: 
+(3) 	Krankenkasse: 
+(4) 	Beruf: 
+	Seit wann krank? 11.11. 
+(5) 	Symptome?  -->

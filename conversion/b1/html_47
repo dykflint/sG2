@@ -1,0 +1,71 @@
+-------------------- LESSON 47-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das vegetarische / vegane Essen </strong>the vegetarian / vegan food
+</li><li><strong>die Auswahl ist klein / groß </strong>the choice is small / large
+</li><li><strong>das vielfältige Angebot </strong>the varied offer
+</li><li><strong>die fleischfreie Alternative </strong>the meat-free alternative
+</li><li><strong>die nachhaltige Ernährung </strong>the sustainable diet
+</li><li><strong>der Einfluss von Fleischkonsum auf das Klima </strong>the impact of meat consumption on the climate
+</li><li><strong>die Gesundheit </strong>the health
+</li><li><strong>die Aufklärung </strong>the education
+</li><li><strong>sich vegetarisch / vegan ernähren </strong>a vegetarian / vegan diet
+</li><li><strong>eine tolle Entwicklung </strong>a great development
+</li><li><strong>die freie Wahl </strong>the free choice
+</li><li><strong>Ich bin begeistert, dass XY. </strong>I am thrilled that XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Ich bin mir sicher, dass XY. </strong>I am sure that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> In Berlin hat in 2010 die erste vegetarische Mensa, 
+</li><li> und in 2019 die erste vegane Mensa eröffnet. 
+</li><li> Als Studentin hätte ich mir eine vegetarische Mensa sehr gewünscht. 
+</li><li> Das vegetarische Essen damals war wirklich ungenießbar. 
+</li><li> Ich bin begeistert, 
+</li><li> dass es wenige Jahre später so eine tolle Entwicklung gibt. 
+</li><li> Meiner Meinung nach ist es jedoch besser, 
+</li><li> wenn jeder seine freie Wahl hat. 
+</li><li> Wenn das Angebot von vegetarischen / veganen Optionen attraktiver wird, 
+</li><li> werden sich viele automatisch für den gesunden und nachhaltigen Weg entscheiden. 
+</li><li> Meiner Meinung nach sind Aufklärung und ein gutes Angebot die bessere Wahl. 
+<br /><br />= 90 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 47-----------------------------

@@ -1,0 +1,73 @@
+-------------------- LESSON 54-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die hitzige Debatte </strong>the heated debate
+</li><li><strong>die Einführung der Helmpflicht </strong>the introduction of compulsory helmets
+</li><li><strong>einen Helm tragen </strong>to wear a helmet
+</li><li><strong>die Radwege </strong>the cycle paths
+</li><li><strong>gefährlich </strong>dangerous
+</li><li><strong>tödliche Unfälle vermeiden </strong>to avoid fatal accidents
+</li><li><strong>auf einem Motorrad fahren </strong>to ride a motorbike
+</li><li><strong>sich im Auto anschnallen </strong>to wear a seat belt in a car
+</li><li><strong>über das Thema schmunzeln </strong>to smile about the subject
+</li><li><strong>die Frisur ruinieren </strong>to ruin your hairstyle
+</li><li><strong>Ich glaube, dass XY. </strong>I believe that XY.
+</li><li><strong>Aber bitte nur, wenn XY. </strong>But please only if XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Ich persönlich finde, dass XY. </strong>Personally, I think that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Offen gestanden musste ich bei diesem Thema sehr schmunzeln. 
+</li><li> Es ist ein sehr deutsches Thema. 
+</li><li> In meiner Heimatstadt gibt es das Problem nicht, 
+</li><li> weil es gar keine Radwege gibt, 
+</li><li> und alle mit dem Auto fahren! 
+</li><li> Wenn aber bewiesen ist, 
+</li><li> dass man mit dem Helm tödliche Unfälle vermeidet, 
+</li><li> sollte man auf jeden Fall die Helmpflicht einführen. 
+</li><li> Auf einem Motorrad trägt man ja schließlich auch einen Helm, 
+</li><li> und im Auto mit Airbag muss man sich anschnallen. 
+</li><li> Helmpflicht - ja gerne. 
+</li><li> Aber nur wenn es statistisch signifikant ist, 
+</li><li> und es meine Frisur nicht ruiniert. 
+<br /><br />= 93 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 54-----------------------------

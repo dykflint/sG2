@@ -1,0 +1,50 @@
+.options-container-k {
+    border-radius: 20px;
+    background: url(https://www.filepicker.io/api/file/8x65qipxTsmyDinfBKhO), pink;
+    background-size: 100% !important;
+    background-repeat: no-repeat !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: min(500px, 50%);
+    margin: auto;
+}
+
+.option1-k, .option2-k, .option3-k {
+    padding: 20px 10px;
+    border-radius: 10px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin: 1.5rem 2rem;
+    text-align: center;
+}
+
+.option1-k p, .option2-k p, .option3-k p {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Roboto, sans-serif;
+}
+
+.option1-k a, .option2-k a, .option3-k a {
+    text-decoration: none;
+    background: #F4618C;
+    border-radius: 5px;;
+    padding: 5px 0px;
+    color: white;
+    font-weight: bold;
+}
+
+.course-hero-img-container-k {
+    width: 40%;
+    position: absolute;
+    left: 37%;
+    top: -15%;
+    bottom: 0;
+}
+.course-hero-img-k {
+    object-fit: contain;
+    width: 50%;
+    height: 50%;
+    max-width: 200px;
+}

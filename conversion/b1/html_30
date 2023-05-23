@@ -1,0 +1,74 @@
+-------------------- LESSON 30-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Muttersprache </strong>the mother tongue
+</li><li><strong>der Tandempartner, die Tandempartnerin </strong>the tandem partner
+</li><li><strong>die erfolgreiche Vermittlung </strong>the successful placement
+</li><li><strong>das Hobby </strong>the hobby
+</li><li><strong>die Freizeit </strong>the free time
+</li><li><strong>Meine Interessen sind XY. </strong>My interests are XY.
+</li><li><strong>In meiner Freizeit mache ich Musik. </strong>In my free time I play music.
+</li><li><strong>klettern gehen </strong>to go climbing
+</li><li><strong>spazieren gehen </strong>to go for a walk
+</li><li><strong>Yoga üben </strong>to practise yoga
+</li><li><strong>fotografieren </strong>to take photos
+</li><li><strong>Vielen Dank im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Vielen Dank für Ihre Mühen. </strong>Thank you for your efforts.
+</li><li><strong>Ich danke Ihnen für XY. </strong>Thank you for XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebes Sprachschulbüro, 
+</li><li> vielen herzlichen Dank für die Vermittlung von einem Tandempartner. 
+</li><li> Und anbei die Antworten auf Ihre Fragen: 
+</li><li> Mein Name ist Max Mustermann, 
+</li><li> ich bin 34 Jahre alt, 
+</li><li> und komme aus den USA. 
+</li><li>In meiner Freizeit interessiere ich mich für Kampfsport, 
+</li><li> vor allem für Karate. 
+</li><li> Englisch ist meine Muttersprache, 
+</li><li> und außerdem spreche ich Spanisch und ein bisschen Deutsch. 
+</li><li> Seit 6 Monaten lerne ich Deutsch mit smarterGerman. 
+</li><li> Ich kann mich am besten nachmittags mit meinem Tandempartner / meiner Tandempartnerin treffen. 
+</li><li> Um 15 Uhr bin ich immer mit meinem Sprachkurs fertig. 
+</li><li> Vielen Dank für Ihre Mühen 
+</li><li> Max Mustermann 
+<br /><br />= 95 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 30-----------------------------

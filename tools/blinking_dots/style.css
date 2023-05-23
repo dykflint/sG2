@@ -1,0 +1,10 @@
+@keyframes blinking-dots {
+    0% {opacity: 0;}
+    50% {opacity: 1;}
+    100% {opacity: 0;}
+}
+.dots {
+    animation: blinking-dots 2s infinite;
+    font-size: 40px;
+    font-weight: bold;
+}

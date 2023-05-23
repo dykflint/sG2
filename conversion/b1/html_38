@@ -1,0 +1,72 @@
+-------------------- LESSON 38-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Anzeige </strong>the advertisement
+</li><li><strong>mit großem Interesse </strong>with great interest
+</li><li><strong>Ich bin neugierig geworden auf XY. </strong>I have become curious about XY.
+</li><li><strong>Ich bin auf der Suche nach XY. </strong>I am looking for XY.
+</li><li><strong>sich von einer schweren Operation erholen </strong>to recover from a serious operation
+</li><li><strong>Ich fühle mich gesundheitlich XY. </strong>I feel XY in terms of health.
+</li><li><strong>Ich bin immer noch nicht fit. </strong>I am still not fit.
+</li><li><strong>angeschlagen </strong>ailing
+</li><li><strong>antriebslos </strong>listless
+</li><li><strong>Kraft tanken </strong>recharge my batteries
+</li><li><strong>zu Kräften kommen </strong>regain strength
+</li><li><strong>die Kosten übernehmen </strong>the costs are covered by
+</li><li><strong>die Gesundheitskasse </strong>the health insurance
+</li><li><strong>einen Kostenvoranschlag schicken </strong>send a quotation
+</li><li><strong>Herzlichen Dank im Voraus für XY. </strong>Thank you very much in advance for XY.
+</li><li><strong>Ich danke Ihnen sehr für XY. </strong>Thank you very much for XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Damen und Herren, 
+</li><li> ich bin bei Ihrer Anzeige sehr neugierig geworden. 
+</li><li> Ich erhole mich im Augenblick von einer schwierigen Operation, 
+</li><li> die ich vor einem halben Jahr hatte. 
+</li><li> Leider fühle ich mich immer noch antriebslos und müde. 
+</li><li> Jetzt bin ich auf der Suche nach einer passenden Kur, 
+</li><li> die mir hilft, wieder Kraft zu tanken. 
+</li><li> Könnten Sie mir bitte einen Kostenvoranschlag für eine 14-tägige Kur schicken? 
+</li><li> Und wird die Kur von der Gesundheitskasse übernommen? 
+</li><li> Herzlichen Dank im Voraus für die Information 
+</li><li> Martin Müde 
+<br /><br />= 83 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 38-----------------------------

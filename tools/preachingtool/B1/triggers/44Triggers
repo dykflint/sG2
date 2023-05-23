@@ -1,0 +1,1 @@
+const triggers = ['vor der Tür', 'vor dem Kino', 'vor der Schule', 'vor dem Aldi', 'vor der Ampel', 'vor dem Kottbusser Tor', 'vor dem Spielplatz', 'vor dem Kino', 'vor der Tiefgarage', 'vor dem Fernsehturm'];

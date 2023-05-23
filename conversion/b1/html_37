@@ -1,0 +1,72 @@
+-------------------- LESSON 37-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>für den Zeitraum </strong>for the period
+</li><li><strong>auf der Suche sein nach XY </strong>to look for XY
+</li><li><strong>ein Zimmer für XY Monate suchen </strong>to look for a room for XY months
+</li><li><strong>vom XY bis zum XY </strong>from XY to XY
+</li><li><strong>am liebsten </strong>preferably
+</li><li><strong>im Zentrum </strong>in the centre
+</li><li><strong>in zentraler Lage </strong>in a central location
+</li><li><strong>XY spielt eine wichtige Rolle </strong>XY plays an important role
+</li><li><strong>XY ist nicht so wichtig </strong>XY is not so important
+</li><li><strong>die Preiskategorie </strong>the price category
+</li><li><strong>Was können Sie mir in der günstigen Preiskategorie anbieten? </strong>What can you offer me in the affordable price category?
+</li><li><strong>Meine Schmerzensgrenze ist XY Euro. </strong>My pain threshold is XY euros.
+</li><li><strong>vielen Dank im Voraus </strong>thank you in advance
+</li><li><strong>Ich danke Ihnen im Voraus für die Mühen. </strong>Thank you in advance for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> im Frühjahr komme ich nach München, 
+</li><li> wo ich vom 1.4. bis 30.6. einen Deutschintensivkurs besuchen werde. 
+</li><li> Für den Zeitraum suche ich nach einer zentralen und kostengünstigen Unterkunft, 
+</li><li> gerne auch in einer Wohngemeinschaft. 
+</li><li> Für mich spielt dabei die zentrale Lage eine wichtige Rolle, 
+</li><li> die Größe ist nicht relevant. 
+</li><li> Unter der Woche bin ich nur abends und am Wochenende zuhause. 
+</li><li> Könnten Sie mir ungefähre Preise nennen, 
+</li><li> und vielleicht schon Angebote machen? 
+</li><li> Meine Schmerzensgrenze liegt bei 750 Euro alles inklusive. 
+</li><li> Ich danke Ihnen im Voraus für Ihre Mühen. 
+</li><li> Max Mustermann 
+<br /><br />= 94 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 37-----------------------------

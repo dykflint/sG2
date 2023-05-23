@@ -1,0 +1,121 @@
+@media (min-width: 40.0rem){
+
+  html {
+    font-size: 10px;
+  }
+  
+  body {
+    /* background: #ffc600; */
+    font-family: 'helvetica neue';
+    font-weight: 200;
+    font-size: 20px;
+    background: white;
+    /* background: #141414 url(img/wave.gif); */
+  }
+  /* .preaching-section-konstantin {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+  } */
+  .preaching-container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .content, .triggers, .correct-answers {
+    margin: auto;
+  }
+  .triggers {
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+  }
+  .next-button, .delete-button, .mic-container, .tutorial-button {
+    border: none;
+    background-color: transparent;
+    width: max-content;
+    height: max-content;
+  }
+  .next-button:hover, .delete-button:hover, .tutorial-button:hover {
+    cursor: pointer; 
+    transform: scale(1.05);
+  }
+  .next-button img, .delete-button img, .mic-container img, 
+  .tutorial-button img {
+    width: 25px;
+    height: 25px;
+  }
+  .trigger-content, .next-button, .delete-button, .mic-container, 
+  .tutorial-button {
+    margin-right: 1.0rem;
+  }
+  .words {
+    max-width: 300px;
+    min-width: 300px;
+    margin: 20px auto;
+    background: rgb(255, 229, 145);
+    border-radius: 5px;
+    box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+    padding: 1rem 2rem 1rem 1rem;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#BCE4DA), color-stop(4%, rgb(255, 229, 145))) 0 4px;
+    background-size: 100% 3rem;
+    position: relative;
+    line-height: 2rem;
+  }
+  
+  p {
+    margin: 0 0 1rem;
+  }
+  
+  .words:before {
+    content: '';
+    position: absolute;
+    width: 4px;
+    top: 0;
+    left: 30px;
+    bottom: 0;
+    /* border: 1px solid; */
+    border-color: transparent #efe4e4;
+  }
+  /* COVER */ 
+  .starting-box-konstantin {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFECE2;
+    font-weight: 500;
+    font-size: 2.0rem;
+    margin: auto;
+    padding: 2.0rem 1.2rem 1.2rem 1.2rem;
+    width: 50%;
+    max-width: 500px;
+    min-height: 200px;
+    color: #8F8F8F;
+    border-radius: 10px 10px 10px 10px;  
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .start-preaching-button-konstantin{
+    font-weight: 500;
+    border: none;
+    color: white;
+    height: 10%;
+    width: 12.0rem;
+    margin: 8px;
+    padding: 12px;
+    font-size: 2.0rem;
+    border-radius: 0.4rem;
+    margin-bottom: 1.2rem;
+    /* box-shadow: grey 5px 8px 5px; */
+  }
+
+  .start-preaching-button-konstantin {
+    background-color: #F1A246;
+  }
+
+  .hide-konstantin {
+    display:none;
+  }
+}

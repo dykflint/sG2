@@ -1,0 +1,75 @@
+-------------------- LESSON 23-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Danke dir für XY. </strong>Thank you for XY.
+</li><li><strong>ebenfalls / ebenso </strong>likewise / as well
+</li><li><strong>Es hat mir ebenso gut gefallen. </strong>I enjoyed it just as much.
+</li><li><strong>eine tolle Auszeit haben </strong>to have a great time out
+</li><li><strong>Das hat mir sehr gut getan. </strong>It did me a lot of good.
+</li><li><strong>Das war Balsam für die Seele. </strong>It was balm for the soul.
+</li><li><strong>Könntest du bitte XY? </strong>Could you please XY?
+</li><li><strong>Es wäre ganz toll, wenn du XY. </strong>It would be really great if you could XY.
+</li><li><strong>Eile haben </strong>to be in a hurry
+</li><li><strong>Ich brauche XY dringend. </strong>I need XY urgently.
+</li><li><strong>selbstverständlich </strong>of course
+</li><li><strong>die extra Kosten übernehmen </strong>to pay the extra
+</li><li><strong>Du bist hier immer herzlich eingeladen. </strong>You are always welcome here.
+</li><li><strong>Hoffentlich bis bald. </strong>Hope to see you soon.
+</li><li><strong>Alles Liebe </strong>With love
+</li><li><strong>Viele liebe Grüße </strong>Warm wishes
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> ach Mensch super. 
+</li><li> Ich habe das Ladegerät schon vermisst. 
+</li><li> Könntest du es mir bitte per Express schicken? 
+</li><li> Die Kosten gehen selbstverständlich auf mich. 
+</li><li> Ich hatte eine sehr entspannte Reise, 
+</li><li> und habe mich mit einem älteren Herrn über den freien Willen unterhalten. 
+</li><li> Eine sehr spannende und hitzige Diskussion. 
+</li><li> Danke dir noch einmal für die schönen Tage in München. 
+</li><li> Die Auszeit war genau richtig für mich. 
+</li><li> Und du bist hier in München jederzeit herzlich Willkommen. 
+</li><li> Ich freue mich schon auf deinen Besuch! 
+</li><li> Viele liebe Grüße 
+</li><li> Maria / Max 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 23-----------------------------

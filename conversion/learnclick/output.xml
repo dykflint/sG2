@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Ich ___ bin wirklich müde.]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Ich ___ bin wirklich müde.]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[bin]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[bist]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[bim]]>
+      </text>
+    </answer>
+ <answer fraction="0">
+      <text>
+<![CDATA[bims]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wann ___ du mal wieder in Berlin?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wann ___ du mal wieder in Berlin?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[bist]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[bimst]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[binst]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[seinst]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie viele Menschen befinden sich in der Aula?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie viele Menschen befinden sich in der Aula?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[ein]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[zwei]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[drei]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Von wem ist keine Spur?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Von wem ist keine Spur?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[von Valerie]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[von Markus]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[von Klaus]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was macht Klaus?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was macht Klaus?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[auf sein Handy starren]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[nichts]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ein Buch lesen]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wie nennt Simone Markus?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wie nennt Simone Markus?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[McFly]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Peter Pan]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[McGyver]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

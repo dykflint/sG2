@@ -1,0 +1,2769 @@
+############################ BEGINNING OF LESSON a2/1 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte, aber ich verspäte mich ein paar Minuten.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte, aber ich",
+"verspäte mich ein paar",
+"Minuten.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte, aber ich verspäte mich ein paar Minuten.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/1 ##################################
+############################ BEGINNING OF LESSON a2/2 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"aber ich verspäte",
+"mich ein paar",
+"Minuten,",
+"weil ich die",
+"Bahn verpasst habe.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/2 ##################################
+############################ BEGINNING OF LESSON a2/3 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Dir.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"aber ich verspäte",
+"mich ein paar",
+"Minuten,",
+"weil ich die",
+"Bahn verpasst habe.",
+"Ich bin in",
+"zehn Minuten bei",
+"Dir.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Dir.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/3 ##################################
+############################ BEGINNING OF LESSON a2/4 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Dir.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"aber ich verspäte",
+"mich ein paar",
+"Minuten,",
+"weil ich die",
+"Bahn verpasst habe.",
+"Ich bin in",
+"zehn Minuten bei",
+"Dir.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Dir.",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/4 ##################################
+############################ BEGINNING OF LESSON a2/5 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Dir.",
+"Sollen wir uns am Bahnhof treffen?",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"aber ich verspäte",
+"mich ein paar",
+"Minuten,",
+"weil ich die",
+"Bahn verpasst habe.",
+"Ich bin in",
+"zehn Minuten bei",
+"Dir.",
+"Sollen wir uns",
+"am Bahnhof treffen?",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Maria,",
+"Entschuldige bitte,",
+"aber ich verspäte mich ein paar Minuten,",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Dir.",
+"Sollen wir uns am Bahnhof treffen?",
+"Bis gleich",
+"Konstantin"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/5 ##################################
+############################ BEGINNING OF LESSON a2/6 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"Entschuldigen Sie bitte,",
+"aber ich verspäte mich leider ein paar Minuten.",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Ihnen.",
+"Mit freundlichen Grüßen",
+"Konstantin Kupfer"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter",
+"Herr Herrlich,",
+"aber ich verspäte mich",
+"leider ein paar Minuten.",
+"weil ich die",
+"Bahn verpasst habe.",
+"Ich bin in",
+"zehn Minuten bei",
+"Ihnen.",
+"Mit freundlichen Grüßen",
+"Konstantin Kupfer"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"Entschuldigen Sie bitte,",
+"aber ich verspäte mich leider ein paar Minuten.",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Ihnen.",
+"Mit freundlichen Grüßen",
+"Konstantin Kupfer"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/6 ##################################
+############################ BEGINNING OF LESSON a2/7 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"Entschuldigen Sie bitte,",
+"aber ich verspäte mich leider ein paar Minuten.",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Ihnen.",
+"Fangen Sie doch schon mal ohne mich an.",
+"Mit freundlichen Grüßen",
+"Konstantin Kupfer"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter",
+"Herr Herrlich,",
+"Entschuldigen Sie bitte,",
+"aber ich verspäte mich",
+"leider ein paar Minuten.",
+"weil ich die",
+"Bahn verpasst habe.",
+"Ich bin in",
+"zehn Minuten bei",
+"Ihnen.",
+"Fangen Sie doch schon",
+"mal ohne mich an.",
+"Mit freundlichen Grüßen",
+"Konstantin Kupfer"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"Entschuldigen Sie bitte,",
+"aber ich verspäte mich leider ein paar Minuten.",
+"weil ich die Bahn verpasst habe.",
+"Ich bin in zehn Minuten bei Ihnen.",
+"Fangen Sie doch schon mal ohne mich an.",
+"Mit freundlichen Grüßen",
+"Konstantin Kupfer"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/7 ##################################
+############################ BEGINNING OF LESSON a2/8 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"ich liege krank im Bett.",
+"Wahrscheinlich Covid.",
+"Könntest Du für mich einkaufen gehen?",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"Wahrscheinlich Covid.",
+"Könntest Du für",
+"mich einkaufen gehen?",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"ich liege krank im Bett.",
+"Wahrscheinlich Covid.",
+"Könntest Du für mich einkaufen gehen?",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/8 ##################################
+############################ BEGINNING OF LESSON a2/9 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"ich liege krank im Bett.",
+"Wahrscheinlich Covid.",
+"Könntest Du für mich einkaufen gehen?",
+"Ich bräuchte frischen Ingwer.",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"Wahrscheinlich Covid.",
+"Könntest Du für",
+"mich einkaufen gehen?",
+"Ich bräuchte",
+"frischen Ingwer.",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"ich liege krank im Bett.",
+"Wahrscheinlich Covid.",
+"Könntest Du für mich einkaufen gehen?",
+"Ich bräuchte frischen Ingwer.",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/9 ##################################
+############################ BEGINNING OF LESSON a2/10 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"ich liege krank im Bett.",
+"Wahrscheinlich Covid.",
+"Könntest Du für mich einkaufen gehen?",
+"Ich bräuchte frischen Ingwer",
+"und Zutaten für eine Kartoffelsuppe.",
+"Ginge das?",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"Wahrscheinlich Covid.",
+"Könntest Du für",
+"mich einkaufen gehen?",
+"Ich bräuchte",
+"frischen Ingwer",
+"und Zutaten",
+"für eine",
+"Kartoffelsuppe.",
+"Ginge das?",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"ich liege krank im Bett.",
+"Wahrscheinlich Covid.",
+"Könntest Du für mich einkaufen gehen?",
+"Ich bräuchte frischen Ingwer",
+"und Zutaten für eine Kartoffelsuppe.",
+"Ginge das?",
+"Danke Dir.",
+"Deine Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/10 ##################################
+############################ BEGINNING OF LESSON a2/11 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"lange nichts gehört.",
+"Es gibt eine tolle Neuigkeit.",
+"ich fliege nächste Woche nach Indien.",
+"Warst Du schon mal in Indien?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"lange nichts gehört.",
+"Es gibt",
+"eine tolle",
+"Neuigkeit.",
+"ich fliege nächste",
+"Woche nach Indien.",
+"Warst Du schon",
+"mal in Indien?",
+"Ich freu mich,",
+"von Dir zu",
+"hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"lange nichts gehört.",
+"Es gibt eine tolle Neuigkeit.",
+"ich fliege nächste Woche nach Indien.",
+"Warst Du schon mal in Indien?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/11 ##################################
+############################ BEGINNING OF LESSON a2/12 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"lange nichts voneinander gehört.",
+"Es gibt eine tolle Neuigkeit.",
+"ich fliege nächste Woche nach Indien.",
+"Ich bin total aufgeregt.",
+"Warst Du schon mal in Indien?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"lange nichts",
+"voneinander gehört.",
+"Es gibt",
+"eine tolle",
+"Neuigkeit.",
+"ich fliege nächste",
+"Woche nach Indien.",
+"Ich bin",
+"total aufgeregt.",
+"Warst Du schon",
+"mal in Indien?",
+"Ich freu mich,",
+"von Dir zu",
+"hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"lange nichts voneinander gehört.",
+"Es gibt eine tolle Neuigkeit.",
+"ich fliege nächste Woche nach Indien.",
+"Ich bin total aufgeregt.",
+"Warst Du schon mal in Indien?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/12 ##################################
+############################ BEGINNING OF LESSON a2/13 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"wir haben ja lange nichts voneinander gehört.",
+"Es gibt eine tolle Neuigkeit.",
+"ich fliege nächste Woche nach Indien.",
+"Ich bin total aufgeregt.",
+"Warst Du schon mal in Indien?",
+"Falls ja, erzähl doch mal davon.",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"wir haben ja",
+"lange nichts voneinander",
+"gehört.",
+"Es gibt",
+"eine tolle",
+"Neuigkeit.",
+"ich fliege nächste",
+"Woche nach Indien.",
+"Ich bin",
+"total aufgeregt.",
+"Warst Du schon",
+"mal in Indien?",
+"Falls ja, erzähl",
+"doch mal davon.",
+"Ich freu mich,",
+"von Dir zu",
+"hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"wir haben ja lange nichts voneinander gehört.",
+"Es gibt eine tolle Neuigkeit.",
+"ich fliege nächste Woche nach Indien.",
+"Ich bin total aufgeregt.",
+"Warst Du schon mal in Indien?",
+"Falls ja, erzähl doch mal davon.",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/13 ##################################
+############################ BEGINNING OF LESSON a2/14 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon 6 Monate in Berlin",
+"und ich habe auch schon einen Job.",
+"Ich arbeite in einem Startup",
+"als Feelgood Manager.",
+"Weißt Du, was das ist?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon",
+"6 Monate in Berlin",
+"und ich habe",
+"auch schon einen",
+"Job.",
+"Ich arbeite",
+"in einem",
+"Startup",
+"als Feelgood Manager.",
+"Weißt Du,",
+"was das",
+"ist?",
+"Ich freu mich,",
+"von Dir zu",
+"hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon 6 Monate in Berlin",
+"und ich habe auch schon einen Job.",
+"Ich arbeite in einem Startup",
+"als Feelgood Manager.",
+"Weißt Du, was das ist?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/14 ##################################
+############################ BEGINNING OF LESSON a2/15 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon 6 Monate in Berlin",
+"und ich habe auch schon einen Job.",
+"Ich arbeite in einem Startup",
+"als Feelgood Manager.",
+"Weißt Du, was das ist?",
+"Falls ja, erzähl doch mal.",
+"Ich habe nämlich keine Ahnung von Tuten und Blasen.",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon",
+"6 Monate in Berlin",
+"und ich habe",
+"auch schon einen",
+"Job.",
+"Ich arbeite",
+"in einem",
+"Startup",
+"als Feelgood Manager.",
+"Weißt Du,",
+"was das",
+"ist?",
+"Falls ja,",
+"erzähl doch",
+"mal.",
+"Ich habe nämlich keine",
+"Ahnung von Tuten und",
+"Blasen.",
+"Ich freu mich,",
+"von Dir zu",
+"hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon 6 Monate in Berlin",
+"und ich habe auch schon einen Job.",
+"Ich arbeite in einem Startup",
+"als Feelgood Manager.",
+"Weißt Du, was das ist?",
+"Falls ja, erzähl doch mal.",
+"Ich habe nämlich keine Ahnung von Tuten und Blasen.",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/15 ##################################
+############################ BEGINNING OF LESSON a2/16 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon ein halbes Jahr in Berlin",
+"und ich habe auch schon einen tollen Job,",
+"glaube ich zumindest.",
+"Ich arbeite in einem Startup",
+"als Feelgood Manager.",
+"Weißt Du, was das ist?",
+"Falls ja, erzähl doch mal.",
+"Ich habe nämlich keine Ahnung von Tuten und Blasen.",
+"Was macht denn ein Feelgood Manager so?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon",
+"ein halbes Jahr in",
+"Berlin",
+"und ich habe auch",
+"schon einen tollen Job,",
+"glaube ich zumindest.",
+"Ich arbeite",
+"in einem",
+"Startup",
+"als Feelgood Manager.",
+"Weißt Du,",
+"was das",
+"ist?",
+"Falls ja,",
+"erzähl doch",
+"mal.",
+"Ich habe nämlich keine",
+"Ahnung von Tuten und",
+"Blasen.",
+"Was macht denn",
+"ein Feelgood Manager",
+"so?",
+"Ich freu mich,",
+"von Dir zu",
+"hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"ich lebe jetzt schon ein halbes Jahr in Berlin",
+"und ich habe auch schon einen tollen Job,",
+"glaube ich zumindest.",
+"Ich arbeite in einem Startup",
+"als Feelgood Manager.",
+"Weißt Du, was das ist?",
+"Falls ja, erzähl doch mal.",
+"Ich habe nämlich keine Ahnung von Tuten und Blasen.",
+"Was macht denn ein Feelgood Manager so?",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/16 ##################################
+############################ BEGINNING OF LESSON a2/17 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann hat bald Geburtstag",
+"und ich würde ihm gerne etwas schenken,",
+"Worüber würde er sich freuen?",
+"Vielleicht hast Du ja eine Idee.",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann",
+"hat bald",
+"Geburtstag",
+"und ich würde",
+"ihm gerne etwas",
+"schenken,",
+"Worüber würde",
+"er sich",
+"freuen?",
+"Vielleicht hast Du",
+"ja eine Idee.",
+"Ich freu mich,",
+"von Dir zu",
+"hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann hat bald Geburtstag",
+"und ich würde ihm gerne etwas schenken,",
+"Worüber würde er sich freuen?",
+"Vielleicht hast Du ja eine Idee.",
+"Ich freu mich, von Dir zu hören.",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/17 ##################################
+############################ BEGINNING OF LESSON a2/18 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann hat bald Geburtstag",
+"und ich würde ihm gerne etwas schenken,",
+"Worüber würde er sich freuen?",
+"Ich dachte zuerst an ein Buch.",
+"Aber er hat ja schon eins.",
+"Vielleicht hast Du ja eine Idee.",
+"Ich freu mich, von Dir zu hören",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann",
+"hat bald",
+"Geburtstag",
+"und ich würde",
+"ihm gerne etwas",
+"schenken,",
+"Worüber würde",
+"er sich",
+"freuen?",
+"Ich dachte zuerst",
+"an ein Buch.",
+"Aber er hat",
+"ja schon eins.",
+"Vielleicht hast Du",
+"ja eine Idee.",
+"Ich freu mich,",
+"von Dir zu",
+"hören",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann hat bald Geburtstag",
+"und ich würde ihm gerne etwas schenken,",
+"Worüber würde er sich freuen?",
+"Ich dachte zuerst an ein Buch.",
+"Aber er hat ja schon eins.",
+"Vielleicht hast Du ja eine Idee.",
+"Ich freu mich, von Dir zu hören",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/18 ##################################
+############################ BEGINNING OF LESSON a2/19 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann hat ja bald Geburtstag",
+"und ich würde ihm gerne etwas schenken,",
+"Hättest Du eine Idee,",
+"worüber er sich freuen würde?",
+"Ich dachte zuerst an ein Buch.",
+"Aber er hat ja schon eins.",
+"Vielleicht hast Du ja eine bessere Idee.",
+"Ich freu mich, von Dir zu hören",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann hat",
+"ja bald Geburtstag",
+"und ich würde",
+"ihm gerne etwas",
+"schenken,",
+"Hättest Du",
+"eine Idee,",
+"worüber er",
+"sich freuen",
+"würde?",
+"Ich dachte zuerst",
+"an ein Buch.",
+"Aber er hat",
+"ja schon eins.",
+"Vielleicht hast Du",
+"ja eine bessere",
+"Idee.",
+"Ich freu mich,",
+"von Dir zu",
+"hören",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Liese,",
+"dein Mann hat ja bald Geburtstag",
+"und ich würde ihm gerne etwas schenken,",
+"Hättest Du eine Idee,",
+"worüber er sich freuen würde?",
+"Ich dachte zuerst an ein Buch.",
+"Aber er hat ja schon eins.",
+"Vielleicht hast Du ja eine bessere Idee.",
+"Ich freu mich, von Dir zu hören",
+"Dein Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/19 ##################################
+############################ BEGINNING OF LESSON a2/20 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"schön, dass Du an meinen Mann denkst.",
+"Er würde sich über einen Ferrari freuen.",
+"Keinen Echten natürlich.",
+"Sonst hat er leider schon alles.",
+"Alternativ tut’s auch eine Flasche Riesling.",
+"Komm einfach, wie Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"schön, dass Du",
+"an meinen Mann",
+"denkst.",
+"Er würde sich",
+"über einen Ferrari",
+"freuen.",
+"Keinen Echten natürlich.",
+"Sonst hat er",
+"leider schon alles.",
+"Alternativ tut’s auch",
+"eine Flasche Riesling.",
+"Komm einfach, wie",
+"Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"schön, dass Du an meinen Mann denkst.",
+"Er würde sich über einen Ferrari freuen.",
+"Keinen Echten natürlich.",
+"Sonst hat er leider schon alles.",
+"Alternativ tut’s auch eine Flasche Riesling.",
+"Komm einfach, wie Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/20 ##################################
+############################ BEGINNING OF LESSON a2/21 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"das ist total schön,",
+"dass Du an meinen Mann denkst.",
+"Er würde sich über einen Ferrari freuen.",
+"Keinen Echten natürlich.",
+"Einfach ein Modell im Format 1:1 aus Italien.",
+"Sonst hat er leider schon alles.",
+"Alternativ tut’s auch eine Flasche Riesling.",
+"Komm einfach, wie Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"dass Du an",
+"meinen Mann denkst.",
+"Er würde sich",
+"über einen Ferrari",
+"freuen.",
+"Keinen Echten natürlich.",
+"Einfach ein Modell im",
+"Format 1:1 aus Italien.",
+"Sonst hat er",
+"leider schon alles.",
+"Alternativ tut’s auch",
+"eine Flasche Riesling.",
+"Komm einfach, wie",
+"Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"das ist total schön,",
+"dass Du an meinen Mann denkst.",
+"Er würde sich über einen Ferrari freuen.",
+"Keinen Echten natürlich.",
+"Einfach ein Modell im Format 1:1 aus Italien.",
+"Sonst hat er leider schon alles.",
+"Alternativ tut’s auch eine Flasche Riesling.",
+"Komm einfach, wie Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/21 ##################################
+############################ BEGINNING OF LESSON a2/22 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"das ist ja total schön,",
+"dass Du an meinen Mann denkst.",
+"Ich hätte da eine Idee.",
+"Er würde sich über einen Ferrari freuen.",
+"Keinen Echten natürlich.",
+"Einfach so’n Modell im Format 1:1 aus Italien.",
+"Sonst hat er leider schon alles.",
+"Alternativ tut’s auch eine Flasche Riesling.",
+"Komm einfach, wie Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"das ist",
+"ja total",
+"schön,",
+"dass Du an",
+"meinen Mann denkst.",
+"Ich hätte",
+"da eine",
+"Idee.",
+"Er würde sich",
+"über einen Ferrari",
+"freuen.",
+"Keinen Echten natürlich.",
+"Einfach so’n Modell im",
+"Format 1:1 aus Italien.",
+"Sonst hat er",
+"leider schon alles.",
+"Alternativ tut’s auch",
+"eine Flasche Riesling.",
+"Komm einfach, wie",
+"Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Lieber Deinhard,",
+"das ist ja total schön,",
+"dass Du an meinen Mann denkst.",
+"Ich hätte da eine Idee.",
+"Er würde sich über einen Ferrari freuen.",
+"Keinen Echten natürlich.",
+"Einfach so’n Modell im Format 1:1 aus Italien.",
+"Sonst hat er leider schon alles.",
+"Alternativ tut’s auch eine Flasche Riesling.",
+"Komm einfach, wie Du bist ;)",
+"Deine Liese"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/22 ##################################
+############################ BEGINNING OF LESSON a2/23 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine Anzeige auf WG-Gesucht gesehen",
+"und interessiere mich für das Zimmer.",
+"Ist das noch zu haben?",
+"Ich studiere Verfahrenstechnik an der TU.",
+"Sag einfach kurz Bescheid.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine",
+"Anzeige auf WG-Gesucht",
+"gesehen",
+"und interessiere mich",
+"für das Zimmer.",
+"Ist das",
+"noch zu",
+"haben?",
+"Ich studiere Verfahrenstechnik",
+"an der TU.",
+"Sag einfach",
+"kurz Bescheid.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine Anzeige auf WG-Gesucht gesehen",
+"und interessiere mich für das Zimmer.",
+"Ist das noch zu haben?",
+"Ich studiere Verfahrenstechnik an der TU.",
+"Sag einfach kurz Bescheid.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/23 ##################################
+############################ BEGINNING OF LESSON a2/24 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine Anzeige auf WG-Gesucht gesehen",
+"und interessiere mich für das Zimmer.",
+"Ist das noch zu haben?",
+"Ich studiere Verfahrenstechnik an der TU.",
+"Ich trinke nicht und",
+"rauchen tu ich auch nur,",
+"wenn ich betrunken bin.",
+"Sag einfach kurz Bescheid,",
+"wann ich einziehen kann.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine",
+"Anzeige auf WG-Gesucht",
+"gesehen",
+"und interessiere mich",
+"für das Zimmer.",
+"Ist das",
+"noch zu",
+"haben?",
+"Ich studiere Verfahrenstechnik",
+"an der TU.",
+"rauchen tu",
+"ich auch",
+"nur,",
+"wenn ich",
+"betrunken bin.",
+"Sag einfach",
+"kurz Bescheid,",
+"wann ich",
+"einziehen kann.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine Anzeige auf WG-Gesucht gesehen",
+"und interessiere mich für das Zimmer.",
+"Ist das noch zu haben?",
+"Ich studiere Verfahrenstechnik an der TU.",
+"Ich trinke nicht und",
+"rauchen tu ich auch nur,",
+"wenn ich betrunken bin.",
+"Sag einfach kurz Bescheid,",
+"wann ich einziehen kann.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/24 ##################################
+############################ BEGINNING OF LESSON a2/25 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine Anzeige auf WG-Gesucht gesehen",
+"und interessiere mich für das Zimmer.",
+"Das ist ja echt unglaublich günstig.",
+"Ist das noch zu haben?",
+"Ich studiere Verfahrenstechnik an der TU",
+"habe aber sonst keine negativen Angewohnheiten..",
+"Ich trinke nicht und",
+"rauchen tu ich auch nur,",
+"wenn ich betrunken bin.",
+"Sag einfach kurz Bescheid,",
+"wann ich einziehen kann.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine",
+"Anzeige auf WG-Gesucht",
+"gesehen",
+"und interessiere mich",
+"für das Zimmer.",
+"Das ist ja",
+"echt unglaublich günstig.",
+"Ist das",
+"noch zu",
+"haben?",
+"Ich studiere Verfahrenstechnik",
+"an der TU",
+"habe aber sonst",
+"keine negativen Angewohnheiten..",
+"rauchen tu",
+"ich auch",
+"nur,",
+"wenn ich",
+"betrunken bin.",
+"Sag einfach",
+"kurz Bescheid,",
+"wann ich",
+"einziehen kann.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Lena,",
+"Ich habe deine Anzeige auf WG-Gesucht gesehen",
+"und interessiere mich für das Zimmer.",
+"Das ist ja echt unglaublich günstig.",
+"Ist das noch zu haben?",
+"Ich studiere Verfahrenstechnik an der TU",
+"habe aber sonst keine negativen Angewohnheiten..",
+"Ich trinke nicht und",
+"rauchen tu ich auch nur,",
+"wenn ich betrunken bin.",
+"Sag einfach kurz Bescheid,",
+"wann ich einziehen kann.",
+"Liebe Grüße",
+"Deinhard"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/25 ##################################
+############################ BEGINNING OF LESSON a2/26 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"ich habe Ihre Anzeige auf WG-Gesucht gesehen,",
+"und interessiere mich für die Wohnung in der Straußenstraße.",
+"Wäre die noch zu haben?",
+"Ich arbeite in einem Startup als Feelgood Manager",
+"und habe mehr Geld als Verstand.",
+"Rufen Sie mich doch bitte einfach mal kurz an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter",
+"Herr Herrlich,",
+"ich habe Ihre",
+"Anzeige auf WG-Gesucht",
+"gesehen,",
+"und interessiere mich für",
+"die Wohnung in der",
+"Straußenstraße.",
+"Wäre die",
+"noch zu",
+"haben?",
+"Ich arbeite in einem",
+"Startup als Feelgood Manager",
+"und habe mehr",
+"Geld als Verstand.",
+"Rufen Sie mich doch",
+"bitte einfach mal kurz",
+"an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"ich habe Ihre Anzeige auf WG-Gesucht gesehen,",
+"und interessiere mich für die Wohnung in der Straußenstraße.",
+"Wäre die noch zu haben?",
+"Ich arbeite in einem Startup als Feelgood Manager",
+"und habe mehr Geld als Verstand.",
+"Rufen Sie mich doch bitte einfach mal kurz an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/26 ##################################
+############################ BEGINNING OF LESSON a2/27 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"ich habe Ihre Anzeige auf WG-Gesucht gesehen,",
+"und interessiere mich für die Wohnung in der Straußenstraße.",
+"Wäre die noch zu haben?",
+"Ich arbeite in einem Startup als Feelgood Manager",
+"und habe mehr Geld als Verstand.",
+"Ich hätte aber noch gern gewusst,",
+"wie hoch die Nebenkosten sind.",
+"Rufen Sie mich doch bitte einfach mal kurz an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter",
+"Herr Herrlich,",
+"ich habe Ihre",
+"Anzeige auf WG-Gesucht",
+"gesehen,",
+"und interessiere mich für",
+"die Wohnung in der",
+"Straußenstraße.",
+"Wäre die",
+"noch zu",
+"haben?",
+"Ich arbeite in einem",
+"Startup als Feelgood Manager",
+"und habe mehr",
+"Geld als Verstand.",
+"Ich hätte aber",
+"noch gern gewusst,",
+"wie hoch",
+"die Nebenkosten",
+"sind.",
+"Rufen Sie mich doch",
+"bitte einfach mal kurz",
+"an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"ich habe Ihre Anzeige auf WG-Gesucht gesehen,",
+"und interessiere mich für die Wohnung in der Straußenstraße.",
+"Wäre die noch zu haben?",
+"Ich arbeite in einem Startup als Feelgood Manager",
+"und habe mehr Geld als Verstand.",
+"Ich hätte aber noch gern gewusst,",
+"wie hoch die Nebenkosten sind.",
+"Rufen Sie mich doch bitte einfach mal kurz an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/27 ##################################
+############################ BEGINNING OF LESSON a2/28 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"ich habe Ihre Anzeige auf WG-Gesucht gesehen,",
+"und interessiere mich für die Wohnung in der Straußenstraße.",
+"Wäre die noch zu haben?",
+"Ich arbeite in einem Startup als Feelgood Manager",
+"und habe mehr Geld als Verstand.",
+"Ich hätte aber noch gern gewusst,",
+"wie hoch die Nebenkosten sind",
+"und ob Sie Haustiere erlauben.",
+"Ich habe nämlich ein süßes Hausschwein namens Eberhard.",
+"Rufen Sie mich doch bitte einfach mal kurz an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter",
+"Herr Herrlich,",
+"ich habe Ihre",
+"Anzeige auf WG-Gesucht",
+"gesehen,",
+"und interessiere mich für",
+"die Wohnung in der",
+"Straußenstraße.",
+"Wäre die",
+"noch zu",
+"haben?",
+"Ich arbeite in einem",
+"Startup als Feelgood Manager",
+"und habe mehr",
+"Geld als Verstand.",
+"Ich hätte aber",
+"noch gern gewusst,",
+"wie hoch",
+"die Nebenkosten",
+"sind",
+"und ob",
+"Sie Haustiere",
+"erlauben.",
+"Ich habe nämlich ein",
+"süßes Hausschwein namens Eberhard.",
+"Rufen Sie mich doch",
+"bitte einfach mal kurz",
+"an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrter Herr Herrlich,",
+"ich habe Ihre Anzeige auf WG-Gesucht gesehen,",
+"und interessiere mich für die Wohnung in der Straußenstraße.",
+"Wäre die noch zu haben?",
+"Ich arbeite in einem Startup als Feelgood Manager",
+"und habe mehr Geld als Verstand.",
+"Ich hätte aber noch gern gewusst,",
+"wie hoch die Nebenkosten sind",
+"und ob Sie Haustiere erlauben.",
+"Ich habe nämlich ein süßes Hausschwein namens Eberhard.",
+"Rufen Sie mich doch bitte einfach mal kurz an.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/28 ##################################
+############################ BEGINNING OF LESSON a2/29 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept.",
+"Bitte schicken Sie jemanden vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Frau Fraulich,",
+"ich hoffe, es",
+"geht Ihnen gut.",
+"Unsere Heizung fiept.",
+"Bitte schicken",
+"Sie jemanden",
+"vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept.",
+"Bitte schicken Sie jemanden vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/29 ##################################
+############################ BEGINNING OF LESSON a2/30 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept seit ein paar Tagen.",
+"Bitte schicken Sie doch jemanden vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Frau Fraulich,",
+"ich hoffe, es",
+"geht Ihnen gut.",
+"Unsere Heizung fiept",
+"seit ein paar",
+"Tagen.",
+"Bitte schicken Sie",
+"doch jemanden vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept seit ein paar Tagen.",
+"Bitte schicken Sie doch jemanden vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/30 ##################################
+############################ BEGINNING OF LESSON a2/31 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept leider schon seit ein paar Tagen,",
+"was ziemlich nervt.",
+"Bitte schicken Sie doch die Tage mal jemanden vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Frau Fraulich,",
+"ich hoffe, es",
+"geht Ihnen gut.",
+"Unsere Heizung fiept leider",
+"schon seit ein paar",
+"Tagen,",
+"was ziemlich nervt.",
+"Bitte schicken Sie doch",
+"die Tage mal jemanden",
+"vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept leider schon seit ein paar Tagen,",
+"was ziemlich nervt.",
+"Bitte schicken Sie doch die Tage mal jemanden vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/31 ##################################
+############################ BEGINNING OF LESSON a2/32 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept leider schon seit ein paar Tagen,",
+"was ziemlich nervt.",
+"Bitte schicken Sie doch die Tage mal jemanden zum Nachschauen vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Frau Fraulich,",
+"ich hoffe, es",
+"geht Ihnen gut.",
+"Unsere Heizung fiept leider",
+"schon seit ein paar",
+"Tagen,",
+"was ziemlich nervt.",
+"Bitte schicken Sie doch die",
+"Tage mal jemanden zum Nachschauen",
+"vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraulich,",
+"ich hoffe, es geht Ihnen gut.",
+"Unsere Heizung fiept leider schon seit ein paar Tagen,",
+"was ziemlich nervt.",
+"Bitte schicken Sie doch die Tage mal jemanden zum Nachschauen vorbei.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/32 ##################################
+############################ BEGINNING OF LESSON a2/33 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich beschweren.",
+"Ich bekomme keine Post mehr.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Damen und",
+"Herren,",
+"ich möchte",
+"mich beschweren.",
+"Ich bekomme",
+"keine Post",
+"mehr.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich beschweren.",
+"Ich bekomme keine Post mehr.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/33 ##################################
+############################ BEGINNING OF LESSON a2/34 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich bei Ihnen beschweren.",
+"Ich bekomme seit Wochen keine Post mehr.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Damen und",
+"Herren,",
+"ich möchte mich",
+"bei Ihnen beschweren.",
+"Ich bekomme seit",
+"Wochen keine Post",
+"mehr.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich bei Ihnen beschweren.",
+"Ich bekomme seit Wochen keine Post mehr.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/34 ##################################
+############################ BEGINNING OF LESSON a2/35 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich hiermit bei Ihnen beschweren.",
+"Ich bekomme schon seit Wochen keine Post mehr.",
+"Da stimmt doch was nicht.",
+"Bitte schauen Sie doch mal nach.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Damen und",
+"Herren,",
+"ich möchte mich",
+"hiermit bei Ihnen",
+"beschweren.",
+"Ich bekomme schon seit",
+"Wochen keine Post mehr.",
+"Da stimmt",
+"doch was",
+"nicht.",
+"Bitte schauen Sie",
+"doch mal nach.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich hiermit bei Ihnen beschweren.",
+"Ich bekomme schon seit Wochen keine Post mehr.",
+"Da stimmt doch was nicht.",
+"Bitte schauen Sie doch mal nach.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/35 ##################################
+############################ BEGINNING OF LESSON a2/36 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich hiermit bei Ihnen beschweren.",
+"Ich bekomme schon seit Wochen keine Post mehr.",
+"Da stimmt doch was nicht.",
+"Bitte schauen Sie doch mal nach,",
+"wo das Problem liegt.",
+"Vielen Dank.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Damen und",
+"Herren,",
+"ich möchte mich",
+"hiermit bei Ihnen",
+"beschweren.",
+"Ich bekomme schon seit",
+"Wochen keine Post mehr.",
+"Da stimmt",
+"doch was",
+"nicht.",
+"Bitte schauen Sie",
+"doch mal nach,",
+"wo das",
+"Problem liegt.",
+"Vielen Dank.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich hiermit bei Ihnen beschweren.",
+"Ich bekomme schon seit Wochen keine Post mehr.",
+"Da stimmt doch was nicht.",
+"Bitte schauen Sie doch mal nach,",
+"wo das Problem liegt.",
+"Vielen Dank.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/36 ##################################
+############################ BEGINNING OF LESSON a2/37 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich beschweren.",
+"Wir waren im Restaurant essen.",
+"Es war keine schöne Erfahrung.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Damen und",
+"Herren,",
+"ich möchte",
+"mich beschweren.",
+"Wir waren",
+"im Restaurant",
+"essen.",
+"Es war",
+"keine schöne",
+"Erfahrung.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich beschweren.",
+"Wir waren im Restaurant essen.",
+"Es war keine schöne Erfahrung.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/37 ##################################
+############################ BEGINNING OF LESSON a2/38 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich beschweren.",
+"Wir waren in Ihrem Restaurant essen",
+"und die Bedienung war sehr unfreundlich.",
+"Es war keine schöne Erfahrung.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Damen und",
+"Herren,",
+"ich möchte",
+"mich beschweren.",
+"Wir waren in",
+"Ihrem Restaurant essen",
+"und die Bedienung",
+"war sehr unfreundlich.",
+"Es war",
+"keine schöne",
+"Erfahrung.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich beschweren.",
+"Wir waren in Ihrem Restaurant essen",
+"und die Bedienung war sehr unfreundlich.",
+"Es war keine schöne Erfahrung.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/38 ##################################
+############################ BEGINNING OF LESSON a2/39 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich hiermit bei Ihnen beschweren.",
+"Wir waren neulich in Ihrem Restaurant essen",
+"und die Bedienung war sehr unfreundlich zu uns.",
+"Es war wirklich keine schöne Erfahrung.",
+"Wir würden uns über eine Wiedergutmachung freuen.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Damen und",
+"Herren,",
+"ich möchte mich",
+"hiermit bei Ihnen",
+"beschweren.",
+"Wir waren neulich",
+"in Ihrem Restaurant",
+"essen",
+"und die Bedienung war",
+"sehr unfreundlich zu uns.",
+"Es war wirklich",
+"keine schöne Erfahrung.",
+"Wir würden uns",
+"über eine Wiedergutmachung",
+"freuen.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Damen und Herren,",
+"ich möchte mich hiermit bei Ihnen beschweren.",
+"Wir waren neulich in Ihrem Restaurant essen",
+"und die Bedienung war sehr unfreundlich zu uns.",
+"Es war wirklich keine schöne Erfahrung.",
+"Wir würden uns über eine Wiedergutmachung freuen.",
+"Mit freundlichen Grüßen",
+"Deinhard Beinhart"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/39 ##################################
+############################ BEGINNING OF LESSON a2/40 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du unsere Blumen gießen?",
+"Das wäre total lieb.",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste",
+"Woche in Urlaub.",
+"Könntest Du",
+"unsere Blumen",
+"gießen?",
+"Das wäre",
+"total lieb.",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du unsere Blumen gießen?",
+"Das wäre total lieb.",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/40 ##################################
+############################ BEGINNING OF LESSON a2/41 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du unsere Blumen gießen?",
+"Das wäre total lieb.",
+"Wir bringen Dir auch was mit.",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste",
+"Woche in Urlaub.",
+"Könntest Du",
+"unsere Blumen",
+"gießen?",
+"Das wäre",
+"total lieb.",
+"Wir bringen Dir",
+"auch was mit.",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du unsere Blumen gießen?",
+"Das wäre total lieb.",
+"Wir bringen Dir auch was mit.",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/41 ##################################
+############################ BEGINNING OF LESSON a2/42 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du in der Zeit unsere Blumen gießen?",
+"Das wäre total lieb von Dir.",
+"Wir bringen Dir auch was aus dem Urlaub mit.",
+"Magst Du eigentlich französischen Rotwein?",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste",
+"Woche in Urlaub.",
+"Könntest Du in der",
+"Zeit unsere Blumen gießen?",
+"Das wäre total",
+"lieb von Dir.",
+"Wir bringen Dir auch",
+"was aus dem Urlaub",
+"mit.",
+"Magst Du",
+"eigentlich französischen",
+"Rotwein?",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du in der Zeit unsere Blumen gießen?",
+"Das wäre total lieb von Dir.",
+"Wir bringen Dir auch was aus dem Urlaub mit.",
+"Magst Du eigentlich französischen Rotwein?",
+"Danke Dir.",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/42 ##################################
+############################ BEGINNING OF LESSON a2/43 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du in der Zeit unsere Blumen gießen?",
+"Das wäre total lieb von Dir",
+"und die Pflanzen würden sich auch freuen.",
+"Wir bringen Dir auch was Schönes aus dem Urlaub mit.",
+"Magst Du eigentlich französischen Rotwein?",
+"Danke Dir und bis bald",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste",
+"Woche in Urlaub.",
+"Könntest Du in der",
+"Zeit unsere Blumen gießen?",
+"Das wäre total",
+"lieb von Dir",
+"und die Pflanzen",
+"würden sich auch",
+"freuen.",
+"Wir bringen Dir auch was",
+"Schönes aus dem Urlaub mit.",
+"Magst Du",
+"eigentlich französischen",
+"Rotwein?",
+"Danke Dir",
+"und bis",
+"bald",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"wir fahren nächste Woche in Urlaub.",
+"Könntest Du in der Zeit unsere Blumen gießen?",
+"Das wäre total lieb von Dir",
+"und die Pflanzen würden sich auch freuen.",
+"Wir bringen Dir auch was Schönes aus dem Urlaub mit.",
+"Magst Du eigentlich französischen Rotwein?",
+"Danke Dir und bis bald",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/43 ##################################
+############################ BEGINNING OF LESSON a2/44 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test war positiv.",
+"Könntest Du für mich einkaufen gehen?",
+"Das wäre total lieb von Dir.",
+"Sag einfach kurz Bescheid.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test",
+"war positiv.",
+"Könntest Du für",
+"mich einkaufen gehen?",
+"Das wäre total",
+"lieb von Dir.",
+"Sag einfach",
+"kurz Bescheid.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test war positiv.",
+"Könntest Du für mich einkaufen gehen?",
+"Das wäre total lieb von Dir.",
+"Sag einfach kurz Bescheid.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/44 ##################################
+############################ BEGINNING OF LESSON a2/45 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test war leider positiv.",
+"Könntest Du die Tage etwas für mich einkaufen gehen?",
+"Das wäre total lieb von Dir.",
+"Ich kann mich nämlich nicht bewegen.",
+"Sag einfach kurz Bescheid,",
+"ob es klappt.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test",
+"war leider",
+"positiv.",
+"Könntest Du die Tage",
+"etwas für mich einkaufen",
+"gehen?",
+"Das wäre total",
+"lieb von Dir.",
+"Ich kann mich",
+"nämlich nicht bewegen.",
+"Sag einfach",
+"kurz Bescheid,",
+"ob es klappt.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test war leider positiv.",
+"Könntest Du die Tage etwas für mich einkaufen gehen?",
+"Das wäre total lieb von Dir.",
+"Ich kann mich nämlich nicht bewegen.",
+"Sag einfach kurz Bescheid,",
+"ob es klappt.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/45 ##################################
+############################ BEGINNING OF LESSON a2/46 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test war leider positiv.",
+"So’n Scheiß aber auch.",
+"Könntest Du vielleicht die Tage etwas für mich einkaufen gehen?",
+"Das wäre total lieb von Dir.",
+"Ich kann mich nämlich überhaupt nicht bewegen.",
+"Und mir ist immer so schwindelig.",
+"Sag einfach kurz Bescheid,",
+"ob es klappt.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test",
+"war leider",
+"positiv.",
+"So’n Scheiß",
+"aber auch.",
+"Könntest Du vielleicht die Tage",
+"etwas für mich einkaufen gehen?",
+"Das wäre total",
+"lieb von Dir.",
+"Ich kann mich",
+"nämlich überhaupt nicht",
+"bewegen.",
+"Und mir ist",
+"immer so schwindelig.",
+"Sag einfach",
+"kurz Bescheid,",
+"ob es klappt.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Liebe Vera,",
+"mein Corona-Test war leider positiv.",
+"So’n Scheiß aber auch.",
+"Könntest Du vielleicht die Tage etwas für mich einkaufen gehen?",
+"Das wäre total lieb von Dir.",
+"Ich kann mich nämlich überhaupt nicht bewegen.",
+"Und mir ist immer so schwindelig.",
+"Sag einfach kurz Bescheid,",
+"ob es klappt.",
+"Liebe Grüße",
+"Lydia"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/46 ##################################
+############################ BEGINNING OF LESSON a2/47 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraunhofer,",
+"leider muss ich unseren Termin absagen.",
+"Meine Mutter ist gestern gestorben.",
+"Könnten wir den Termin auf nächste Woche verschieben?",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Frau Fraunhofer,",
+"leider muss ich",
+"unseren Termin absagen.",
+"Meine Mutter",
+"ist gestern",
+"gestorben.",
+"Könnten wir den Termin",
+"auf nächste Woche verschieben?",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraunhofer,",
+"leider muss ich unseren Termin absagen.",
+"Meine Mutter ist gestern gestorben.",
+"Könnten wir den Termin auf nächste Woche verschieben?",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/47 ##################################
+############################ BEGINNING OF LESSON a2/48 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraunhofer,",
+"leider muss ich unseren Termin heute Nachmittag absagen.",
+"Meine Mutter ist gestern überraschend gestorben.",
+"Könnten wir den Termin vielleicht auf nächste Woche verschieben?",
+"Sagen Sie doch bitte kurz Bescheid.",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Frau Fraunhofer,",
+"leider muss ich unseren",
+"Termin heute Nachmittag absagen.",
+"Meine Mutter ist",
+"gestern überraschend gestorben.",
+"Könnten wir den Termin",
+"vielleicht auf nächste Woche",
+"verschieben?",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraunhofer,",
+"leider muss ich unseren Termin heute Nachmittag absagen.",
+"Meine Mutter ist gestern überraschend gestorben.",
+"Könnten wir den Termin vielleicht auf nächste Woche verschieben?",
+"Sagen Sie doch bitte kurz Bescheid.",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/48 ##################################
+############################ BEGINNING OF LESSON a2/49 ##################################
+<script>
+function easyGame() {
+ difficulty_level = 1;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraunhofer,",
+"leider muss ich unseren Termin heute Nachmittag absagen.",
+"Meine Mutter ist gestern überraschend gestorben.",
+"Könnten wir den Termin vielleicht auf nächste Woche verschieben?",
+"Sagen Sie doch bitte kurz Bescheid,",
+"ob das ginge.",
+"Das würde mir sehr helfen.",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function normalGame() {
+ difficulty_level = 2;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte",
+"Frau Fraunhofer,",
+"leider muss ich unseren",
+"Termin heute Nachmittag absagen.",
+"Meine Mutter ist",
+"gestern überraschend gestorben.",
+"Könnten wir den Termin",
+"vielleicht auf nächste Woche",
+"verschieben?",
+"Sagen Sie doch",
+"bitte kurz Bescheid,",
+"Das würde",
+"mir sehr",
+"helfen.",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+function hardGame() {
+ difficulty_level = 3;
+ tool_container.classList.remove("hide-konstantin");
+ tmp_content = ["Sehr geehrte Frau Fraunhofer,",
+"leider muss ich unseren Termin heute Nachmittag absagen.",
+"Meine Mutter ist gestern überraschend gestorben.",
+"Könnten wir den Termin vielleicht auf nächste Woche verschieben?",
+"Sagen Sie doch bitte kurz Bescheid,",
+"ob das ginge.",
+"Das würde mir sehr helfen.",
+"Mit freundlichen Grüßen",
+"Max Mustermann"];
+ difficulty_container.classList.add("hide-konstantin");
+ startGame();
+ triggerFocus(input_box);
+}
+</script>
+############################ END OF LESSON a2/49 ##################################

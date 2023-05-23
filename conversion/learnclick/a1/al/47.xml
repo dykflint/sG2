@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wer ist nicht stubenrein?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wer ist nicht stubenrein?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[beide]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Foxi]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Fix]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Warum gibt es Streit mit den Nachbarn?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Warum gibt es Streit mit den Nachbarn?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Weil die Hunde bellen.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil Herr Müller ein schlechter Nachbar ist.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Weil Herr Müller immer Partys veranstaltet.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wann hätte der Kanzler eine Suchaktion gestartet?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wann hätte der Kanzler eine Suchaktion gestartet?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Wenn Herr Müller die Hunde ausgesetzt hätte.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Wenn Herr Müller mit den Hunden verschwunden wäre.]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Wenn Herr Müller das Haus verlassen hätte.]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Entführung oder Aussetzen?	Was ist die besser Lösung?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Entführung oder Aussetzen?	Was ist die besser Lösung?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[eine Entführung]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[das Aussetzen]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[beides gut]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

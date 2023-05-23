@@ -1,0 +1,508 @@
+.grid {
+    background-color: white;
+    width: 100%;
+    margin: auto;
+    /* border-radius: 1.5rem; */
+    padding: 1.0rem;
+}
+.grid-row {
+    height: 60px;
+    width: 21.0rem;
+    background-color: #D7EBFA;
+    margin: auto;
+    margin: 1.0rem auto;
+    border-radius: 3.5rem;
+    color: #29415c;
+    font-size: 1.1rem;
+    position: relative;
+}
+img {
+  width: 42px;
+  height: 42px;
+}
+.check-container img {
+  width: 33px;
+  height: 33px;
+}
+
+.grid-row p{
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+}
+.grid-row a{
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 60px;
+    text-decoration: none;
+    color: #29415c;
+}
+.grid-row a:hover {
+    background-color: #29405C;
+    color: white;
+    cursor: pointer;
+}
+
+.image-container {
+    position: absolute;
+    top: 0.55rem;
+    left: 0.4rem;
+    z-index: 2;
+}
+
+.check-container {
+    position: absolute;
+    top: 0.2rem;
+    left: 2.0rem;
+    z-index: 3;
+}
+
+.hide {
+    display: none;
+}
+
+.grayscale {
+    filter: grayscale(100%);
+}
+
+
+a.fill-div {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    border-radius: 3.5rem;
+}
+
+a span {
+  margin-left: 1.0rem;
+}
+/* DROPDOWN */
+.dropbtn-k {
+    border-radius: 1.5rem;
+    font-weight: 500 ;
+    display: block;
+    align-self: center;
+    font-size: 1.1rem;
+    position: relative;
+    /* margin: auto; */
+    margin-right: 1.0rem;
+    min-width: max-content;
+    width: 100%;
+  }
+
+  .dropbtn-k:hover, .dropbtn-k:focus {
+    background-color: #F4618C;
+  }
+  
+  .dropdown-k.dropdown-center-k {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* display: inline-block; */
+  }
+  
+
+  .dropdown-content-k {
+    box-sizing: border-box;
+    border-radius: 2.5rem;
+    display: none;
+    position: absolute;
+    background: #D7EBFA;
+    padding: 1.4rem;
+    /* padding: 0.6rem 4.0rem; */
+    /* width: 4.2rem; */
+    /* margin: auto; */
+    overflow: auto;
+    /* margin-right: 1.0rem; */
+    margin: auto;
+    width: 100%;
+    z-index: 5;
+  }
+  .dropdown-content-k {
+    top: 5.5rem;
+  }
+  .dropdown-content-k a {
+    color: #29415c;
+    background-color: white;
+    font-weight: bold;
+    /* text-decoration: none; */
+    display: block;
+    width: 100%;
+    text-align: center;
+    border-radius: 3.5rem;
+  }
+  .dropdown-content-k a:not(:last-child) {
+    margin-bottom: 1.0rem;
+  }
+  .dropdown-k a:hover {cursor: pointer;} 
+  
+  .show-k {display: block;}
+
+/* ######################################################################################### */
+/* ######################################################################################### */
+/* ######################################################################################### */
+/* ######################################################################################### */
+  @media (min-width: 40.0rem) and (max-width: 60.0rem) {
+
+    .grid-row {
+        height: 60px;
+        border-radius: 3.5rem;
+        font-size: 1.1rem;
+    }
+    img {
+        width: 42px;
+        height: 42px;
+    }
+    .check-container img {
+        width: 22px;
+        height: 22px;
+    }
+    .image-container {
+        position: absolute;
+        top: 0.55rem;
+        left: 0.42rem;
+        z-index: 2;
+    }
+    .check-container {
+        position: absolute;
+        top: 0.2rem;
+        left: 2.0rem;
+        z-index: 3;
+    }
+    .grid-row p{
+        margin: auto;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 60px;
+    }
+    .grid-row a{
+        margin: auto;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 60px;
+        text-decoration: none;
+        color: #29415c;
+    }
+    a.fill-div {
+        display: block;
+        height: 100%;
+        width: 100%;
+        text-decoration: none;
+        border-radius: 3.5rem;
+    }
+
+
+/* DROPDOWN */
+.dropbtn-k {
+    border-radius: .5rem;
+    font-weight: 500 ;
+    display: block;
+    align-self: center;
+    font-size: 1.1rem;
+    position: relative;
+    /* margin: auto; */
+    margin-right: 1.0rem;
+    min-width: max-content;
+    width: 100%;
+  }
+
+  .dropbtn-k:hover, .dropbtn-k:focus {
+    background-color: #F4618C;
+  }
+  
+  .dropdown-k.dropdown-center-k {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* display: inline-block; */
+  }
+  
+  .dropdown-content-k {
+    box-sizing: border-box;
+    border-radius: 2.5rem;
+    display: none;
+    position: absolute;
+    background: #D7EBFA;
+    padding: 1.4rem;
+    /* padding: 0.6rem 4.0rem; */
+    /* width: 4.2rem; */
+    /* margin: auto; */
+    overflow: auto;
+    /* margin-right: 1.0rem; */
+    margin: auto;
+    width: 100%;
+    z-index: 5;
+  }
+  .dropdown-content-k {
+    top: 5.5rem;
+  }
+  .dropdown-content-k a {
+    color: #29415c;
+    background-color: white;
+    font-weight: bold;
+    /* text-decoration: none; */
+    display: block;
+    width: 100%;
+    text-align: center;
+    border-radius: 3.5rem;
+  }
+  .dropdown-content-k a:not(:last-child) {
+    margin-bottom: 1.0rem;
+  }
+
+
+  .dropdown-k a:hover {cursor: pointer;} 
+  
+  .show-k {display: block;}
+}
+
+
+/* ######################################################################################### */
+/* ######################################################################################### */
+/* ######################################################################################### */
+/* ######################################################################################### */
+
+@media (min-width: 25.0rem) and (max-width: 40.0rem) {
+    .grid {
+        width: 85%;
+    }
+    .grid-row {
+        height: 50px;
+        border-radius: 3.5rem;
+        font-size: 1.05rem;
+    }
+    img {
+        width: 42px;
+        height: 42px;
+    }
+    .check-container img {
+        width: 21px;
+        height: 21px;
+    }
+    .image-container {
+        position: absolute;
+        top: 0.2rem;
+        left: 0.2rem;
+        z-index: 2;
+    }
+    .check-container {
+        position: absolute;
+        top: 0.2rem;
+        left: 2.0rem;
+        z-index: 3;
+    }
+    .grid-row p{
+        margin: auto;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 50px;
+    }
+    .grid-row a{
+        margin: auto;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 50px;
+        text-decoration: none;
+        color: #29415c;
+    }
+    a.fill-div {
+        display: block;
+        height: 100%;
+        width: 100%;
+        text-decoration: none;
+        border-radius: 3.5rem;
+    }
+
+
+/* DROPDOWN */
+.dropbtn-k {
+    border-radius: .5rem;
+    font-weight: 500 ;
+    display: block;
+    align-self: center;
+    font-size: 1.05rem;
+    position: relative;
+    /* margin: auto; */
+    margin-right: 1.0rem;
+    min-width: max-content;
+    width: 100%;
+  }
+
+  .dropbtn-k:hover, .dropbtn-k:focus {
+    background-color: #F4618C;
+  }
+  
+  .dropdown-k.dropdown-center-k {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* display: inline-block; */
+  }
+  
+  .dropdown-content-k {
+    box-sizing: border-box;
+    border-radius: 2.5rem;
+    display: none;
+    position: absolute;
+    background: #D7EBFA;
+    padding: 1.4rem;
+    /* padding: 0.6rem 4.0rem; */
+    /* width: 4.2rem; */
+    /* margin: auto; */
+    overflow: auto;
+    /* margin-right: 1.0rem; */
+    margin: auto;
+    width: 100%;
+    z-index: 5;
+  }
+  .dropdown-content-k {
+    top: 5.5rem;
+  }
+  .dropdown-content-k a {
+    color: #29415c;
+    background-color: white;
+    font-weight: bold;
+    /* text-decoration: none; */
+    display: block;
+    width: 100%;
+    text-align: center;
+    border-radius: 3.5rem;
+  }
+  .dropdown-content-k a:not(:last-child) {
+    margin-bottom: 1.0rem;
+  }
+
+  .dropdown-k a:hover {cursor: pointer;} 
+  
+  .show-k {display: block;}
+}
+
+
+/* ######################################################################################### */
+/* ######################################################################################### */
+/* ######################################################################################### */
+/* ######################################################################################### */
+
+@media (max-width: 25.0rem) {
+    .grid {
+        width: 100%;
+    }
+    .grid-row {
+        height: 50px;
+        border-radius: 3.5rem;
+        font-size: 0.8rem;
+        width: 14.0rem;
+    }
+    img {
+        width: 30px;
+        height: 30px;
+    }
+    .check-container img {
+        width: 21px;
+        height: 21px;
+    }
+    .image-container {
+        position: absolute;
+        top: 0.66rem;
+        left: 0.7rem;
+        z-index: 2;
+    }
+    .check-container {
+        position: absolute;
+        top: 0.2rem;
+        left: 1.9rem;
+        z-index: 3;
+    }
+    .grid-row p{
+        margin: auto;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 50px;
+    }
+    .grid-row a{
+        margin: auto;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 50px;
+        text-decoration: none;
+        color: #29415c;
+        padding-left: .3rem;
+    }
+    a.fill-div {
+        display: block;
+        height: 100%;
+        width: 100%;
+        text-decoration: none;
+        border-radius: 3.5rem;
+    }
+
+
+/* DROPDOWN */
+.dropbtn-k {
+    border-radius: .5rem;
+    font-weight: 500 ;
+    display: block;
+    align-self: center;
+    font-size: 0.8rem;
+    position: relative;
+    /* margin: auto; */
+    margin-right: 1.0rem;
+    min-width: max-content;
+    width: 100%;
+  }
+
+  .dropbtn-k:hover, .dropbtn-k:focus {
+    background-color: #F4618C;
+  }
+  
+  .dropdown-k.dropdown-center-k {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* display: inline-block; */
+  }
+  
+
+  .dropdown-content-k {
+    box-sizing: border-box;
+    border-radius: 2.5rem;
+    display: none;
+    position: absolute;
+    background: #D7EBFA;
+    padding: 1.4rem;
+    /* padding: 0.6rem 4.0rem; */
+    /* width: 4.2rem; */
+    /* margin: auto; */
+    overflow: auto;
+    /* margin-right: 1.0rem; */
+    margin: auto;
+    width: 80%;
+    z-index: 5;
+  }
+  .dropdown-content-k {
+    top: 5.5rem;
+  }
+  .dropdown-content-k a {
+    color: #29415c;
+    background-color: white;
+    font-weight: bold;
+    /* text-decoration: none; */
+    display: block;
+    width: 90%;
+    text-align: center;
+    border-radius: 3.5rem;
+  }
+  .dropdown-content-k a:not(:last-child) {
+    margin-bottom: 1.0rem;
+  }
+  .dropdown-k a:hover {cursor: pointer;} 
+  
+  .show-k {display: block;}
+}

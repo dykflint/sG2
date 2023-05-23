@@ -1,0 +1,65 @@
+-------------------- LESSON 1-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Mein Familienname ist XY. </strong>My family name is XY.
+</li><li><strong>Ich bin am XY in XY geboren. </strong>I was born on XY in XY.
+</li><li><strong>ledig </strong>single
+</li><li><strong>verheiratet </strong>married
+</li><li><strong>getrennt lebend </strong>separated
+</li><li><strong>geschieden </strong>divorced
+</li><li><strong>verwitwet </strong>widowed
+</li><li><strong>Kinder haben </strong>have children
+</li><li><strong>die Tochter </strong>the daughter
+</li><li><strong>der Sohn </strong>the son
+</li><li><strong>Ich lebe in XY. </strong>I live in XY.
+</li><li><strong>Meine Adresse ist XY. </strong>My address is XY.
+</li><li><strong>Meine Telefonnummer ist XY. </strong>My telephone number is XY.
+</li><li><strong>Ich spreche XY. </strong>I speak XY.
+</li><li><strong>Ich lerne Deutsch, weil ich XY. </strong>I am learning German because I speak XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich lebe in XY. 
+</li><li> Meine Adresse ist XY. 
+</li><li> Meine Telefonnummer ist XY. 
+</li><li> Ich spreche XY. 
+</li><li> Ich lerne Deutsch, weil ich XY. 
+<br /><br />46 =  Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 1-----------------------------

@@ -1,0 +1,75 @@
+-------------------- LESSON 32-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Beschwerde einlegen </strong>to make a complaint
+</li><li><strong>Wir möchten uns beschweren. </strong>We would like to complain.
+</li><li><strong>Die Enttäuschung war groß. </strong>The disappointment was huge.
+</li><li><strong>enttäuscht sein </strong>to be disappointed
+</li><li><strong>über 40 Minuten auf XY warten </strong>to wait over 40 minutes for XY
+</li><li><strong>keine gute Laune haben </strong>to not be in a good mood
+</li><li><strong>einen schlechten Tag haben </strong>to have a bad day
+</li><li><strong>Die Bedienung war XY. </strong>The waiter was XY.
+</li><li><strong>unhöflich </strong>rude
+</li><li><strong>nicht zuvorkommend </strong>not courteous
+</li><li><strong>wirklich unmöglich </strong>really unpleasant
+</li><li><strong>eine Wiedergutmachung verlangen </strong>demand compensation
+</li><li><strong>auf eine Wiedergutmachung bestehen </strong>insist on compensation
+</li><li><strong>Wir hoffen auf Ihr Verständnis </strong>We hope for your understanding
+</li><li><strong>Vielen Dank im Voraus für Ihre Verständnis </strong>Thank you in advance for your understanding
+</li><li><strong>Mit freundlichen Grüßen </strong>With kind regards
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> wir waren am 22.11.2017 um 20 Uhr in Ihrem Restaurant am Ku-Damm essen. 
+</li><li> Aber leider hat uns Ihr Services bitter enttäuscht. 
+</li><li> Der Kellner war den ganzen Abend sehr unfreundlich. 
+</li><li> Wir haben über 40 Minuten auf unser Essen gewartet. 
+</li><li> Als wir nachgefragt haben, sagte er grimmig zu uns: 
+</li><li> “Können Sie nicht warten?” 
+</li><li> Und als wir zahlen wollten, 
+</li><li> sagte er zu uns: “Geduld haben Sie wohl keine!” 
+</li><li> Wir waren zu geschockt um etwas zu sagen. 
+</li><li> Wir hätten gerne eine Wiedergutmachung für den ruinierten Abend. 
+</li><li> Wir hoffen, Sie verstehen unsere Frustration. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Mia and Max Mustermenschen 
+<br /><br />= 102 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 32-----------------------------

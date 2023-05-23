@@ -1,0 +1,1 @@
+const triggers = ['arbeiten zu viel / weniger', 'denken zu viel / weniger nach', 'bestellen ein Bier / einen Wein', 'entschuldigen sich nicht / entschuldigen sich', 'spazieren go for a walk / gehen schwimmen', 'studieren BWL / Philosophie', 'sein nett / ehrlich', 'lernen Französisch / Deutsch', 'kochen Essen / gehen essen', 'Tatort / gucken die Sportschau'];

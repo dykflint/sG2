@@ -1,0 +1,1 @@
+const triggers = ['Hund (m)', 'Handy (n)', 'Tasche (f)', 'Auto (n)', 'Portemonnaie (n)', 'Wohnung (f)', 'Schüssel (f)', 'Fahrrad (n)', 'Computer (m)', 'Kissen (n)'];

@@ -1,0 +1,73 @@
+-------------------- LESSON 51-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Gegenstand </strong>the object
+</li><li><strong>der Besitz </strong>the possession
+</li><li><strong>Gegenstände nutzen </strong>to use objects
+</li><li><strong>ungebrauchte Dinge weggeben </strong>to give away unused things
+</li><li><strong>neue Dinge anschaffen </strong>to buy new things
+</li><li><strong>das Einkaufsverhalten ändern </strong>to change shopping behaviour
+</li><li><strong>XY wirklich brauchen </strong>to really need XY
+</li><li><strong>notwendig sein </strong>to be necessary
+</li><li><strong>die innere Einstellung </strong>the inner attitude
+</li><li><strong>frei sein von der Einstellung </strong>to be free from the attitude
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Ich stelle mir vor, dass XY. </strong>I imagine that XY.
+</li><li><strong>Für mich selber habe ich entschieden, dass XY. </strong>For myself, I have decided that XY.
+</li><li><strong>Ich habe die Entscheidung getroffen, dass XY. </strong>I have made the decision that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Meines Erachtens besitzen wir zu viele Dinge, 
+</li><li> und schaffen uns zu viele neue Dinge an, 
+</li><li> die wir nicht nutzen. 
+</li><li> Ich glaube, dass es viel mit der inneren Einstellung zu tun hat: 
+</li><li> Definiere ich mich über meinen Besitz? 
+</li><li> Oder bin ich frei von dem Denken: 
+</li><li> “Hast du was, bist du was”. 
+</li><li> Ich selber darf nur etwas neues anschaffen, 
+</li><li> wenn ich es wirklich brauche. 
+</li><li> Dabei stelle ich mir die Frage: 
+</li><li> Wer hat den Gegenstand produziert? 
+</li><li> Wie wurde der Gegenstand produziert? 
+</li><li> Und das funktioniert… nicht immer, aber immer öfter. 
+<br /><br />= 86 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 51-----------------------------

@@ -1,0 +1,73 @@
+-------------------- LESSON 21-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Dank für XY. </strong>Thank you very much for XY.
+</li><li><strong>die Einladung </strong>the invitation
+</li><li><strong>einen Ausflug unternehmen </strong>going on an excursion
+</li><li><strong>in die Berge fahren </strong>go to the mountains
+</li><li><strong>Ich brauche eine Auszeit. </strong>I need some time off.
+</li><li><strong>Ich bin wirklich überarbeitet. </strong>I am really overworked.
+</li><li><strong>Ich stehe kurz vor dem Burnout. </strong>I'm on the verge of burnout.
+</li><li><strong>Ich habe große Lust, zu XY. </strong>I have a great desire to go to XY.
+</li><li><strong>Was kann man in den Bergen unternehmen? </strong>What can you do in the mountains?
+</li><li><strong>Was macht man so in den Bergen? </strong>What do you do in the mountains?
+</li><li><strong>Was soll ich mitbringen? </strong>What should I bring?
+</li><li><strong>die Skiausrüstung leihen </strong>rent the skiing equipment
+</li><li><strong>die Skikleidung </strong>the ski clothes
+</li><li><strong>die Vorfreude </strong>the anticipation
+</li><li><strong>Ich freue mich schon sehr auf XY. </strong>I am really looking forward to XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Max, Dear Max, 
+</li><li> wie schön von Dir zu hören. 
+</li><li> Danke für Deine Einladung in dein Ferienhaus. 
+</li><li> Ich komme gerne mit in die Berge. 
+</li><li> Was für Kleidung muss ich denn mitbringen? 
+</li><li> Ich war noch nie im Winter in den Bergen. 
+</li><li> Was kann man dort noch machen außer Skifahren und Wandern? 
+</li><li> Kannst du mir mehr über den Ort erzählen, an dem dein Haus steht? 
+</li><li> Ich freue mich (schon darauf), dich wiederzusehen. 
+</li><li> Und deine Freunde kennen zu lernen. 
+</li><li> Sag mir bitte (noch kurz) Bescheid, wann genau es losgeht. 
+</li><li> Bis bald See you soon 
+</li><li> Maria 
+<br /><br />= 92 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 21-----------------------------

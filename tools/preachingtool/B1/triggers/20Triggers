@@ -1,0 +1,1 @@
+const triggers = ['Bruder | jung | alt', 'Kind | neugierig | desinteressiert', 'Schwester | dumm | schlau', 'Mann | fleißig | faul', 'Nachbarin | leise | laut', 'Chefin | großzügig | geizig', 'Kollege | ehrgeizig | anspruchslos', 'Sohn | schlau | dumm', 'Arzt| kompetent ≠ inkompetent', 'Das Modell | gut (besser) aussehend | hässlich'];

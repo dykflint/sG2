@@ -1,0 +1,97 @@
+.pink-friday-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #0C031D;
+    width: min(90%, 70rem);
+    margin: auto;
+    border-radius: 35px;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.top img {
+    width: 100%;
+}
+
+.center {
+    display: flex; 
+    flex-direction: row;
+    gap: 25px;
+    max-width: 80%;
+    margin: auto;
+}
+.left, .right {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+.square {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.square p {
+    margin: auto;
+    color: white;
+    font-size: 40px;
+    padding-top: 15px;
+}
+.days, .hours, .minutes, .seconds {
+    width: 10.0rem;
+    aspect-ratio: 1/1;
+    border-radius: 25px;
+    border: 5px solid white;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.bottom a {
+    width: 80%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    font-weight: bolder;
+    background-color: #c3d9f7;
+    border-radius: 10px;
+    padding: 10px;
+}
+.bottom p {
+    color: white;
+    margin: auto;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.bottom a:hover {
+    background-color: #f4f5f7;
+    color: black;
+    transform: scale(1.05);
+}
+
+
+/* Smaller than 45.0rem screen sizes */
+@media (max-width: 55.0rem) {
+    .center {
+        display: flex;
+        flex-direction: column;
+    }
+}

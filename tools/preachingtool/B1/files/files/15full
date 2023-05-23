@@ -1,0 +1,24 @@
+let allTriggerAnswersJSON = `[
+{"Peter kommt später." : ["Peter wird wohl gleich kommen.", "Es wird wohl gleich regnen.", "Peter wird wohl krank sein.", "Das werde ich wohl nicht schaffen."],
+"Es regnet gleich." : ["Das wird wohl nichts werden.", "Der Präsident wird wohl keine Zeit für dich haben.", "Das wird wohl sicher viel kosten.", "Ich werde nichts sagen."],
+"Peter ist krank." : ["Ich werde dich auf jeden Fall heiraten.", "Ich werde dich für immer lieben.", "Ich werde heute den Kaffee machen.", "Ich werde heute früh schlafen gehen."],
+"Das schaffe ich nicht." : ["Wirst du wohl zurückkommen!", "Wirst du wohl aufhören!", "Wirst du wohl aufhören!", "Wirst du wohl herkommen!"],
+"Das wird nichts." : ["Wirst du wohl die Schuhe ausziehen!", "Wirst du das wohl sein lassen!", "Wirst du wohl die Klappe halten!", "Wirst du das wohl machen!"],
+"Der Präsident hat keine Zeit für dich." : [],
+"Das kostet sicher viel." : [],
+"Ich sage nichts." : [],
+"Ich heirate dich auf jeden Fall." : [],
+"Ich bezahle die Rechnung gleich." : [],
+"Ich liebe dich für immer." : [],
+"Ich mache heute den Kaffee." : [],
+"Ich gehe heute früh schlafen." : [],
+"Komm zurück!" : [],
+"Hör damit auf!" : [],
+"Komm mal her!" : [],
+"Zieh die Schuhe aus!" : [],
+"Lass das sein!" : [],
+"Halt die Klappe!" : [],
+"Mach das!" : []}
+]`;
+
+const triggers = ['Peter kommt später.', 'Es regnet gleich.', 'Peter ist krank.', 'Das schaffe ich nicht.', 'Das wird nichts.', 'Der Präsident hat keine Zeit für dich.', 'Das kostet sicher viel.', 'Ich sage nichts.', 'Ich heirate dich auf jeden Fall.', 'Ich bezahle die Rechnung gleich.', 'Ich liebe dich für immer.', 'Ich mache heute den Kaffee.', 'Ich gehe heute früh schlafen.', 'Komm zurück!', 'Hör damit auf!', 'Komm mal her!', 'Zieh die Schuhe aus!', 'Lass das sein!', 'Halt die Klappe!', 'Mach das!'];

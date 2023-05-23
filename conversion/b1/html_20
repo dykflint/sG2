@@ -1,0 +1,73 @@
+-------------------- LESSON 20-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Es war uns eine Freude, XY. </strong>It was a pleasure, XY.
+</li><li><strong>Es war schön, euch kennen zu lernen. </strong>It was nice to meet you.
+</li><li><strong>die Einladung </strong>the invitation
+</li><li><strong>Wir würden euch gerne einladen. </strong>We would like to invite you
+</li><li><strong>zu uns nach Hause einladen </strong>invite you to our home
+</li><li><strong>ins Restaurant einladen </strong>invite you to the restaurant
+</li><li><strong>im Gästezimmer übernachten </strong>stay in our guest room
+</li><li><strong>bei uns übernachten </strong>stay overnight with us
+</li><li><strong>warme Kleidung mitbringen </strong>bring warm clothes
+</li><li><strong>einen Ausflug unternehmen </strong>go on an excursion
+</li><li><strong>eine Wanderung machen </strong>go for a hike
+</li><li><strong>die Stadt erkunden </strong>explore the town
+</li><li><strong>Herzliche Grüße </strong>Warm greetings
+</li><li><strong>Liebe Grüße </strong>Kind regards
+</li><li><strong>Alles Liebe </strong>With love
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Maria, lieber Peter, 
+</li><li> es war schön, Euch kennen zu lernen. 
+</li><li> Wir möchten Euch gerne ein Wochenende zu uns nach Bayern einladen. 
+</li><li> Am besten ist das erste Wochenende im Oktober. 
+</li><li> Dann können wir zusammen Karten spielen, wie im Urlaub. 
+</li><li> Und einen Tag in die Berge fahren. 
+</li><li> Bringt bitte warme Kleidung mit. 
+</li><li> Im Herbst ist es hier schon relativ kalt. 
+</li><li> Natürlich könnt ihr bei uns im Gästezimmer übernachten. 
+</li><li> Sagt uns doch bitte Bescheid, ob Ihr im Oktober kommen könnt. 
+</li><li> Wir würden uns sehr freuen, Euch wiederzusehen. 
+</li><li> Alles Liebe 
+</li><li> Alina und Max 
+<br /><br />= 90 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 20-----------------------------

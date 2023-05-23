@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+<!-- Question entry 1.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Was dachte Frau Kaiser, wann Simone und Stefan abgereist (=left) sind?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Was dachte Frau Kaiser, wann Simone und Stefan abgereist (=left) sind?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[in der Früh]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[am Nachmittag]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[gestern Abend]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 2.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wann ist Frau Kaiser aufgewacht (=woken up)?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wann ist Frau Kaiser aufgewacht (=woken up)?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[um fünf Uhr morgens]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[um fünf Uhr abends]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[um fünfzehn Uhr]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 3.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wessen (=whose) Haus befindet sich am Ende der Straße?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wessen (=whose) Haus befindet sich am Ende der Straße?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[das Haus von Herr Fischer]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[das Haus vom Kanzler]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[das Haus von Frau Kaiser]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+<!-- Question entry 4.0-->
+  <question type="multichoice">
+    <name>
+      <text>
+<![CDATA[Wem wirft Simone einen Blick zu (=throw a glance)?]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+<![CDATA[Wem wirft Simone einen Blick zu (=throw a glance)?]]>
+      </text>
+    </questiontext>
+    <answer fraction="100.000">
+      <text>
+<![CDATA[Stefan]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[Frau Kaiser]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+<![CDATA[ihrem Spiegelbild (=mirror image)]]>
+      </text>
+    </answer>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>

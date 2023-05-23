@@ -1,0 +1,1 @@
+const triggers = ['Hund | Schäferhund | Pudel', 'Getränk | Bier | Limonade', 'Suppe | Kürbissuppe | Kartoffelsuppe', 'Frucht | Mandarine | Granatapfel', 'Gemüse | Artischocke | Karotte', 'Film | Krimi | Komödie', 'Instrument | Harfe | Schlagzeug', 'Möbelstück | Ohrensessel | Sofa', 'Schuh | Stöckelschuh | Turnschuh', 'Buch | Autobiographie | Krimi'];

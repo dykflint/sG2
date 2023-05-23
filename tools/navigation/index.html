@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Bar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--This is a modification of a template done by Tyler Hand (https://codepen.io/tylerhand-dev/pen/xxjyyBr)-->
+    <header class='main-header'>
+        <div class="menu-wrap">
+            <!-- Logo container -->
+            <a href='https://courses.smartergerman.com/' target='_blank' class="logo-wrap">
+                <img class="logo" src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://file-uploads.teachablecdn.com/c18f1e599a8948179e0675f768779de1/26c89c28c116420da7b8f1aa1f3004c1" alt="Logo" width=600>
+            </a>
+            
+            <!-- When this is checked, nav menu is dropped -->
+            <input type='checkbox' id='nav-tog'>
+    
+            <!-- Hamburger btn -->
+            <label for='nav-tog'  class="drop-trigger">
+                <!-- Hamburg bars -->
+                <span class="btn-bar top"></span>
+                <span class='btn-bar middle'></span>
+                <span class='btn-bar bottom'></span>
+            </label>
+            <!-- Menu -->
+            <nav class="main-nav">
+                <!-- This covers the whole background of the dropped menu -->
+                <label for='nav-tog' class='nav-revert'></label>
+                <!-- Menu items -->
+                <a href='https://courses.smartergerman.com/courses/' class="nav-item" target="_blank"><span> Courses </span></a>
+                <a href='https://courses.smartergerman.com/p/free-online-webinars' class="nav-item" target="_blank"><span> Live Q&A </span></a>
+                <a href='https://smartergerman.com/blog/' class="nav-item" target="_blank"><span> Blog </span></a>
+                <a href='https://courses.smartergerman.com/p/about' class="nav-item" target="_blank"><span> About </span></a>
+                <a href='https://courses.smartergerman.com/sign_in' class="nav-item" target="_blank"><span> Login </span></a>
+            </nav>
+        </div>
+    </header>
+</body>
+</html>

@@ -1,0 +1,74 @@
+-------------------- LESSON 34-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Informationen nachreichen </strong>to submit information later
+</li><li><strong>das Stipendium beantragen </strong>to apply for the scholarship
+</li><li><strong>die Hilfe / Unterstützung bekommen </strong>to get help / support
+</li><li><strong>den Deutschkurs besuchen </strong>to attend the German course
+</li><li><strong>das Architekturstudium beginnen </strong>to start studying architecture
+</li><li><strong>das Zertifikat benötigen </strong>to need the certificate
+</li><li><strong>sich auf die Prüfung vorbereiten </strong>to prepare for the exam
+</li><li><strong>die Aufnahmeprüfung schaffen </strong>to pass the entrance exam
+</li><li><strong>Zeit ins Deutschlernen investieren </strong>to invest time in learning German
+</li><li><strong>Land und Leute kennenlernen </strong>to get to know the country and its people
+</li><li><strong>sich XY wünschen </strong>to wish for XY
+</li><li><strong>ein Traum geht in Erfüllung </strong>a dream comes true
+</li><li><strong>Ich danke im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>vielen Dank für Ihre Unterstützung </strong>thank you very much for your support
+</li><li><strong>mit herzlichem Dank für Ihre Unterstützung </strong>with sincere thanks for your support
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> vielen Dank für Ihre Nachricht. 
+</li><li> Gerne reiche ich die fehlenden Informationen nach: 
+</li><li> Ich möchte das Stipendium für den Sprachkurs beantragen, 
+</li><li> weil es mein Traum ist, Architektur in Deutschland zu studieren. 
+</li><li> Dafür brauche ich das B2 Zertifikat. 
+</li><li> Ich habe ungefähr ein Jahr Zeit, 
+</li><li> um mich auf die Prüfung vorzubereiten, 
+</li><li> und ich möchte alle Zeit in den Deutschkurs investieren. 
+</li><li> Für mich ist es wichtig, vorher Land, Leute und Kultur kennenzulernen. 
+</li><li> Ich wünsche mir sehr, 
+</li><li> dass mein Traum in Erfüllung geht. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max Mustermann 
+<br /><br />= 88 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 34-----------------------------

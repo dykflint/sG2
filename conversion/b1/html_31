@@ -1,0 +1,75 @@
+-------------------- LESSON 31-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich möchte mich auf die Stellenanzeige bewerben. </strong>the job advertisement
+</li><li><strong>Ich möchte mich sehr gerne auf die Stellenanzeige bewerben. </strong>I would like to apply for the job advertisement.
+</li><li><strong>der Nebenjob </strong>the part-time job
+</li><li><strong>an der Universität Sport studieren </strong>study sport at university
+</li><li><strong>den Job mit dem Studium kombinieren </strong>combine the job with studying
+</li><li><strong>Das lässt sich gut kombinieren. </strong>It's a good combination.
+</li><li><strong>Sport treiben </strong>doing sports
+</li><li><strong>ins Fitnesstudio gehen </strong>go to the gym
+</li><li><strong>Krafttraining machen </strong>do strength training
+</li><li><strong>Ausdauertraining machen </strong>do endurance training
+</li><li><strong>joggen gehen </strong>Go jogging
+</li><li><strong>sich vorstellen </strong>introduce myself
+</li><li><strong>Ich stelle mich euch gerne vor. </strong>I would like to introduce myself to you.
+</li><li><strong>Im Voraus Dank für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Ich danke euch für XY. </strong>Thank you for XY.
+</li><li><strong>Herzliche Grüße </strong>Best regards
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebes Aktiva-Team! 
+</li><li> Eure Stellenanzeige hat mich sehr angesprochen, 
+</li><li> und ich möchte mich gerne auf eure Stellenanzeige bewerben. 
+</li><li> Im Augenblick studiere ich Sport an der Universität München. 
+</li><li> Außerdem gehe ich jeden zweiten Tag joggen, 
+</li><li> und besuche 3-4 Mal die Woche euer Fitnessstudio für mein Krafttraining. 
+</li><li> Ich kenne also das Studio und eure Kunden schon sehr gut. 
+</li><li> Ich könnte dreimal pro Woche Vollzeit arbeiten. 
+</li><li> Das würde sich gut mit dem Studium kombinieren lassen. 
+</li><li> Ich würde mich freuen, von euch zu hören, 
+</li><li> und stelle mich euch gerne vor. 
+</li><li> Ich freue mich sehr. 
+</li><li> Herzliche Grüße 
+</li><li> Max Mustermann 
+<br /><br />= 93 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 31-----------------------------

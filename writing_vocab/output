@@ -1,0 +1,43 @@
+#################### BEGINNING OF tmp #########################
+<button class="post-body-btn" onclick="myFunction('myDIV1')">View Vocabulary</button>
+<div id="myDIV1" style="display: none;">
+<table class="k-dot-table" id="k-table-border">
+  <tr>
+      <td><strong>Sehr geehrter Herr Herrlich,</strong></td>
+      <td>Dear Mr. Herrlich,</td>
+  </tr>
+  <tr>
+      <td><strong>vielen Dank für Ihre Einladung zum Geburtstag.</strong></td>
+      <td>thank you very much for your invitation to your birthday.</td>
+  </tr>
+  <tr>
+      <td><strong>Ich habe mich sehr darüber gefreut.</strong></td>
+      <td>I was very happy to receive it.</td>
+  </tr>
+  <tr>
+      <td><strong>Leider kann ich nicht kommen,</strong></td>
+      <td>Unfortunately, I can not come,</td>
+  </tr>
+  <tr>
+      <td><strong>da ich einen wichtigen Termin habe.</strong></td>
+      <td>because I have an important appointment.</td>
+  </tr>
+  <tr>
+      <td><strong>Ich wünsche Ihnen eine schöne Feier.</strong></td>
+      <td>I wish you a wonderful celebration.</td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><strong>Mit freundlichen Grüßen</strong></td>
+      <td>With kind regards</td>
+  </tr>
+  <tr>
+      <td><strong>Max Mustermann</strong></td>
+      <td>Max Mustermann</td>
+  </tr>
+</table>
+</div>
+#################### END #########################

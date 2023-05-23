@@ -1,0 +1,75 @@
+-------------------- LESSON 45-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Mittagsschlaf am Arbeitsplatz </strong>the nap at the workplace
+</li><li><strong>das Nickerchen </strong>the nap
+</li><li><strong>sich ein Nickerchen gönnen </strong>to take a nap
+</li><li><strong>sich aufs Ohr hauen </strong>to hit the hay
+</li><li><strong>die Konzentrationsfähigkeit </strong>the ability to concentrate
+</li><li><strong>der Puls </strong>the pulse rate
+</li><li><strong>der Herzschlag </strong>the heartbeat
+</li><li><strong>XY steigert sich /sinkt </strong>XY increases / decreases
+</li><li><strong>auf der einen Seite XY </strong>on one side XY
+</li><li><strong>auf der anderen Seite XY </strong>on the other side XY
+</li><li><strong>Meiner Meinung nach XY </strong>In my opinion XY
+</li><li><strong>XY hat viele Vorteile. </strong>XY has many advantages.
+</li><li><strong>außerdem </strong>also
+</li><li><strong>Es ist wissenschaftlich bewiesen, dass XY </strong>It is scientifically proven that XY
+</li><li><strong>Jeder sollte die Möglichkeit haben, XY zu tun. </strong>Everyone should have the opportunity to do XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Viele Arbeitgeber können sich nicht vorstellen, 
+</li><li> den Mittagsschlaf am Arbeitsplatz einzuführen. 
+</li><li> Das ist sehr schade, 
+</li><li> denn der Mittagsschlaf hat viele Vorteile. 
+</li><li> Während man schläft, 
+</li><li> sinken der Puls, die Atemfrequenz und der Herzschlag. 
+</li><li> Man kann sich beim Schlafen vom Stress erholen! 
+</li><li> Das ist doch fantastisch. 
+</li><li> Außerdem hat man wissenschaftlich bewiesen, 
+</li><li> dass die Reaktionsfähigkeit und Konzentrationsfähigkeit nach dem Schlaf besser ist. 
+</li><li> Ich selber arbeite als Freiberufler, 
+</li><li> und gönne mir täglich ein Nickerchen. 
+</li><li> Und wenn es nach mir ginge: 
+</li><li> Jeder Mitarbeiter sollte die Möglichkeit haben, 
+</li><li> sich aufs Ohr zu legen. 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 45-----------------------------

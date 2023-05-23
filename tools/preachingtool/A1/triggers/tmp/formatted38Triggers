@@ -1,0 +1,1 @@
+const triggers = ['Koch (m)', 'Finanzamt (n)', 'Chefin (f)', 'Mitbewohner (pl)', 'Steuerberater (m)', 'Lama (n)', 'Freunde (pl)', 'Anwalt (m)', 'Krokodil (n)', 'Mitarbeiter (pl)'];

@@ -1,0 +1,3879 @@
+-------------------- LESSON 1-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Mein Familienname ist XY. </strong>My family name is XY.
+</li><li><strong>Ich bin am XY in XY geboren. </strong>I was born on XY in XY.
+</li><li><strong>ledig </strong>single
+</li><li><strong>verheiratet </strong>married
+</li><li><strong>getrennt lebend </strong>separated
+</li><li><strong>geschieden </strong>divorced
+</li><li><strong>verwitwet </strong>widowed
+</li><li><strong>Kinder haben </strong>have children
+</li><li><strong>die Tochter </strong>the daughter
+</li><li><strong>der Sohn </strong>the son
+</li><li><strong>Ich lebe in XY. </strong>I live in XY.
+</li><li><strong>Meine Adresse ist XY. </strong>My address is XY.
+</li><li><strong>Meine Telefonnummer ist XY. </strong>My telephone number is XY.
+</li><li><strong>Ich spreche XY. </strong>I speak XY.
+</li><li><strong>Ich lerne Deutsch, weil ich XY. </strong>I am learning German because I speak XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich lebe in XY. 
+</li><li> Meine Adresse ist XY. 
+</li><li> Meine Telefonnummer ist XY. 
+</li><li> Ich spreche XY. 
+</li><li> Ich lerne Deutsch, weil ich XY. 
+<br /><br />46 =  Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 1-----------------------------
+-------------------- LESSON 2-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>verheiratet </strong>to be married
+</li><li><strong>ledig </strong>to be single
+</li><li><strong>geschieden </strong>to be divorced
+</li><li><strong>verwitwet </strong>to be widowed
+</li><li><strong>mein Mann / meine Frau </strong>my husband / my wife
+</li><li><strong>mein Lebenspartner / meine Lebenspartnerin </strong>my life partner
+</li><li><strong>Ich lebe mit meinem Mann / mit meiner Frau in XY. </strong>I live with my husband / with my wife in XY.
+</li><li><strong>Ich habe XY Kinder. </strong>I have XY children.
+</li><li><strong>meine Geschwister </strong>my siblings
+</li><li><strong>der Bruder (m) / die Brüder (pl) </strong>brother / brothers
+</li><li><strong>die Schwester (f) / die Schwestern (pl) </strong>the sister / the sisters
+</li><li><strong>mit unserem Hund </strong>with our dog
+</li><li><strong>mit unserer Katze </strong>with our cat
+</li><li><strong>Wir verstehen uns (nicht so) gut. </strong>We get along (not so) well.
+</li><li><strong>Ich habe viel / wenig Kontakt zu meiner Familie. </strong>I have much / little contact with my family.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich bin seit fünf Jahren geschieden, 
+</li><li> und habe keine Kinder. 
+</li><li> Meine Eltern leben nicht mehr. 
+</li><li> Meine Mutter wurde 90 Jahre alt und 
+</li><li> mein Vater ist mit 42 an einem Herzinfarkt gestorben. 
+</li><li> Ich bin ein Einzelkind, 
+</li><li> und habe keine Geschwister. 
+</li><li> Mit mir lebt zusammen mein lieber Dackel Waldi. 
+<br /><br />46 =  Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 2-----------------------------
+-------------------- LESSON 3-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Angestellte / die Angestellte </strong>the employee
+</li><li><strong>der Freiberufler / die Freiberuflerin </strong>the freelancer
+</li><li><strong>der Student / die Studentin </strong>the student
+</li><li><strong>der Rentner / die Rentnerin </strong>the pensioner
+</li><li><strong>die Vollzeit </strong>full time
+</li><li><strong>die Teilzeit </strong>part time
+</li><li><strong>Ich arbeite gern mit anderen Menschen. </strong>I like to work with other people.
+</li><li><strong>Ich arbeite draußen. </strong>I work outside.
+</li><li><strong>Ich arbeite von Zuhause. </strong>I work from home.
+</li><li><strong>Ich habe flexible Arbeitszeiten. </strong>I have flexible working hours.
+</li><li><strong>Ich verstehe mich gut mit meinen Mitstudenten / Mitstudentinnen. </strong>I get along well with my fellow students.
+</li><li><strong>Ich hätte gerne eine neue Stelle. </strong>I would like to have a new job.
+</li><li><strong>gut / schlecht verdienen </strong>to earn well / poorly
+</li><li><strong>stressig </strong>stressful
+</li><li><strong>arbeitslos sein </strong>unemployed
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich bin (Kraftfahrzeug-)Ingenieur (von Beruf). 
+</li><li> Ich arbeite in München bei BMW. 
+</li><li> Ich designe Karosserien. 
+</li><li> Und ich baue Karosserie-Modelle. 
+</li><li> Auf meinem Arbeitsplatz spreche ich leider kein Deutsch, sondern nur Englisch. 
+</li><li> Mein Beruf macht mir viel / keinen Spaß. 
+</li><li> Die Arbeit ist sehr interessant / anstrengend. 
+<br /><br />43 =  Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 3-----------------------------
+-------------------- LESSON 4-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich bin in XY geboren. </strong>I was born in XY.
+</li><li><strong>Meine Heimatstadt ist XY. </strong>My hometown is XY.
+</li><li><strong>die Kleinstadt </strong>the small town
+</li><li><strong>die Großstadt </strong>the big city
+</li><li><strong>auf dem Dorf aufwachsen </strong>to grow up in the village
+</li><li><strong>in der Stadt groß werden </strong>to grow up in the city
+</li><li><strong>in der Großstadt aufwachsen </strong>to grow up in the big city
+</li><li><strong>auf einem Bauernhof groß werden </strong>to grow up on a farm
+</li><li><strong>auf dem Land aufwachsen </strong>to grow up on the countryside
+</li><li><strong>in der Natur groß werden </strong>to grow up in the nature
+</li><li><strong>in einem Mietshaus aufwachsen </strong>to grow up in an apartment building
+</li><li><strong>viele Autos </strong>many cars
+</li><li><strong>Ich bin naturverbunden </strong>I am nature loving.
+</li><li><strong>Ich brauche XY zum Leben. </strong>I need XY for life.
+</li><li><strong>Heimat bedeutet XY für mich. </strong>Home means XY to me.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich heiße Ömer Bayram. 
+</li><li> Ich bin in Ankara geboren, 
+</li><li> in Istanbul aufgewachsen, 
+</li><li> und dort zur Schule gegangen. 
+</li><li> Das türkische Essen ist sehr abwechslungsreich. 
+</li><li> Mein Lieblingsgericht sind gefüllte Weinblätter mit Hackfleisch und Reis. 
+</li><li> Hier in Berlin schmecken sie gut, 
+</li><li> aber die von meiner Mutter sind die besten. 
+<br /><br />= 48 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 4-----------------------------
+-------------------- LESSON 5-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Es tut mir Leid. </strong>I'm sorry.
+</li><li><strong>Entschuldige bitte. </strong>I apologise.
+</li><li><strong>Leider muss ich XY absagen. </strong>Unfortunately I have to cancel XY.
+</li><li><strong>die Verabredung </strong>the date
+</li><li><strong>das Abendessen </strong>the dinner
+</li><li><strong>der Termin </strong>the appointment
+</li><li><strong>sich beeilen </strong>to hurry
+</li><li><strong>einen wichtigen Auftrag bekommen </strong>to get an important job
+</li><li><strong>einen Auftrag erledigen </strong>to finish a job
+</li><li><strong>Überstunden machen </strong>to work overtime
+</li><li><strong>Ich schlage vor, dass XY. </strong>I suggest XY.
+</li><li><strong>Ich danke für dein Verständnis. </strong>Thank you for your understanding.
+</li><li><strong>Ich hoffe, dass ist ok. </strong>I hope that is ok.
+</li><li><strong>Ich hoffe, es klappt morgen. </strong>I hope it works out tomorrow.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Martin, 
+</li><li> es tut mir wirklich leid, 
+</li><li> aber ich muss ich unser Abendessen heute Abend absagen. 
+</li><li> Ich habe soeben einen Eilauftrag bekommen, 
+</li><li> den ich bis heute Abend verschicken muss. 
+</li><li> Wie sieht es bei dir morgen oder übermorgen aus? 
+</li><li> Ich würde mich sehr freuen, 
+</li><li> wenn es klappt. 
+</li><li> Alles Liebe 
+</li><li> Martina 
+<br /><br />= 49 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 5-----------------------------
+-------------------- LESSON 6-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Dank für XY. </strong>Thank you very much for XY.
+</li><li><strong>Ich freue mich sehr über XY. </strong>I am very happy about XY.
+</li><li><strong>Die Vorfreude ist groß. </strong>The anticipation is great.
+</li><li><strong>der Ausflug </strong>the excursion
+</li><li><strong>die Zusage </strong>the confirmation
+</li><li><strong>die Weinprobe </strong>the wine tasting
+</li><li><strong>Hiermit möchte ich gerne zusagen. </strong>Herewith I would like to confirm (that I am joining).
+</li><li><strong>Leider schaffe ich es nicht zum/zur XY. </strong>Unfortunately, I will not be able to make it to XY.
+</li><li><strong>Es tut mir leid, aber ich bin verhindert. </strong>I am sorry, but I am unavailable.
+</li><li><strong>der Firmenbesuch </strong>the company visit
+</li><li><strong>die Anschrift </strong>the address
+</li><li><strong>Ich wollte mich erkundigen, ob XY. </strong>I wanted to enquire whether XY.
+</li><li><strong>Wo findet XY statt? </strong>Where will the XY take place?
+</li><li><strong>Im Voraus Dank für Ihre Mühen / Ihre Organisation. </strong>Thank you in advance for your efforts / organisation.
+</li><li><strong>Mit besten Grüßen </strong>With best regards
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Angelika, 
+</li><li> herzlichen Dank für die tolle Organisation! 
+</li><li> Leider kann ich an der Kanufahrt nicht teilnehmen, 
+</li><li> weil ich noch ausländische Firmenbesuch aus Kopenhagen zu Besuch habe. 
+</li><li> Aber zur Weinprobe schaffe ich es! 
+</li><li> Schickst du mir noch die Anschrift, wo die Weinprobe stattfindet? 
+</li><li> Dann komme ich direkt dorthin. 
+</li><li> Im Voraus lieben Dank für deine Mühen. 
+</li><li> Michaela 
+<br /><br />= 55 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 6-----------------------------
+-------------------- LESSON 7-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Glückwunsch zu XY. </strong>Congratulations on XY.
+</li><li><strong>Ich bin sehr froh zu hören, dass XY. </strong>I am very happy to hear that XY.
+</li><li><strong>Ich freue mich sehr / riesig für euch. </strong>I am very happy for you.
+</li><li><strong>Ich hoffe, dass XY. </strong>I hope that XY.
+</li><li><strong>Das sind phantastische Nachrichten. </strong>This is fantastic news.
+</li><li><strong>Ich sende euch XY. </strong>I send you XY.
+</li><li><strong>die allerbesten Wünsche </strong>the very best wishes
+</li><li><strong>alles Gute </strong>all the best
+</li><li><strong>viel Glück und Gesundheit </strong>good luck and health
+</li><li><strong>alles Liebe </strong>all the love
+</li><li><strong>schlaflose Nächte </strong>sleeples nights
+</li><li><strong>wohlauf / gesund sein </strong>to be well / healthy
+</li><li><strong>bis hoffentlich bald </strong>see you hopefully soon
+</li><li><strong>Ich kann es kaum erwarten, euch wiederzusehen. </strong>I can't wait to see you guys again.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Hallo ihr Lieben! 
+</li><li> Ich habe mich sehr über eure fantastische Nachricht gefreut! 
+</li><li> Wie schön zu hören, dass Mutter und Kind gesund sind. 
+</li><li> Ich schicke euch von Herzen die besten Wünsche und viel Gesundheit für eure Familie. 
+</li><li> Ich freue mich schon sehr, Frederik persönlich kennen zu lernen. 
+</li><li> Bis hoffentlich bald 
+</li><li> Michael 
+<br /><br />= 50 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 7-----------------------------
+-------------------- LESSON 8-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich habe schlechte Nachrichten. </strong>I have some bad news.
+</li><li><strong>krankheitsbedingt absagen </strong>to cancel due to illness
+</li><li><strong>aus Krankheitsgründen absagen </strong>to cancel due to illness
+</li><li><strong>Ich liege mit XY im Bett. </strong>I am sick in bed with XY.
+</li><li><strong>mit einer schlimmen Erkältung </strong>with a bad cold
+</li><li><strong>mit hohem Fieber </strong>with a high fever
+</li><li><strong>Ich schaffe es nicht. </strong>I can't make it.
+</li><li><strong>Könntest du XY übernehmen? </strong>Could you cover XY for me?
+</li><li><strong>Würdest du mir einen Gefallen tun? </strong>Would you do me a favour?
+</li><li><strong>im Anhang </strong>attached
+</li><li><strong>bei Unklarheiten / wenn etwas unklar ist </strong>if something isn't clear
+</li><li><strong>herzlichen Dank im Voraus </strong>thanks in advance
+</li><li><strong>schöne Grüße </strong>best regards
+</li><li><strong>viel zu tun haben </strong>to be very busy
+</li><li><strong>Tut mir Leid für die Umstände. </strong>Sorry for the inconvinience.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Petra, 
+</li><li> leider habe ich schlechte Nachrichten. 
+</li><li> Ich liege mit Fieber im Bett, 
+</li><li> und schaffe es nicht, morgen meine Präsentation zu halten. 
+</li><li> Könntest du sie vielleicht übernehmen? 
+</li><li> Im Anhang meine aktuelle Version, 
+</li><li> und bei Unklarheiten ruf einfach an. 
+</li><li> Tut mir leid für die Umstände, 
+</li><li> ich weiß ja wie viel du zu tun hast! 
+</li><li> Tausend Dank 
+</li><li> Michael 
+<br /><br />= 56 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 8-----------------------------
+-------------------- LESSON 9-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Könntest du mir einen Gefallen tun / helfen? </strong>Could you do me a favour / help me?
+</li><li><strong>Ich habe es nicht mehr geschafft, XY zu tun. </strong>I haven't managed to do XY.
+</li><li><strong>auf dem Weg sein </strong>be on my way
+</li><li><strong>plötzlich </strong>suddenly
+</li><li><strong>überraschend </strong>surprisingly
+</li><li><strong>Ich musste plötzlich / überraschend verreisen. </strong>I had to go away suddenly / surprisingly.
+</li><li><strong>Ich bin spätestens am XY zurück </strong>I will be back by XY at the latest
+</li><li><strong>die Wohnung aufräumen </strong>tidy the flat
+</li><li><strong>die Blumen gießen </strong>water the flowers
+</li><li><strong>das Geschirr spülen </strong>
+</li><li><strong> </strong>den Kater füttern
+</li><li><strong>feed the cat </strong>Du bist ein Schatz.
+</li><li><strong>You are a treasure. </strong>Danke für XY.
+</li><li><strong>Thank you for XY. </strong></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Pedro, 
+</li><li> meine Schwester hat heute Morgen ihr Baby bekommen. 
+</li><li> Ich bin jetzt auf dem Weg nach Hamburg, 
+</li><li> und habe die Wohnung etwas chaotisch hinterlassen. 
+</li><li> Könntest du bitte für mich die Spülmaschine einräumen, 
+</li><li> die Wäsche aufhängen, 
+</li><li> und Kater Momo füttern? 
+</li><li> Ganz lieben Dank. 
+</li><li> Du bist ein Schatz. 
+</li><li> Bussi 
+</li><li> Maria 
+<br /><br />= 49 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 9-----------------------------
+-------------------- LESSON 10-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Dank für XY </strong>Thank you for XY.
+</li><li><strong>Danke schön für XY </strong>Thank you for XY.
+</li><li><strong>die gute Zusammenarbeit </strong>the good cooperation
+</li><li><strong>die Unterstützung </strong>the support
+</li><li><strong>Ich bin verhindert. </strong>I am unable to attend.
+</li><li><strong>Ich wünsche Ihnen XY. </strong>I wish you XY.
+</li><li><strong>frohe Weihnachten </strong>a Merry Christmas
+</li><li><strong>einen guten Rutsch </strong>a happy new year
+</li><li><strong>eine besinnliche Weihnachtszeit </strong>a contemplative Christmas time
+</li><li><strong>eine schöne Adventszeit </strong>a wonderful Advent season
+</li><li><strong>eine gemütliche Ferienzeit </strong>a pleasant holiday season
+</li><li><strong>leider </strong>unfortunately
+</li><li><strong>bereits </strong>already
+</li><li><strong>Bleiben Sie gesund! </strong>Stay healthy!
+</li><li><strong>Mit besten Grüßen </strong>With best regards
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Herr Schmitz, 
+</li><li> vielen Dank für die Einladung zur Weihnachtsfeier. 
+</li><li> Leider bin ich dieses Jahr verhindert, 
+</li><li> denn wir fliegen am 18.12. zu meinen Schwiegereltern nach Teneriffa. 
+</li><li> Ich wünsche Ihnen und Ihrer Familie ein frohes Weihnachtsfest 
+</li><li> und einen guten Rutsch ins Neue Jahr, 
+</li><li> Mit den besten Wünschen 
+</li><li> Maxima Mustermann 
+<br /><br />= 50 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 10-----------------------------
+-------------------- LESSON 11-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>verspätet ankommen </strong>arrive late
+</li><li><strong>mit großer Verspätung losfliegen </strong>to depart with a long delay
+</li><li><strong>wegen technischer Probleme </strong>due to technical problems
+</li><li><strong>jetzt erst </strong>now only
+</li><li><strong>leider </strong>unfortunately
+</li><li><strong>spätestens </strong>at the latest
+</li><li><strong>voraussichtlich </strong>expected
+</li><li><strong>Ich bitte vielmals um Entschuldigung. </strong>I apologise for any inconvenience.
+</li><li><strong>Ich melde mich, sobald ich gelandet bin. </strong>I will let you know as soon as I have landed.
+</li><li><strong>Bescheid geben </strong>to let someone know
+</li><li><strong>Entschuldigen Sie bitte die Verspätung. </strong>Please accept my apologies for the delay.
+</li><li><strong>Entschuldigen Sie bitte die Umstände. </strong>Please accept my apologies for the inconvenience.
+</li><li><strong>Ich danke für Ihre Verständnis. </strong>Thank you for your understanding.
+</li><li><strong>Es tut mir leid, dass Sie auf ich warten müssen. </strong>I'm sorry you have to wait for me.
+</li><li><strong>Das ist mir wirklich unangenehm. </strong>This is really uncomfortable for me.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Frau Ziegler, 
+</li><li> ich sitze leider jetzt erst im Flieger nach Berlin. 
+</li><li> Wegen technischer Probleme fliegen wir mit einer Stunde Verspätung los. 
+</li><li> Ich schaffe es voraussichtlich um 12 Uhr in der Firma zu sein. 
+</li><li> Ich bitte vielmals um Entschuldigung für diese Verspätung. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Maria Mustermann 
+<br /><br />= 50 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 11-----------------------------
+-------------------- LESSON 12-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Aushang </strong>the post
+</li><li><strong>die Bewerbung </strong>the application
+</li><li><strong>Ich möchte mich auf die Stelle als XY bewerben. </strong>I would like to apply for the position as XY.
+</li><li><strong>Ich möchte mich gerne als XY bei Ihnen vorstellen. </strong>I would like to introduce myself to you as XY.
+</li><li><strong>Meine Deutschkenntnisse sind XY. </strong>My German language skills are XY.
+</li><li><strong>fließend </strong>fluent
+</li><li><strong>sehr gut </strong>very good
+</li><li><strong>ein bisschen </strong>a little
+</li><li><strong>Ich habe Erfahrung als XY. </strong>I have experience as XY.
+</li><li><strong>Kellnern liegt mir sehr. </strong>I am very good in waitressing.
+</li><li><strong>der Umgang mit Menschen </strong>to deal with people
+</li><li><strong>Ich bin gut in XY. </strong>I am good at XY.
+</li><li><strong>Ich kenne mich mit XY gut aus. </strong>I am good with XY.
+</li><li><strong>Ich freue mich auf eine Nachricht. </strong>I am looking forward to hearing from you.
+</li><li><strong>Ich freue mich, Sie kennenzulernen. </strong>I look forward to meeting you.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Frau Bohne, 
+</li><li> ich möchte mich gerne bei Ihnen als Barista bewerben. 
+</li><li> Zurzeit studiere ich an der FU Berlin, 
+</li><li> und suche noch einen Nebeneinkommen. 
+</li><li> In Madrid habe ich zwei Jahre gekellnert, 
+</li><li> und als Barista gearbeitet. 
+</li><li> Ich freue mich sehr auf eine Nachricht von Ihnen. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max Mustermann 
+<br /><br />= 50 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 12-----------------------------
+-------------------- LESSON 13-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich habe ein dringendes Problem. </strong>I have an urgent problem.
+</li><li><strong>Es ist wirklich dringend. </strong>It is really urgent.
+</li><li><strong>das Problem lösen </strong>to solve the problem
+</li><li><strong>seit gestern </strong>since yesterday
+</li><li><strong>seit zwei Tagen </strong>since two days
+</li><li><strong>die Heizung </strong>the heating
+</li><li><strong>XY ist defekt. </strong>XY is defective.
+</li><li><strong>XY ist kaputt. </strong>XY is broken.
+</li><li><strong>XY funktioniert nicht mehr. </strong>XY no longer works.
+</li><li><strong>XY geht nicht mehr. (spoken language) </strong>XY no longer works.
+</li><li><strong>XY ist hin. (spoken language) </strong>XY is broken.
+</li><li><strong>einen Monteur schicken </strong>to send a mechanic
+</li><li><strong>Im Voraus Dank für Ihre Hilfe. </strong>Thank you in advance for your help.
+</li><li><strong>Ich bedanke mich sehr für Ihre Hilfe / Unterstützung. </strong>Thank you very much for your help / support.
+</li><li><strong>Könnten Sie mich zurückrufen? </strong>Could you call me back?
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Frau Bachmann, 
+</li><li> Ich habe ein dringendes Problem: 
+</li><li> Seit vorgestern funktioniert die Heizung nicht, 
+</li><li> und die Temperaturen sind auf 15 Grad gefallen. 
+</li><li> Leider kann ich Sie telefonisch nicht erreichen. 
+</li><li> Von daher meine Bitte per E-Mail, 
+</li><li> ob Sie heute einen Monteur schicken könnten? 
+</li><li> Herzlichen Dank im Voraus 
+</li><li> Max Mustermann 
+<br /><br />= 49 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 13-----------------------------
+-------------------- LESSON 14-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich interessiere mich für XY. </strong>I am interested in XY.
+</li><li><strong>Ich habe großes Interesse an XY. </strong>I am interested in XY.
+</li><li><strong>Ich möchte mich für XY anmelden. </strong>I would like to register for XY.
+</li><li><strong>den Deutschkurs besuchen </strong>attend the German course
+</li><li><strong>den Deutschkurs buchen </strong>book the German course
+</li><li><strong>die Kosten </strong>the costs
+</li><li><strong>eine Ermäßigung bekommen </strong>get a discount
+</li><li><strong>einen Rabatt bekommen </strong>get a discount
+</li><li><strong>für Studenten </strong>for students
+</li><li><strong>auf die XY Prüfung vorbereiten </strong>prepare for the XY exam
+</li><li><strong>Informationen schicken </strong>send information
+</li><li><strong>Vielen Dank im Voraus. </strong>Thank you in advance.
+</li><li><strong>Vielen Dank für Ihre Mühe. </strong>Thank you for your effort.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> ich möchte mich für den B1 Deutschkurs am Mittwochabend anmelden. 
+</li><li> Mich würde noch interessieren, 
+</li><li> ob es eine Studentenermäßigung gibt, 
+</li><li> und ob der Kurs auf die B1 Prüfung vorbereitet. 
+</li><li> Im Voraus Dank für Ihre Informationen. 
+</li><li> Maria Mustermann 
+<br /><br />= 41 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 14-----------------------------
+-------------------- LESSON 15-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>auf ein Inserat reagieren </strong>to respond to an advertisement
+</li><li><strong>Ist XY noch zu haben? </strong>Is XY still available?
+</li><li><strong>Ich würde mir XY gerne vorher anschauen. </strong>I would like to have a look at XY beforehand.
+</li><li><strong>Kann ich vorher eine Probefahrt machen? </strong>Can I take a test drive beforehand?
+</li><li><strong>Ist der Preis verhandelbar? </strong>Is the price negotiable?
+</li><li><strong>Der Preis ist für mich in Ordnung. </strong>The price is fine with me.
+</li><li><strong>Das geht klar. </strong>That's fine.
+</li><li><strong>Passt Ihnen XY? </strong>Does XY suit you?
+</li><li><strong>Würde XY gehen? </strong>Would XY work?
+</li><li><strong>Ich bin unter XY erreichbar. </strong>I can be reached at XY.
+</li><li><strong>Sie können mich unter XY erreichen. </strong>You can reach me at XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Guten Tag Frau Schmitz! 
+</li><li> Ich würde gerne wissen, 
+</li><li> ob das Gazelle Fahrrad noch zu haben ist? 
+</li><li> Der vorgeschlagene Preis von 150 Euro ist für mich in Ordnung. 
+</li><li> Ich könnte heute noch vorbeikommen, 
+</li><li> wenn es Ihnen auch passt. 
+</li><li> Ich bin unter 0123456789 erreichbar. 
+</li><li> Herzlichen Dank im Voraus 
+</li><li> Anna Antilope 
+<br /><br />= 48 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 15-----------------------------
+-------------------- LESSON 16-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich freue mich sehr, dass XY. </strong>I am very happy that XY.
+</li><li><strong>Die Vorfreude ist groß. </strong>The anticipation is great.
+</li><li><strong>Wir haben uns schon lange nicht gesehen. </strong>We haven't seen each other for a long time.
+</li><li><strong>das Wiedersehen feiern </strong>to celebrate the reunion
+</li><li><strong>Passt euch XY? </strong>Does XY suit you?
+</li><li><strong>Wie sieht's bei auch am XY aus? </strong>Would it be all right at XY?
+</li><li><strong>alles beim Alten </strong>everything the same
+</li><li><strong>Hier kann man einfach sein, der man ist. </strong>Here you can just be who you are.
+</li><li><strong>Man braucht sich nicht zu verstellen. </strong>You don't need to pretend.
+</li><li><strong>das Meer </strong>the sea
+</li><li><strong>die Alpen </strong>the Alps
+</li><li><strong>die Verrücktheit </strong>the craziness
+</li><li><strong>bei mir übernachten </strong>to spend the night at my place
+</li><li><strong>eine Tour durch meinen Kiez machen </strong>to take a stroll through my neighbourhood
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Matthias! 
+</li><li> Ich freue mich sehr, 
+</li><li> dass Ihr nach Deutschland kommt. 
+</li><li> Hamburg ist ja ganz nett, 
+</li><li> und München hat natürlich die Alpen, 
+</li><li> aber Berlin gefällt mir immer noch am besten! 
+</li><li> Man kann hier einfach sein, der man ist. 
+</li><li> Wo ist das noch heutzutage möglich? 
+</li><li> Bei mir alles beim Alten. 
+</li><li> Aber ich freue mich sehr, dich bald wiederzusehen. 
+</li><li> Wir könnten uns am 01. September treffen. 
+</li><li> Passt euch das auch? 
+</li><li> Dann gebe ich euch eine kleine Tour durch meinen Lieblingskiez. 
+</li><li> Liebe Grüße auch an Maria 
+</li><li> Max 
+<br /><br />= 84 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 16-----------------------------
+-------------------- LESSON 17-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Lange nichts von dir gehört. </strong>Long time no hear from you.
+</li><li><strong>Wie sieht's bei dir aus? </strong>How about you?
+</li><li><strong>einen neuen Job haben </strong>to have a new job
+</li><li><strong>neue Arbeit finden </strong>to find a new job
+</li><li><strong>Endlich habe ich den Absprung geschafft. </strong>I have finally made the jump.
+</li><li><strong>eine Arbeit, die mir gefällt </strong>a job I like
+</li><li><strong>die berufliche Herausforderung </strong>the professional challenge
+</li><li><strong>Ich arbeite jetzt als XY. </strong>I am now working as XY.
+</li><li><strong>einen neuen Partner haben </strong>to have a new partner
+</li><li><strong>solo sein </strong>to be solo
+</li><li><strong>umziehen - ich bin umgezogen </strong>to move - I have moved
+</li><li><strong>Hast du Lust XY? </strong>Do you fancy XY?
+</li><li><strong>Kommst du vorbei? </strong>Are you coming over?
+</li><li><strong>Komm mal vorbei! </strong>Come over!
+</li><li><strong>Lass uns mal wieder um die Häuser ziehen. </strong>Let's grab a beer.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Matteo, 
+</li><li> ich freu mich sehr für dich. 
+</li><li> Wie geht es Emilia und den Kindern? 
+</li><li> Ich arbeite auch viel, so dass ich am Wochenende oft nur chillen möchte. 
+</li><li> Ich habe nebenher mit einem Fernstudium für Wirtschaftspsychologie angefangen, 
+</li><li> und das kostet mich gerade viel Energie. 
+</li><li> Ich besuche euch gerne nächstes Wochenende. 
+</li><li> Soll ich am Samstagabend kommen, 
+</li><li> dann können wir wie früher um die Häuser ziehen? 
+</li><li> Oder doch lieber am Sonntag zum Kaffee trinken? 
+</li><li> Sag mir doch mal kurz Bescheid, wann es dir passt. 
+</li><li> Liebe Grüße 
+</li><li> Max 
+<br /><br />= 85 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 17-----------------------------
+-------------------- LESSON 18-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich freue mich sehr, dass XY. </strong>I am very pleased that XY.
+</li><li><strong>sich nach langer Zeit wieder melden </strong>to get in touch again after a long time
+</li><li><strong>Wir haben uns schon lange nicht gesehen. </strong>We haven't seen each other for a long time.
+</li><li><strong>Wie sieht's bei dir am XY aus? </strong>How are things with you at XY?
+</li><li><strong>alles beim Alten </strong>everything the same
+</li><li><strong>Mein Leben steht Kopf. </strong>My life is upside down.
+</li><li><strong>Ich bin Mutter / Vater geworden. </strong>I have become a mother / father.
+</li><li><strong>einen Burnout haben </strong>to have a burnout
+</li><li><strong>krankgeschrieben sein mit einem Burnout </strong>to be on sick leave with a burnout
+</li><li><strong>Ich lasse mich zum XY umschulen. </strong>I am retraining to become XY.
+</li><li><strong>Ich mache eine Umschulung zum Bäcker. </strong>I'm retraining to be a baker.
+</li><li><strong>ein Bier trinken gehen </strong>to grab a beer
+</li><li><strong>Lass uns XY. </strong>Let's XY.
+</li><li><strong>das Wiedersehen feiern </strong>to celebrate the reunion
+</li><li><strong>in die Lieblingskneipe gehen </strong>to go to the favourite pub
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Martha, 
+</li><li> Wir müssen uns unbedingt treffen. 
+</li><li> Wie lange bist du denn in Hamburg? 
+</li><li> In der Zwischenzeit war viel los: 
+</li><li> Ich bin Vater geworden, 
+</li><li> und du wirst es nicht glauben: Ginger ist die Mutter. 
+</li><li> Und vor einem halben Jahr habe ich einen burnout bekommen. 
+</li><li> Das hatte aber mehr mit meinem hektischen Beruf zu tun. 
+</li><li> Jetzt mache ich gerade eine Umschulung zum Bäcker. 
+</li><li> Lass uns am Wochenende treffen, 
+</li><li> dann erzähl ich dir mehr darüber. 
+</li><li> Hier meine neue Nummer: 01-23456789. 
+</li><li> Ich freu mich dich wiederzusehen. 
+</li><li> Liebe Grüße 
+</li><li> Max 
+<br /><br />= 86 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 18-----------------------------
+-------------------- LESSON 19-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Gar kein Problem. </strong>No problem at all.
+</li><li><strong>Das krieg ich hin. </strong>I can do that.
+</li><li><strong>Das schaffe ich heute noch. </strong>I can do it today.
+</li><li><strong>das Geburtstagsgeschenk besorgen </strong>to get the birthday present
+</li><li><strong>Er steht auf XY. </strong>He likes XY.
+</li><li><strong>XY findet er nicht so gut. </strong>He doesn't like XY.
+</li><li><strong>XY mag er übrigens gar nicht. </strong>He doesn't like XY at all, by the way.
+</li><li><strong>Er ist nicht so der Blumentyp. </strong>He's not the flower type.
+</li><li><strong>der Weinhändler </strong>the wine merchant
+</li><li><strong>Bei mir um die Ecke ist XY. </strong>There's XY around the corner from me.
+</li><li><strong>Ich schaffe es erst zu XY. </strong>I can only make it to XY.
+</li><li><strong>Ich kann erst um XY da sein. </strong>I can't be there until XY.
+</li><li><strong>Bis morgen </strong>See you tomorrow
+</li><li><strong>Bis dann </strong>See you then
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Erika, 
+</li><li> kein Problem, das kriege ich hin. 
+</li><li> Ich besorge heute noch ein Geschenk für unseren Chef und seine Frau. 
+</li><li> Ich weiß, dass unser Chef italienische Weine mag. 
+</li><li> Ich schaue mal bei meinem Lieblingshändler vorbei. 
+</li><li> Blumen mag er jedoch gar nicht. 
+</li><li> Er steht eher auf Topfpflanzen. 
+</li><li> Bei mir um die Ecke ist ein toller Pflanzenladen. 
+</li><li> Da besorge ich was. 
+</li><li> Ich komme aber erst um 21:00 Uhr, 
+</li><li> weil ich morgen erst noch das Arbeitsessen mit unseren Kunden habe. 
+</li><li> Bis morgen 
+</li><li> Max 
+</li><li> 
+<br /><br /></li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 19-----------------------------
+-------------------- LESSON 20-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Es war uns eine Freude, XY. </strong>It was a pleasure, XY.
+</li><li><strong>Es war schön, euch kennen zu lernen. </strong>It was nice to meet you.
+</li><li><strong>die Einladung </strong>the invitation
+</li><li><strong>Wir würden euch gerne einladen. </strong>We would like to invite you
+</li><li><strong>zu uns nach Hause einladen </strong>invite you to our home
+</li><li><strong>ins Restaurant einladen </strong>invite you to the restaurant
+</li><li><strong>im Gästezimmer übernachten </strong>stay in our guest room
+</li><li><strong>bei uns übernachten </strong>stay overnight with us
+</li><li><strong>warme Kleidung mitbringen </strong>bring warm clothes
+</li><li><strong>einen Ausflug unternehmen </strong>go on an excursion
+</li><li><strong>eine Wanderung machen </strong>go for a hike
+</li><li><strong>die Stadt erkunden </strong>explore the town
+</li><li><strong>Herzliche Grüße </strong>Warm greetings
+</li><li><strong>Liebe Grüße </strong>Kind regards
+</li><li><strong>Alles Liebe </strong>With love
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Maria, lieber Peter, 
+</li><li> es war schön, Euch kennen zu lernen. 
+</li><li> Wir möchten Euch gerne ein Wochenende zu uns nach Bayern einladen. 
+</li><li> Am besten ist das erste Wochenende im Oktober. 
+</li><li> Dann können wir zusammen Karten spielen, wie im Urlaub. 
+</li><li> Und einen Tag in die Berge fahren. 
+</li><li> Bringt bitte warme Kleidung mit. 
+</li><li> Im Herbst ist es hier schon relativ kalt. 
+</li><li> Natürlich könnt ihr bei uns im Gästezimmer übernachten. 
+</li><li> Sagt uns doch bitte Bescheid, ob Ihr im Oktober kommen könnt. 
+</li><li> Wir würden uns sehr freuen, Euch wiederzusehen. 
+</li><li> Alles Liebe 
+</li><li> Alina und Max 
+<br /><br />= 90 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 20-----------------------------
+-------------------- LESSON 21-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Dank für XY. </strong>Thank you very much for XY.
+</li><li><strong>die Einladung </strong>the invitation
+</li><li><strong>einen Ausflug unternehmen </strong>going on an excursion
+</li><li><strong>in die Berge fahren </strong>go to the mountains
+</li><li><strong>Ich brauche eine Auszeit. </strong>I need some time off.
+</li><li><strong>Ich bin wirklich überarbeitet. </strong>I am really overworked.
+</li><li><strong>Ich stehe kurz vor dem Burnout. </strong>I'm on the verge of burnout.
+</li><li><strong>Ich habe große Lust, zu XY. </strong>I have a great desire to go to XY.
+</li><li><strong>Was kann man in den Bergen unternehmen? </strong>What can you do in the mountains?
+</li><li><strong>Was macht man so in den Bergen? </strong>What do you do in the mountains?
+</li><li><strong>Was soll ich mitbringen? </strong>What should I bring?
+</li><li><strong>die Skiausrüstung leihen </strong>rent the skiing equipment
+</li><li><strong>die Skikleidung </strong>the ski clothes
+</li><li><strong>die Vorfreude </strong>the anticipation
+</li><li><strong>Ich freue mich schon sehr auf XY. </strong>I am really looking forward to XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Max, Dear Max, 
+</li><li> wie schön von Dir zu hören. 
+</li><li> Danke für Deine Einladung in dein Ferienhaus. 
+</li><li> Ich komme gerne mit in die Berge. 
+</li><li> Was für Kleidung muss ich denn mitbringen? 
+</li><li> Ich war noch nie im Winter in den Bergen. 
+</li><li> Was kann man dort noch machen außer Skifahren und Wandern? 
+</li><li> Kannst du mir mehr über den Ort erzählen, an dem dein Haus steht? 
+</li><li> Ich freue mich (schon darauf), dich wiederzusehen. 
+</li><li> Und deine Freunde kennen zu lernen. 
+</li><li> Sag mir bitte (noch kurz) Bescheid, wann genau es losgeht. 
+</li><li> Bis bald See you soon 
+</li><li> Maria 
+<br /><br />= 92 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 21-----------------------------
+-------------------- LESSON 22-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>eine besondere Begegnung </strong>a special encounter
+</li><li><strong>ganz unerwartet </strong>quite unexpectedly
+</li><li><strong>einen fremden Mann / eine fremde Frau ansprechen </strong>to approach a strange man / woman
+</li><li><strong>normalerweise </strong>normally
+</li><li><strong>schüchtern sein </strong>to be shy
+</li><li><strong>Ich traue mich (nicht), XY zu tun. </strong>I (don't) dare to do XY.
+</li><li><strong>Ich mag an ihm / ihr, dass XY. </strong>I like about him / her that XY.
+</li><li><strong>die Offenheit </strong>the openness
+</li><li><strong>viele Gemeinsamkeiten haben </strong>to have many things in common
+</li><li><strong>viele Interessen teilen </strong>to share many interests
+</li><li><strong>den Gleichen Sinn für Humor haben </strong>to have the same sense of humour
+</li><li><strong>viel gemeinsam unternehmen </strong>to do a lot together
+</li><li><strong>in Urlaub fahren </strong>to go on holiday
+</li><li><strong>Städte besichtigen </strong>to visit cities
+</li><li><strong>alte Filme anschauen </strong>to watch old films
+</li><li><strong>Ich fühle mich wie im siebten Himmel. </strong>I am head over heels in love.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> wie schön zu hören, dass du frisch verliebt bist. 
+</li><li> Ich freue mich für dich. 
+</li><li> Du erinnerst dich richtig, ich habe letzten Sommer eine tolle Frau/einen tollen Mann kennengelernt. 
+</li><li> Wir haben uns auf einem Meditationsseminar getroffen. 
+</li><li> Seitdem haben wir viel unternommen. 
+</li><li> Sie ist so entspannt und offen. 
+</li><li> Wir verstehen uns so richtig gut. 
+</li><li> Manchmal denke ich, es war Schicksal, 
+</li><li> dass wir uns getroffen haben. 
+</li><li> Ich glaube, 
+</li><li> dass wir für immer zusammen bleiben werden. 
+</li><li> Melde Dich einfach, 
+</li><li> sobald du Zeit hast dich zu treffen. 
+</li><li> Alles Liebe 
+</li><li> Max 
+<br /><br />= 88 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 22-----------------------------
+-------------------- LESSON 23-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Danke dir für XY. </strong>Thank you for XY.
+</li><li><strong>ebenfalls / ebenso </strong>likewise / as well
+</li><li><strong>Es hat mir ebenso gut gefallen. </strong>I enjoyed it just as much.
+</li><li><strong>eine tolle Auszeit haben </strong>to have a great time out
+</li><li><strong>Das hat mir sehr gut getan. </strong>It did me a lot of good.
+</li><li><strong>Das war Balsam für die Seele. </strong>It was balm for the soul.
+</li><li><strong>Könntest du bitte XY? </strong>Could you please XY?
+</li><li><strong>Es wäre ganz toll, wenn du XY. </strong>It would be really great if you could XY.
+</li><li><strong>Eile haben </strong>to be in a hurry
+</li><li><strong>Ich brauche XY dringend. </strong>I need XY urgently.
+</li><li><strong>selbstverständlich </strong>of course
+</li><li><strong>die extra Kosten übernehmen </strong>to pay the extra
+</li><li><strong>Du bist hier immer herzlich eingeladen. </strong>You are always welcome here.
+</li><li><strong>Hoffentlich bis bald. </strong>Hope to see you soon.
+</li><li><strong>Alles Liebe </strong>With love
+</li><li><strong>Viele liebe Grüße </strong>Warm wishes
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> ach Mensch super. 
+</li><li> Ich habe das Ladegerät schon vermisst. 
+</li><li> Könntest du es mir bitte per Express schicken? 
+</li><li> Die Kosten gehen selbstverständlich auf mich. 
+</li><li> Ich hatte eine sehr entspannte Reise, 
+</li><li> und habe mich mit einem älteren Herrn über den freien Willen unterhalten. 
+</li><li> Eine sehr spannende und hitzige Diskussion. 
+</li><li> Danke dir noch einmal für die schönen Tage in München. 
+</li><li> Die Auszeit war genau richtig für mich. 
+</li><li> Und du bist hier in München jederzeit herzlich Willkommen. 
+</li><li> Ich freue mich schon auf deinen Besuch! 
+</li><li> Viele liebe Grüße 
+</li><li> Maria / Max 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 23-----------------------------
+-------------------- LESSON 24-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich mag besonders gern XY. </strong>I especially like XY.
+</li><li><strong>Ich liebe es, zu XY. </strong>I love to XY.
+</li><li><strong>In meiner Freizeit unternehme ich XY. </strong>In my free time I XY.
+</li><li><strong>einen Ausflug machen </strong>to go on an excursion
+</li><li><strong>Museen besuchen </strong>to visit museums
+</li><li><strong>Schach spielen </strong>to play chess
+</li><li><strong>Sport treiben </strong>to play sports
+</li><li><strong>Freunde zum Essen einladen </strong>to invite friends for dinner
+</li><li><strong>faulenzen </strong>to laze around
+</li><li><strong>in die Sauna gehen </strong>to go to the sauna
+</li><li><strong>faulenzen </strong>to loaf
+</li><li><strong>sich Zeit für die alltäglichen Dinge nehmen </strong>to take time for everyday things
+</li><li><strong>viel / wenig Freizeit haben </strong>to have much / little free time
+</li><li><strong>eine neue Ausbildung machen </strong>to do a new apprenticeship
+</li><li><strong>ein neues Studium beginnen </strong>to start a new course of study
+</li><li><strong>seinen Traum verwirklichen </strong>to realise one's dream
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Ariane, 
+</li><li> vielen Dank für deine Mail. 
+</li><li> Ich habe mich sehr darüber gefreut. 
+</li><li> Du hast Recht, ich habe nicht viel Freizeit. 
+</li><li> So ein eigenes Unternehmen nimmt sehr viel Zeit in Anspruch. 
+</li><li> Aber wenn ich mal ein paar Stunden frei habe, 
+</li><li> spiele ich Klavier. 
+</li><li> Ich spiele schon seit ich fünf bin. 
+</li><li> Das entspannt mich sehr. 
+</li><li> Sport mache ich natürlich auch, 
+</li><li> aber das ist eher Pflicht als eine Freizeitaktivität. 
+</li><li> Radfahren finde ich auch super. 
+</li><li> Vielleicht besuche ich dich eines Tages. 
+</li><li> Dann fahren wir gemeinsam Rad. 
+</li><li> Ich freue mich auf deine nächste Mail. 
+</li><li> Viele liebe Grüße 
+</li><li> Maria 
+<br /><br />= 94 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 24-----------------------------
+-------------------- LESSON 25-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich könnte deine Hilfe gebrauchen. </strong>I could use your help.
+</li><li><strong>Könntest du mir helfen? </strong>Could you help me?
+</li><li><strong>eine Bitte haben </strong>to have a request
+</li><li><strong>um Hilfe bitten </strong>to ask for help
+</li><li><strong>Was würdest du tun? </strong>What would you do?
+</li><li><strong>Wo würdest du inserieren? </strong>Where would you advertise?
+</li><li><strong>Was rätst du mir? </strong>I would recommend that you do XY.
+</li><li><strong>Was empfiehlst du mir? </strong>My recommendation would be to do XY.
+</li><li><strong>eine Anzeige aufgeben </strong>to place an ad
+</li><li><strong>das soziale Netzwerk einschalten </strong>to use the social network
+</li><li><strong>ein Zimmer in einer WG (=Wohngemeinschaft) </strong>to get a room in a shared flat (WG = Wohngemeinschaft)
+</li><li><strong>nicht aufgeben </strong>to not give up
+</li><li><strong>immer positiv bleiben </strong>to always stay positive
+</li><li><strong>Liebe Grüße </strong>Kind regards
+</li><li><strong>Alles Liebe </strong>Warm wishes
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> ich möchte nächstes Jahr nach Deutschland ziehen, 
+</li><li> und habe ein paar Fragen an dich. 
+</li><li> Kannst du mir vielleicht eine Stadt empfehlen? 
+</li><li> Ist es schwer eine Wohnung in Deutschland zu finden? 
+</li><li> Und was muss ich beachten, wenn ich eine Wohnung suche? 
+</li><li> Ich suche natürlich auch eine Arbeit. 
+</li><li> Glaubst du, ich kann in meinem Beruf schnell eine Arbeitsstelle finden? 
+</li><li> Ich wäre dir für Deine Hilfe sehr dankbar. 
+</li><li> Und wenn ich dann in Deutschland bin, 
+</li><li> würde ich mich sehr über ein Wiedersehen mit dir freuen. 
+</li><li> Lieben Gruß 
+</li><li> Max 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 25-----------------------------
+-------------------- LESSON 26-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich bin sehr eingespannt. </strong>I am very busy.
+</li><li><strong>Der neue Job verlangt viel von mir ab. </strong>The new job demands a lot from me.
+</li><li><strong>Ich habe mich gut eingelebt. </strong>I have settled in well.
+</li><li><strong>seit meinem Jobwechsel </strong>since my job change
+</li><li><strong>ein hohes / niedriges Gehalt bekommen </strong>to get a high / low salary
+</li><li><strong>einen unbefristeten / befristeten Arbeitsvertrag haben </strong>to have a permanent / limited employment contract
+</li><li><strong>abwechslungsreiche Aufgaben haben </strong>to have varied tasks
+</li><li><strong>gute Aufstiegschancen haben </strong>to have good promotion prospects
+</li><li><strong>viele Überstunden machen </strong>to work a lot of overtime
+</li><li><strong>selbständig arbeiten </strong>to work independently
+</li><li><strong>kontaktfreudige Kollegen </strong>to have sociable colleagues
+</li><li><strong>anspruchsvolle Arbeit </strong>demanding work
+</li><li><strong>Kunden betreuen </strong>to look after customers
+</li><li><strong>Dienstreisen machen </strong>to make business trips
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Hey Michael, 
+</li><li> du hast schon lange nichts mehr von mir gehört. 
+</li><li> Die letzten Wochen haben mich mega eingespannt. 
+</li><li> Seit meinem neuen Jobwechsel habe ich keine Zeit mehr für Privates. 
+</li><li> Ich habe als Redakteur beim Berliner Rundfunk angefangen, 
+</li><li> und bin zuständig für die Serie “Das schaffst du nie”. 
+</li><li> Es geht darum, dass man unmögliche Aufgaben in viel zu wenig Zeit lösen soll.. 
+</li><li> Das Team ist fantastisch und hoch motiviert, 
+</li><li> und die Arbeitsmoral hier sehr hoch. 
+</li><li> Um 16:30 verlässt niemand das Büro :) 
+</li><li> Und dir, wie geht es dir? 
+</li><li> Hast du dich in deinem neuen Job gut eingelebt? 
+</li><li> Alles Liebe 
+</li><li> Maria 
+<br /><br />= 99 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 26-----------------------------
+-------------------- LESSON 27-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich möchte dich auf dem Laufenden halten. </strong>I want to keep you posted.
+</li><li><strong>ein Update schicken </strong>to send an update
+</li><li><strong>die Wohnungsanzeige </strong>a flat ad
+</li><li><strong>ein Wohnungsinserat aufgeben </strong>to post a flat ad
+</li><li><strong>umziehen - ich bin umgezogen </strong>to move - I have moved
+</li><li><strong>der Umzug </strong>the move
+</li><li><strong>die Möbelpacker </strong>the movers
+</li><li><strong>das Umzugsunternehmen </strong>the moving company
+</li><li><strong>die WG / Wohngemeinschaft </strong>the flat share / shared flat
+</li><li><strong>die Einweihungsparty feiern </strong>to celebrate the housewarming party
+</li><li><strong>aufreibend / anstrengend </strong>exhausting
+</li><li><strong>nervig </strong>annoying
+</li><li><strong>Alles hat gut geklappt. </strong>Everything went well.
+</li><li><strong>Der Umzug ist reibungslos verlaufen. </strong>The move went smoothly.
+</li><li><strong>Alles ist glatt über die Bühne gegangen. </strong>Everything went smoothly.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Maria, 
+</li><li> jetzt bekommst du endlich ein Update zum Umzug. 
+</li><li> Corona bedingt wurde es in der Wohngemeinschaft immer komplizierter. 
+</li><li> Die Bibliotheken waren geschlossen, 
+</li><li> und alle haben zu Hause studiert. 
+</li><li> Ich hatte keine Ruhe, mich auf meine Doktorarbeit zu konzentrieren. 
+</li><li> Jetzt wohne ich ein paar Straßen weiter in einer gemütlichen 2-Zimmer Wohnung. 
+</li><li> Und das alleine Wohnen gefällt mir sehr gut! 
+</li><li> Am 27.6. gibt es eine Einweihungsparty. 
+</li><li> Ich würde mich wahnsinnig freuen, 
+</li><li> wenn du kommst. 
+</li><li> Schreib doch mal, 
+</li><li>was gerade bei dir los ist. 
+</li><li> Alles Liebe 
+</li><li> Max 
+<br /><br />= 86 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 27-----------------------------
+-------------------- LESSON 28-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Stadt besichtigen </strong>to visit the city
+</li><li><strong>eine Stadtrundfahrt machen </strong>to take a sightseeing tour
+</li><li><strong>Sehenswürdigkeiten besichtigen </strong>to go sightseeing
+</li><li><strong>das XY Museum besuchen </strong>to visit a museum
+</li><li><strong>eine Ausstellung besuchen </strong>to visit an exhibition
+</li><li><strong>ins Theater gehen </strong>to visit the theatre
+</li><li><strong>ein Restaurant empfehlen </strong>to recommend a restaurant
+</li><li><strong>die Ermäßigung </strong>the discount
+</li><li><strong>die Konzertkarte kaufen </strong>the concert ticket
+</li><li><strong>das Infomaterial schicken </strong>the information material
+</li><li><strong>den Veranstaltungskalender schicken </strong>the calendar of events
+</li><li><strong>billig </strong>cheap
+</li><li><strong>Empfehlungen geben </strong>to give recommendations
+</li><li><strong>empfehlenswert </strong>recommendable
+</li><li><strong>Danke sehr </strong>Thank you very much
+</li><li><strong>Vielen Dank für die Mühen. </strong>Thank you very much for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> nächste Woche reise ich nach Berlin, 
+</li><li> und würde mich freuen, 
+</li><li> wenn Sie mir mit ein paar Informationen helfen könnten. 
+</li><li> Ich würde gerne wissen, 
+</li><li> welche Hotels im Stadtzentrum gut und billig sind, 
+</li><li> welche Museen Sie für moderne Kunst empfehlen können, 
+</li><li> und wo ich am besten Karten für die Philharmonie bekommen kann. 
+</li><li> Vielleicht können Sie mir ja ein paar Empfehlungen geben? 
+</li><li> Im Voraus herzlichen Dank für Ihre Mühen. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Michael Schmitz 
+<br /><br />= 76 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 28-----------------------------
+-------------------- LESSON 29-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Glückwunsch zum 40sten. </strong>Happy 40th birthday.
+</li><li><strong>ein runder Geburtstag </strong>A round birthday
+</li><li><strong>Ich danke Ihnen für XY. </strong>Thank you for XY.
+</li><li><strong>Herzlichen Dank für XY. </strong>Thank you very much for XY.
+</li><li><strong>Ich freue mich sehr über XY. </strong>I am very happy about XY.
+</li><li><strong>die Einladung dankend annehmen </strong>to accept the invitation with thanks
+</li><li><strong>Hiermit möchte ich Ihnen gerne zusagen. </strong>I would hereby like to confirm the invitation.
+</li><li><strong>die Zusage </strong>the confirmation
+</li><li><strong>eine Freund / eine Freundin mitbringen </strong>to bring a friend
+</li><li><strong>an besagtem Wochenende </strong>on the weekend in question
+</li><li><strong>Wenn möglich würde ich gerne XY. </strong>If possible, I would like to bring XY.
+</li><li><strong>eine Kleinigkeit mitbringen </strong>to bring along a little something
+</li><li><strong>Gibt es etwas, was ich mitbringen darf? </strong>Is there anything I may bring?
+</li><li><strong>sich etwas wünschen </strong>to wish for something
+</li><li><strong>Bevorzugen Sie XY oder XY? </strong>Do you prefer XY or XY?
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Herr Müller, 
+</li><li> Vielen Dank für Ihre Einladung zum Geburtstag. 
+</li><li> Hiermit möchte ich gerne zusagen. 
+</li><li> An besagtem Wochenende bekomme jedoch Besuch von meiner alten Studienkollegin aus Berlin. 
+</li><li> Ist es in Ordnung, 
+</li><li> wenn ich meinen Besuch mitbringe? 
+</li><li> Und kann ich vielleicht etwas zu trinken mitbringen? 
+</li><li> Einen leckeren Rot- oder Weißwein? 
+</li><li> In meinem letzten Sommerurlaub habe ich Rot- und Weißwein aus Frankreich importiert. 
+</li><li>Oder vielleicht haben Sie noch andere Wünsche? 
+</li><li>ch freue mich auf kommenden Samstag. 
+</li><li> Herzliche Grüße 
+</li><li> Max Mustermann 
+<br /><br />= 78 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 29-----------------------------
+-------------------- LESSON 30-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Muttersprache </strong>the mother tongue
+</li><li><strong>der Tandempartner, die Tandempartnerin </strong>the tandem partner
+</li><li><strong>die erfolgreiche Vermittlung </strong>the successful placement
+</li><li><strong>das Hobby </strong>the hobby
+</li><li><strong>die Freizeit </strong>the free time
+</li><li><strong>Meine Interessen sind XY. </strong>My interests are XY.
+</li><li><strong>In meiner Freizeit mache ich Musik. </strong>In my free time I play music.
+</li><li><strong>klettern gehen </strong>to go climbing
+</li><li><strong>spazieren gehen </strong>to go for a walk
+</li><li><strong>Yoga üben </strong>to practise yoga
+</li><li><strong>fotografieren </strong>to take photos
+</li><li><strong>Vielen Dank im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Vielen Dank für Ihre Mühen. </strong>Thank you for your efforts.
+</li><li><strong>Ich danke Ihnen für XY. </strong>Thank you for XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebes Sprachschulbüro, 
+</li><li> vielen herzlichen Dank für die Vermittlung von einem Tandempartner. 
+</li><li> Und anbei die Antworten auf Ihre Fragen: 
+</li><li> Mein Name ist Max Mustermann, 
+</li><li> ich bin 34 Jahre alt, 
+</li><li> und komme aus den USA. 
+</li><li>In meiner Freizeit interessiere ich mich für Kampfsport, 
+</li><li> vor allem für Karate. 
+</li><li> Englisch ist meine Muttersprache, 
+</li><li> und außerdem spreche ich Spanisch und ein bisschen Deutsch. 
+</li><li> Seit 6 Monaten lerne ich Deutsch mit smarterGerman. 
+</li><li> Ich kann mich am besten nachmittags mit meinem Tandempartner / meiner Tandempartnerin treffen. 
+</li><li> Um 15 Uhr bin ich immer mit meinem Sprachkurs fertig. 
+</li><li> Vielen Dank für Ihre Mühen 
+</li><li> Max Mustermann 
+<br /><br />= 95 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 30-----------------------------
+-------------------- LESSON 31-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich möchte mich auf die Stellenanzeige bewerben. </strong>the job advertisement
+</li><li><strong>Ich möchte mich sehr gerne auf die Stellenanzeige bewerben. </strong>I would like to apply for the job advertisement.
+</li><li><strong>der Nebenjob </strong>the part-time job
+</li><li><strong>an der Universität Sport studieren </strong>study sport at university
+</li><li><strong>den Job mit dem Studium kombinieren </strong>combine the job with studying
+</li><li><strong>Das lässt sich gut kombinieren. </strong>It's a good combination.
+</li><li><strong>Sport treiben </strong>doing sports
+</li><li><strong>ins Fitnesstudio gehen </strong>go to the gym
+</li><li><strong>Krafttraining machen </strong>do strength training
+</li><li><strong>Ausdauertraining machen </strong>do endurance training
+</li><li><strong>joggen gehen </strong>Go jogging
+</li><li><strong>sich vorstellen </strong>introduce myself
+</li><li><strong>Ich stelle mich euch gerne vor. </strong>I would like to introduce myself to you.
+</li><li><strong>Im Voraus Dank für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Ich danke euch für XY. </strong>Thank you for XY.
+</li><li><strong>Herzliche Grüße </strong>Best regards
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebes Aktiva-Team! 
+</li><li> Eure Stellenanzeige hat mich sehr angesprochen, 
+</li><li> und ich möchte mich gerne auf eure Stellenanzeige bewerben. 
+</li><li> Im Augenblick studiere ich Sport an der Universität München. 
+</li><li> Außerdem gehe ich jeden zweiten Tag joggen, 
+</li><li> und besuche 3-4 Mal die Woche euer Fitnessstudio für mein Krafttraining. 
+</li><li> Ich kenne also das Studio und eure Kunden schon sehr gut. 
+</li><li> Ich könnte dreimal pro Woche Vollzeit arbeiten. 
+</li><li> Das würde sich gut mit dem Studium kombinieren lassen. 
+</li><li> Ich würde mich freuen, von euch zu hören, 
+</li><li> und stelle mich euch gerne vor. 
+</li><li> Ich freue mich sehr. 
+</li><li> Herzliche Grüße 
+</li><li> Max Mustermann 
+<br /><br />= 93 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 31-----------------------------
+-------------------- LESSON 32-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Beschwerde einlegen </strong>to make a complaint
+</li><li><strong>Wir möchten uns beschweren. </strong>We would like to complain.
+</li><li><strong>Die Enttäuschung war groß. </strong>The disappointment was huge.
+</li><li><strong>enttäuscht sein </strong>to be disappointed
+</li><li><strong>über 40 Minuten auf XY warten </strong>to wait over 40 minutes for XY
+</li><li><strong>keine gute Laune haben </strong>to not be in a good mood
+</li><li><strong>einen schlechten Tag haben </strong>to have a bad day
+</li><li><strong>Die Bedienung war XY. </strong>The waiter was XY.
+</li><li><strong>unhöflich </strong>rude
+</li><li><strong>nicht zuvorkommend </strong>not courteous
+</li><li><strong>wirklich unmöglich </strong>really unpleasant
+</li><li><strong>eine Wiedergutmachung verlangen </strong>demand compensation
+</li><li><strong>auf eine Wiedergutmachung bestehen </strong>insist on compensation
+</li><li><strong>Wir hoffen auf Ihr Verständnis </strong>We hope for your understanding
+</li><li><strong>Vielen Dank im Voraus für Ihre Verständnis </strong>Thank you in advance for your understanding
+</li><li><strong>Mit freundlichen Grüßen </strong>With kind regards
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> wir waren am 22.11.2017 um 20 Uhr in Ihrem Restaurant am Ku-Damm essen. 
+</li><li> Aber leider hat uns Ihr Services bitter enttäuscht. 
+</li><li> Der Kellner war den ganzen Abend sehr unfreundlich. 
+</li><li> Wir haben über 40 Minuten auf unser Essen gewartet. 
+</li><li> Als wir nachgefragt haben, sagte er grimmig zu uns: 
+</li><li> “Können Sie nicht warten?” 
+</li><li> Und als wir zahlen wollten, 
+</li><li> sagte er zu uns: “Geduld haben Sie wohl keine!” 
+</li><li> Wir waren zu geschockt um etwas zu sagen. 
+</li><li> Wir hätten gerne eine Wiedergutmachung für den ruinierten Abend. 
+</li><li> Wir hoffen, Sie verstehen unsere Frustration. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Mia and Max Mustermenschen 
+<br /><br />= 102 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 32-----------------------------
+-------------------- LESSON 33-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>auf der Webseite </strong>on the website
+</li><li><strong>der lieferbare Artikel </strong>the deliverable item
+</li><li><strong>Die Kundennummer lautet XY. </strong>The customer number is XY.
+</li><li><strong>Die Bestellnummer ist XY. </strong>The order number is XY.
+</li><li><strong>die Bestellung annullieren / stornieren </strong>to cancel the order
+</li><li><strong>Es handelt sich um ein Geburtstagsgeschenk. </strong>It is a birthday present.
+</li><li><strong>Wie lange dauert es noch? </strong>How long will it take?
+</li><li><strong>pünktlich eintreffen </strong>to arrive on time
+</li><li><strong>bis spätestens XY eintreffen </strong>to arrive by XY at the latest
+</li><li><strong>Ansonsten muss ich leider XY stornieren. </strong>Otherwise, I'm afraid I'll have to cancel XY.
+</li><li><strong>hoffentlich </strong>hopefully
+</li><li><strong>Es wäre schön, wenn es klappt. </strong>It would be nice if it works out.
+</li><li><strong>Ich danke Ihnen im Voraus. </strong>Thank you in advance.
+</li><li><strong>Im Voraus danke ich für Ihre Mühen. </strong>Thank you in advance for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> ich habe auf Ihrer Website vor drei Wochen den singenden Barsch bestellt. 
+</li><li> Damals stand auf Ihrer Webseite, 
+</li><li> dass der Artikel direkt lieferbar ist. 
+</li><li> Meine Kundennummer ist 123456, 
+</li><li> und meine Bestellnummer ist 654321. 
+</li><li> Jetzt habe ich ein kleines Problem. 
+</li><li> Das Geschenk ist ein Gruppengeschenk zum Geburtstag, 
+</li><li> und wir möchten es diesen Samstag übergeben. 
+</li><li> Für mich ist wichtig zu wissen, 
+</li><li> ob die Bestellung bis Freitagmorgen eintrifft? 
+</li><li> Sonst muss ich die Bestellung leider annullieren. 
+</li><li> Hoffentlich klappt es noch! 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max Mustermann 
+<br /><br />= 85 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 33-----------------------------
+-------------------- LESSON 34-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Informationen nachreichen </strong>to submit information later
+</li><li><strong>das Stipendium beantragen </strong>to apply for the scholarship
+</li><li><strong>die Hilfe / Unterstützung bekommen </strong>to get help / support
+</li><li><strong>den Deutschkurs besuchen </strong>to attend the German course
+</li><li><strong>das Architekturstudium beginnen </strong>to start studying architecture
+</li><li><strong>das Zertifikat benötigen </strong>to need the certificate
+</li><li><strong>sich auf die Prüfung vorbereiten </strong>to prepare for the exam
+</li><li><strong>die Aufnahmeprüfung schaffen </strong>to pass the entrance exam
+</li><li><strong>Zeit ins Deutschlernen investieren </strong>to invest time in learning German
+</li><li><strong>Land und Leute kennenlernen </strong>to get to know the country and its people
+</li><li><strong>sich XY wünschen </strong>to wish for XY
+</li><li><strong>ein Traum geht in Erfüllung </strong>a dream comes true
+</li><li><strong>Ich danke im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>vielen Dank für Ihre Unterstützung </strong>thank you very much for your support
+</li><li><strong>mit herzlichem Dank für Ihre Unterstützung </strong>with sincere thanks for your support
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> vielen Dank für Ihre Nachricht. 
+</li><li> Gerne reiche ich die fehlenden Informationen nach: 
+</li><li> Ich möchte das Stipendium für den Sprachkurs beantragen, 
+</li><li> weil es mein Traum ist, Architektur in Deutschland zu studieren. 
+</li><li> Dafür brauche ich das B2 Zertifikat. 
+</li><li> Ich habe ungefähr ein Jahr Zeit, 
+</li><li> um mich auf die Prüfung vorzubereiten, 
+</li><li> und ich möchte alle Zeit in den Deutschkurs investieren. 
+</li><li> Für mich ist es wichtig, vorher Land, Leute und Kultur kennenzulernen. 
+</li><li> Ich wünsche mir sehr, 
+</li><li> dass mein Traum in Erfüllung geht. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max Mustermann 
+<br /><br />= 88 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 34-----------------------------
+-------------------- LESSON 35-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Die Vorbereitungen laufen. </strong>The preparations are underway.
+</li><li><strong>Die Vorfreude ist groß. </strong>The anticipation is great.
+</li><li><strong>sich freuen auf XY </strong>to look forward to XY
+</li><li><strong>Alle Sachen sind gepackt. </strong>All things are packed.
+</li><li><strong>der Arbeitsbeginn </strong>the start of work
+</li><li><strong>die Arbeitskleidung mitbringen </strong>to bring work clothes
+</li><li><strong>die Gummistiefel leihen </strong>to borrow rubber boots
+</li><li><strong>der Wochenplan </strong>the weekly schedule
+</li><li><strong>die Freizeit </strong>the free time
+</li><li><strong>Ich klettere für mein Leben gern. </strong>I like climbing for my life.
+</li><li><strong>einen Kletterkurs besuchen </strong>to attend a climbing course
+</li><li><strong>Herzlichen Dank für XY. </strong>Thank you very much for XY.
+</li><li><strong>Ich danke im Voraus für Ihre Mühen. </strong>Thank you in advance for your efforts.
+</li><li><strong>bis nächste Woche </strong>see you next week
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Demeter Bauernhof, 
+</li><li> ich freue mich schon sehr auf den Arbeitsbeginn nächste Woche! 
+</li><li> Ich habe alles vorbereitet und gepackt, 
+</li><li> und noch zwei praktische Fragen. 
+</li><li> Ich habe ganz normale Arbeitskleidung, 
+</li><li> aber keine wasserfesten Gummistiefel. 
+</li><li> Kann ich mir die bei Ihnen leihen? 
+</li><li> Könnten Sie mir auch noch schreiben, 
+</li><li> wie eine typische Arbeitswoche aussieht? 
+</li><li> Arbeite ich jeden Tag, und auch am Wochenende? 
+</li><li> Ich klettere für mein Leben gern. 
+</li><li> und würde gerne in der Freizeit einen Kletterkurs besuchen. 
+</li><li> Ich freue mich schon sehr auf die Zeit bei Ihnen. 
+</li><li> Vielen Dank im Voraus für Ihre Mühen. 
+</li><li> Klara Kletter 
+<br /><br />= 91 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 35-----------------------------
+-------------------- LESSON 36-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich habe großes Interesse für XY. </strong>I am very interested in XY.
+</li><li><strong>Ich interessiere mich sehr für Ihr Angebot. </strong>I am very interested in your offer.
+</li><li><strong>Ich suche / brauche Hilfe. </strong>I am looking for / need help.
+</li><li><strong>die verschlechterte Situation </strong>the worsened situation
+</li><li><strong>die große Herausforderung </strong>the big challenge
+</li><li><strong>Ich schaffe es nicht mehr. </strong>I can't manage it any more.
+</li><li><strong>Ich bin am Ende meiner Kräfte. </strong>I am at the end of my tether.
+</li><li><strong>Ich kann mich nicht mehr motivieren. </strong>I can't motivate myself any more.
+</li><li><strong>Ich habe es mit XY probiert, aber es hilft nicht. </strong>I have tried XY, but it doesn't help.
+</li><li><strong>eine Termin vereinbaren </strong>to make an appointment
+</li><li><strong>eine Probestunde machen </strong>to take a trial lesson
+</li><li><strong>Wird der Kurs von XY übernommen / bezahlt? </strong>Is the course covered / paid for by XY?
+</li><li><strong>die Gesundheitskasse </strong>the health insurance company
+</li><li><strong>Vielen Dank im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Ich danke Ihnen im Voraus für XY. </strong>Thank you in advance for XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Damen und Herren, 
+</li><li> ich habe mit großem Interesse Ihre Anzeige gelesen, 
+</li><li> und suche tatsächlich Hilfe. 
+</li><li> Durch Corona hat sich die Situation für mich verschlechtert. 
+</li><li> Zum Home-Office kommt die Schulbetreuung von unseren Kindern hinzu. 
+</li><li> Das ist für meinen Mann und mich eine große Herausforderung. 
+</li><li> Ich habe es mit Yoga und Meditation probiert, 
+</li><li> aber kann mich alleine nicht mehr motivieren. 
+</li><li> Ich würde sehr gerne einen Termin für eine Probestunde vereinbaren. 
+</li><li> Eine praktische Frage: 
+</li><li> Wird der Kurs von der Gesundheitskasse bezahlt? 
+</li><li> Herzlichen Dank im Voraus für die Information 
+</li><li> Susanne Stress 
+<br /><br />= 89 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 36-----------------------------
+-------------------- LESSON 37-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>für den Zeitraum </strong>for the period
+</li><li><strong>auf der Suche sein nach XY </strong>to look for XY
+</li><li><strong>ein Zimmer für XY Monate suchen </strong>to look for a room for XY months
+</li><li><strong>vom XY bis zum XY </strong>from XY to XY
+</li><li><strong>am liebsten </strong>preferably
+</li><li><strong>im Zentrum </strong>in the centre
+</li><li><strong>in zentraler Lage </strong>in a central location
+</li><li><strong>XY spielt eine wichtige Rolle </strong>XY plays an important role
+</li><li><strong>XY ist nicht so wichtig </strong>XY is not so important
+</li><li><strong>die Preiskategorie </strong>the price category
+</li><li><strong>Was können Sie mir in der günstigen Preiskategorie anbieten? </strong>What can you offer me in the affordable price category?
+</li><li><strong>Meine Schmerzensgrenze ist XY Euro. </strong>My pain threshold is XY euros.
+</li><li><strong>vielen Dank im Voraus </strong>thank you in advance
+</li><li><strong>Ich danke Ihnen im Voraus für die Mühen. </strong>Thank you in advance for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> im Frühjahr komme ich nach München, 
+</li><li> wo ich vom 1.4. bis 30.6. einen Deutschintensivkurs besuchen werde. 
+</li><li> Für den Zeitraum suche ich nach einer zentralen und kostengünstigen Unterkunft, 
+</li><li> gerne auch in einer Wohngemeinschaft. 
+</li><li> Für mich spielt dabei die zentrale Lage eine wichtige Rolle, 
+</li><li> die Größe ist nicht relevant. 
+</li><li> Unter der Woche bin ich nur abends und am Wochenende zuhause. 
+</li><li> Könnten Sie mir ungefähre Preise nennen, 
+</li><li> und vielleicht schon Angebote machen? 
+</li><li> Meine Schmerzensgrenze liegt bei 750 Euro alles inklusive. 
+</li><li> Ich danke Ihnen im Voraus für Ihre Mühen. 
+</li><li> Max Mustermann 
+<br /><br />= 94 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 37-----------------------------
+-------------------- LESSON 38-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Anzeige </strong>the advertisement
+</li><li><strong>mit großem Interesse </strong>with great interest
+</li><li><strong>Ich bin neugierig geworden auf XY. </strong>I have become curious about XY.
+</li><li><strong>Ich bin auf der Suche nach XY. </strong>I am looking for XY.
+</li><li><strong>sich von einer schweren Operation erholen </strong>to recover from a serious operation
+</li><li><strong>Ich fühle mich gesundheitlich XY. </strong>I feel XY in terms of health.
+</li><li><strong>Ich bin immer noch nicht fit. </strong>I am still not fit.
+</li><li><strong>angeschlagen </strong>ailing
+</li><li><strong>antriebslos </strong>listless
+</li><li><strong>Kraft tanken </strong>recharge my batteries
+</li><li><strong>zu Kräften kommen </strong>regain strength
+</li><li><strong>die Kosten übernehmen </strong>the costs are covered by
+</li><li><strong>die Gesundheitskasse </strong>the health insurance
+</li><li><strong>einen Kostenvoranschlag schicken </strong>send a quotation
+</li><li><strong>Herzlichen Dank im Voraus für XY. </strong>Thank you very much in advance for XY.
+</li><li><strong>Ich danke Ihnen sehr für XY. </strong>Thank you very much for XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Damen und Herren, 
+</li><li> ich bin bei Ihrer Anzeige sehr neugierig geworden. 
+</li><li> Ich erhole mich im Augenblick von einer schwierigen Operation, 
+</li><li> die ich vor einem halben Jahr hatte. 
+</li><li> Leider fühle ich mich immer noch antriebslos und müde. 
+</li><li> Jetzt bin ich auf der Suche nach einer passenden Kur, 
+</li><li> die mir hilft, wieder Kraft zu tanken. 
+</li><li> Könnten Sie mir bitte einen Kostenvoranschlag für eine 14-tägige Kur schicken? 
+</li><li> Und wird die Kur von der Gesundheitskasse übernommen? 
+</li><li> Herzlichen Dank im Voraus für die Information 
+</li><li> Martin Müde 
+<br /><br />= 83 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 38-----------------------------
+-------------------- LESSON 39-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich brauche Ihre Unterstützung / Hilfe </strong>I need your support / help
+</li><li><strong>XY wurde gestohlen </strong>XY was stolen
+</li><li><strong>XY wurde geklaut </strong>XY was stolen
+</li><li><strong>der Diebstahl </strong>the theft
+</li><li><strong>eine Meldung bei der Polizei machen </strong>to make a report to the police
+</li><li><strong>die Versichertenkarte bestellen </strong>to order the insurance card
+</li><li><strong>die Versichertennummer </strong>the insurance number
+</li><li><strong>dauern </strong>to take
+</li><li><strong>Wie lange dauert es ungefähr? </strong>Approximately how long does it take?
+</li><li><strong>der Arzttermin </strong>the doctor's appointment
+</li><li><strong>herzlichen Dank für XY </strong>thank you very much for XY
+</li><li><strong>vielen Dank im Voraus für XY </strong>thank you in advance for XY
+</li><li><strong>Ich danke Ihnen im Voraus für Ihre Mühen. </strong>Thank you in advance for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> ich brauche Ihre Hilfe: 
+</li><li> Leider ist mir letzte Woche mein Portemonnaie mit Versichertenkarte gestohlen worden. 
+</li><li> Ich habe es direkt bei der Polizei gemeldet, 
+</li><li> aber bis heute keine positiven Nachrichten bekommen. 
+</li><li> Darum möchte ich eine neue Karte bei Ihnen bestellen. 
+</li><li> Meine Versichertennummer ist: 123456789, 
+</li><li> mein Versichertenname ist Michael Johannes Harald Schmitz, 
+</li><li> und meine Geburtsdatum ist: 22.10.1976. 
+</li><li> Wissen Sie, 
+</li><li> wie lange es ungefähr dauert? 
+</li><li> Nächste Woche habe ich nämlich zwei Arzttermine. 
+</li><li> Ich danke Ihnen im Voraus für Ihre Mühen. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Michael Schmitz 
+<br /><br />= 89 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 39-----------------------------
+-------------------- LESSON 40-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das Interesse haben an der Wohnung </strong>to have interest in the flat
+</li><li><strong>Ist die Wohnung noch zu haben? </strong>Is the flat still available?
+</li><li><strong>Ist die Wohnung noch frei? </strong>Is the flat still available?
+</li><li><strong>sich für das Wohnungsinserat interessieren </strong>to be interested in the flat advertisement
+</li><li><strong>Verfügt die Wohnung über XY? </strong>Does the flat have XY?
+</li><li><strong>Zuwachs bekommen </strong>to have a child
+</li><li><strong>der Umzug </strong>the move
+</li><li><strong>die Besichtigung </strong>the viewing
+</li><li><strong>tierlieb </strong>animal-loving
+</li><li><strong>Tiere sind gestattet </strong>animals are allowed
+</li><li><strong>die monatlichen Nebenkosten </strong>the monthly service charges
+</li><li><strong>die anfallende Kaution </strong>the deposit to be paid
+</li><li><strong>Herzlichen Dank im Voraus für XY. </strong>Thank you in advance for XY.
+</li><li><strong>Wir danken Ihnen für XY. </strong>Thank you for XY.
+</li><li><strong>Sie können mich am besten unter XY erreichen. </strong>You can best reach me at XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Herr Schmitz, 
+</li><li> meine Frau und ich interessieren uns sehr für Ihre 3-Zimmer Wohnung. 
+</li><li> Wir wohnen seit 7 Jahren in München, 
+</li><li> und bekommen im Januar unser erstes Kind. 
+</li><li> Jetzt suchen wir eine größere Wohnung für uns und unseren Dackel Wolfgang. 
+</li><li> Es freut uns sehr, 
+</li><li> dass Sie Tiere mögen. 
+</li><li> Eine Frage haben wir noch: 
+</li><li> Wie hoch sind Nebenkosten und Kaution? 
+</li><li> Sie erreichen uns am besten unter meiner Handynummer: 0123456789. 
+</li><li> Wir danken Ihnen im Voraus für Ihre Mühen, 
+</li><li> und freuen uns auf eine eventuelle Besichtigung. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Max & Maria Mustermann 
+<br /><br />= 91 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 40-----------------------------
+-------------------- LESSON 41-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Anzeige </strong>the advertisement
+</li><li><strong>Mit großem Interesse habe ich Ihre Anzeige gelesen. </strong>I read your advertisement with great interest.
+</li><li><strong>Ich möchte mich gerne vorstellen. </strong>I would like to introduce myself.
+</li><li><strong>viel Erfahrung haben </strong>to have a lot of experience
+</li><li><strong>über viel Erfahrung verfügen </strong>to have a lot of experience
+</li><li><strong>Erziehungswissenschaften studieren </strong>to study educational science
+</li><li><strong>regelmäßig auf Kinder aufpassen </strong>to look after children regularly
+</li><li><strong>Meine Lohnvorstellungen sind XY Euro pro Stunde. </strong>My wage expectations are XY euros per hour.
+</li><li><strong>Normalerweise nehme ich zwischen XY und XY Euro pro Stunde. </strong>I usually charge between XY and XY euros per hour.
+</li><li><strong>Üblich sind XY Euro pro Stunde. </strong>Usual are XY Euro per hour.
+</li><li><strong>bei Interesse </strong>if you are interested
+</li><li><strong>einen Termin vereinbaren </strong>to make an appointment
+</li><li><strong>Ich bin telefonisch unter XY erreichbar. </strong>I can best be reached by phone at XY.
+</li><li><strong>Ich freue mich auf XY. </strong>I am looking forward to XY.
+</li><li><strong>Ich freue mich, von Ihnen zu hören. </strong>I look forward to hearing from you.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Familie Klein, 
+</li><li> ich habe Ihre Anzeige im Babysitter Portal gelesen, 
+</li><li> und möchte mich vorstellen. 
+</li><li> Ich heiße Nena Nanny, 
+</li><li> ich bin 23 Jahre alt und gelernte Erzieherin. 
+</li><li> Außerdem studiere ich Erziehungswissenschaften an der FU Hamburg, 
+</li><li> und passe regelmäßig auf meine Nichte auf. 
+</li><li> Da ich relativ viel Erfahrung habe, 
+</li><li> nehme ich zwischen 15-17 Euro die Stunde. 
+</li><li> Bei Interesse können wir gerne einen Termin zum Kennenlernen vereinbaren. 
+</li><li> Sie erreichen mich telefonisch unter: 01-23456789 
+</li><li> Ich freue mich schon sehr, von Ihnen zu hören. 
+</li><li> Herzliche Grüße 
+</li><li> Nena Nanny 
+<br /><br />= 83 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 41-----------------------------
+-------------------- LESSON 42-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich bedaure sehr, dass ich XY. </strong>I am very sorry that I have to XY.
+</li><li><strong>Es tut mir leid, dass ich XY. </strong>I am sorry that I have to XY.
+</li><li><strong>Entschuldigen Sie bitte die Umstände, aber XY. </strong>I apologise for the inconvenience, but XY.
+</li><li><strong>den Termin absagen </strong>to cancel the appointment
+</li><li><strong>den Termin verschieben </strong>to postpone the appointment
+</li><li><strong>den Termin verlegen </strong>to reschedule the appointment
+</li><li><strong>mit Grippe im Bett liegen </strong>to stay in bed with flu
+</li><li><strong>krank sein </strong>to be ill
+</li><li><strong>Passt Ihnen XY? </strong>Does XY suit you?
+</li><li><strong>Wie wäre es am XY? </strong>How about XY?
+</li><li><strong>Ginge auch XY? </strong>Would XY also work?
+</li><li><strong>vielen Dank für Ihr Verständnis </strong>thank you for your understanding
+</li><li><strong>herzlichen Dank im Voraus für Ihr Verständnis </strong>thank you in advance for your understanding
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrter Herr Schmitz! 
+</li><li> Entschuldigen Sie bitte die Umstände, 
+</li><li> aber leider muss ich den Termin für das Elterngespräch morgen absagen. 
+</li><li> Ich bin plötzlich krank geworden, 
+</li><li> und liege mit Grippe im Bett. 
+</li><li> Können wir bitte einen Ersatztermin für nächste Woche vereinbaren? 
+</li><li> Ich könnte zum Beispiel am Dienstag und Donnerstag nach 14 Uhr. 
+</li><li> Passt es Ihnen auch? 
+</li><li> Ansonsten ginge es die Woche darauf an allen Tagen nach 13 Uhr. 
+</li><li> Ich bedaure es sehr, 
+</li><li> dass ich den Termin verschieben muss. 
+</li><li> Herzlichen Dank im Voraus für Ihr Verständnis 
+</li><li> Maria Mustermann 
+<br /><br />= 86 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 42-----------------------------
+-------------------- LESSON 43-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Der Grund / Anlass, warum ich schreibe ist XY. </strong>The reason / cause I am writing is XY.
+</li><li><strong>Mein Anliegen ist, dass XY. </strong>My concern is that XY.
+</li><li><strong>Ich schreibe Ihnen, weil XY. </strong>I am writing to you because XY.
+</li><li><strong>Obwohl ich XY bestellt habe, habe ich XY nicht bekommen. </strong>Although I ordered XY, I did not receive XY.
+</li><li><strong>Ich ärgere mich sehr über (+ Akk.) XY. </strong>I am very annoyed about XY.
+</li><li><strong>bis heute </strong>until today
+</li><li><strong>vor einer Woche </strong>a week ago
+</li><li><strong>innerhalb einer Woche </strong>within a week
+</li><li><strong>Ich bitte Sie, XY zu schicken. </strong>I ask you to send XY.
+</li><li><strong>Ich wünsche mir, dass Sie XY. </strong>I wish you to XY.
+</li><li><strong>unerfreulich </strong>unpleasant
+</li><li><strong>ärgerlich </strong>annoying
+</li><li><strong>sonst </strong>otherwise
+</li><li><strong>das Abo(nnement) kündigen </strong>to cancel the subscription
+</li><li><strong>leider </strong>unfortunately
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren vom “perfekt Deutsch” Verlag! 
+</li><li> Ich schreibe Ihnen, 
+</li><li> weil ich mich über Ihren Service ärgere. 
+</li><li> Vor anderthalb Monaten habe ich Ihre Zeitschrift “German Smart” bestellt. 
+</li><li> Ich sollte innerhalb von 5 Arbeitstagen die erste Ausgabe bekommen. 
+</li><li> Obwohl ich 2 Mal angerufen habe, 
+</li><li> habe ich bis heute nichts bekommen. 
+</li><li> Das ist wirklich sehr unerfreulich! 
+</li><li> Wenn ich bis nächste Woche Montag keine Zeitschrift erhalte, 
+</li><li> kündige ich hiermit das Abonnement. 
+</li><li> Bitte informieren Sie mich schriftlich, was Ihr Plan ist. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Susi Sauer 
+<br /><br />= 84 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 43-----------------------------
+-------------------- LESSON 44-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ein großer Vorteil / Nachteil ist XY. </strong>A great advantage / disadvantage is XY.
+</li><li><strong>Nicht so gut ist XY. </strong>Not so good is XY.
+</li><li><strong>Ein weiteres Argument für / gegen XY ist YZ. </strong>Another argument for / against XY is YZ.
+</li><li><strong>die Zeit einteilen </strong>to divide the time
+</li><li><strong>der Lernerfolg </strong>the learning success
+</li><li><strong>zeitlich flexibel sein </strong>to be flexible in terms of time
+</li><li><strong>Der Gruppenzwang fällt weg. </strong>The peer pressure is removed.
+</li><li><strong>Ich habe die Freiheit, zu XY. </strong>I have the freedom to XY.
+</li><li><strong>billiger / teurer sein als XY </strong>to be cheaper / more expensive than XY
+</li><li><strong>in der Gruppe </strong>in the group
+</li><li><strong>schneller abgelenkt sein </strong>to be distracted more quickly
+</li><li><strong>sehr zufrieden sein mit XY. </strong>to be very satisfied with XY.
+</li><li><strong>Meine Empfehlung ist XY. </strong>My recommendation is XY.
+</li><li><strong>Ich empfehle XY. </strong>I recommend XY.
+</li><li><strong>Ich kann jedem wärmstens empfehlen, XY zu tun. </strong>I highly recommend everyone to do XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Lieber Michael, 
+</li><li> ich freue mich, 
+</li><li> dass du Deutsch lernen möchtest. 
+</li><li> Ein Deutschkurs in Deutschland kostet leider sehr viel Geld. 
+</li><li> Und da du nebenbei auch noch studierst, 
+</li><li> würde ich dir einen Onlinekurs empfehlen: 
+</li><li> Man kann sich besser als in der Gruppe konzentrieren, 
+</li><li> man ist nicht so schnell abgelenkt, 
+</li><li> und man kann sich die Zeit selber einteilen. 
+</li><li> Ich habe mich damals für den Onlinekurs von smarterGermans entschieden, 
+</li><li> weil er sehr günstig und qualitativ hochwertig ist. 
+</li><li> Und ich konnte mich schnell auf Deutsch unterhalten. 
+</li><li> Ich wünsche dir viel Vergnügen mit dem Deutsch lernen. 
+</li><li> Deutsch ist eine schrecklich schöne Sprache ;-) 
+</li><li> Alles Liebe 
+</li><li> Max 
+<br /><br />= 84 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 44-----------------------------
+-------------------- LESSON 45-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Mittagsschlaf am Arbeitsplatz </strong>the nap at the workplace
+</li><li><strong>das Nickerchen </strong>the nap
+</li><li><strong>sich ein Nickerchen gönnen </strong>to take a nap
+</li><li><strong>sich aufs Ohr hauen </strong>to hit the hay
+</li><li><strong>die Konzentrationsfähigkeit </strong>the ability to concentrate
+</li><li><strong>der Puls </strong>the pulse rate
+</li><li><strong>der Herzschlag </strong>the heartbeat
+</li><li><strong>XY steigert sich /sinkt </strong>XY increases / decreases
+</li><li><strong>auf der einen Seite XY </strong>on one side XY
+</li><li><strong>auf der anderen Seite XY </strong>on the other side XY
+</li><li><strong>Meiner Meinung nach XY </strong>In my opinion XY
+</li><li><strong>XY hat viele Vorteile. </strong>XY has many advantages.
+</li><li><strong>außerdem </strong>also
+</li><li><strong>Es ist wissenschaftlich bewiesen, dass XY </strong>It is scientifically proven that XY
+</li><li><strong>Jeder sollte die Möglichkeit haben, XY zu tun. </strong>Everyone should have the opportunity to do XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Viele Arbeitgeber können sich nicht vorstellen, 
+</li><li> den Mittagsschlaf am Arbeitsplatz einzuführen. 
+</li><li> Das ist sehr schade, 
+</li><li> denn der Mittagsschlaf hat viele Vorteile. 
+</li><li> Während man schläft, 
+</li><li> sinken der Puls, die Atemfrequenz und der Herzschlag. 
+</li><li> Man kann sich beim Schlafen vom Stress erholen! 
+</li><li> Das ist doch fantastisch. 
+</li><li> Außerdem hat man wissenschaftlich bewiesen, 
+</li><li> dass die Reaktionsfähigkeit und Konzentrationsfähigkeit nach dem Schlaf besser ist. 
+</li><li> Ich selber arbeite als Freiberufler, 
+</li><li> und gönne mir täglich ein Nickerchen. 
+</li><li> Und wenn es nach mir ginge: 
+</li><li> Jeder Mitarbeiter sollte die Möglichkeit haben, 
+</li><li> sich aufs Ohr zu legen. 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 45-----------------------------
+-------------------- LESSON 46-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die 6-Stunden-Arbeitswoche </strong>the 6-hour working week
+</li><li><strong>die Abschaffung der 40-Stunden-Woche </strong>the abolition of the 40-hour week
+</li><li><strong>der gleichbleibende Lohn </strong>the constant wage
+</li><li><strong>sich konzentrieren auf XY </strong>to concentrate on XY
+</li><li><strong>die Konzentrationsfähigkeit sinkt / steigt </strong>the ability to concentrate decreases / increases
+</li><li><strong>Im Durchschnitt ist man XY Stunden produktiv. </strong>On average, one is productive for XY hours.
+</li><li><strong>leistungsfähig </strong>productive
+</li><li><strong>die Leistungsfähigkeit </strong>the ability to perform
+</li><li><strong>Die meiste Zeit lenkt man sich ab. </strong>Most of the time one is distracted.
+</li><li><strong>sich auf eine neue Stelle bewerben </strong>to apply for a new job
+</li><li><strong>die Steuererklärung machen </strong>to do the tax return
+</li><li><strong>Das ist eine tolle Idee! </strong>That's a great idea!
+</li><li><strong>Ich kann mir gut vorstellen, dass XY. </strong>I can well imagine XY.
+</li><li><strong>Das ist nur sinnvoll, wenn XY. </strong>That only makes sense if XY.
+</li><li><strong>Ich persönlich finde XY. </strong>Personally, I think XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich begrüße den 6-Stunden-Arbeitstag! 
+</li><li> Psychologisch gesehen weiß man doch schon lange, 
+</li><li> dass man sich nicht 8 Stunden am Stück konzentrieren kann. 
+</li><li> Eine Studie in England hat gezeigt, 
+</li><li> dass man im Durchschnitt knapp 3 Stunden produktiv ist. 
+</li><li> In der übrigen Zeit lenkt man sich ab, zum Beispiel: 
+</li><li> mit Gesprächen, mit social Media, zum Kaffeeautomaten gehen, die Steuererklärung machen, sich um einen neuen Job bewerben, etc. 
+</li><li> Dieses Experiment ist jedoch nur sinnvoll, wenn man auch dasselbe Gehalt bekommt. 
+</li><li> Das einzige Problem ist dann nur: 
+</li><li> Wo mach ich denn in Zukunft meine Steuererklärung? 
+<br /><br />= 89 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 46-----------------------------
+-------------------- LESSON 47-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das vegetarische / vegane Essen </strong>the vegetarian / vegan food
+</li><li><strong>die Auswahl ist klein / groß </strong>the choice is small / large
+</li><li><strong>das vielfältige Angebot </strong>the varied offer
+</li><li><strong>die fleischfreie Alternative </strong>the meat-free alternative
+</li><li><strong>die nachhaltige Ernährung </strong>the sustainable diet
+</li><li><strong>der Einfluss von Fleischkonsum auf das Klima </strong>the impact of meat consumption on the climate
+</li><li><strong>die Gesundheit </strong>the health
+</li><li><strong>die Aufklärung </strong>the education
+</li><li><strong>sich vegetarisch / vegan ernähren </strong>a vegetarian / vegan diet
+</li><li><strong>eine tolle Entwicklung </strong>a great development
+</li><li><strong>die freie Wahl </strong>the free choice
+</li><li><strong>Ich bin begeistert, dass XY. </strong>I am thrilled that XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Ich bin mir sicher, dass XY. </strong>I am sure that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> In Berlin hat in 2010 die erste vegetarische Mensa, 
+</li><li> und in 2019 die erste vegane Mensa eröffnet. 
+</li><li> Als Studentin hätte ich mir eine vegetarische Mensa sehr gewünscht. 
+</li><li> Das vegetarische Essen damals war wirklich ungenießbar. 
+</li><li> Ich bin begeistert, 
+</li><li> dass es wenige Jahre später so eine tolle Entwicklung gibt. 
+</li><li> Meiner Meinung nach ist es jedoch besser, 
+</li><li> wenn jeder seine freie Wahl hat. 
+</li><li> Wenn das Angebot von vegetarischen / veganen Optionen attraktiver wird, 
+</li><li> werden sich viele automatisch für den gesunden und nachhaltigen Weg entscheiden. 
+</li><li> Meiner Meinung nach sind Aufklärung und ein gutes Angebot die bessere Wahl. 
+<br /><br />= 90 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 47-----------------------------
+-------------------- LESSON 48-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>ein spannendes Thema </strong>an exciting topic
+</li><li><strong>die genderfreie Toilette </strong>the gender-free toilet
+</li><li><strong>das gendergerechte Schreiben </strong>gender-responsive writing
+</li><li><strong>transgender </strong>transgender
+</li><li><strong>intergeschlechtlich </strong>intergender
+</li><li><strong>Witze machen </strong>to make jokes
+</li><li><strong>das Thema ins Lächerliche ziehen </strong>to make fun of the topic
+</li><li><strong>die Spitze vom Eisberg sein </strong>to be the tip of the iceberg
+</li><li><strong>In beiden Fällen handelt es sich um XY. </strong>In both cases, it is XY.
+</li><li><strong>in der Minderheit sein </strong>to be in the minority
+</li><li><strong>die gleichen Rechte bekommen </strong>to get the same rights
+</li><li><strong>der erste Schritt in die richtige Richtung </strong>the first step in the right direction
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Das ist ein hoch brisantes Thema. </strong>This is a highly charged issue.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Das Thema genderfreie Toilette ist super spannend. 
+</li><li> In meinem Freundeskreis denken viele, 
+</li><li> dass die Diskussion von genderfreien Toiletten ein Luxusproblem ist, 
+</li><li> genauso wie das gendergerechte Schreiben. 
+</li><li> Man macht Witze und zieht das Thema ins Lächerliche. 
+</li><li> Meines Erachtens ist die Diskussion aber nur die Spitze vom Eisberg. 
+</li><li> Ob transgender oder intergeschlechtlch - 
+</li><li> in beiden Fällen handelt es sich um Minderheiten. 
+</li><li> Und im 21. Jahrhundert sollte jede Minderheit die gleichen Recht bekommen! 
+</li><li> Eine unisex Toilette ist meiner Meinung der erste kleine Schritt in die richtige Richtung, 
+<br /><br />= 82 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 48-----------------------------
+-------------------- LESSON 49-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das Studium ernst nehmen </strong>to take studies seriously
+</li><li><strong>Studiengebühren einführen </strong>to introduce tuition fees
+</li><li><strong>Studiengebühren abschaffen </strong>to abolish tuition fees
+</li><li><strong>über viel / wenig Geld verfügen </strong>to have a lot of money / a little money
+</li><li><strong>mit wenig Geld über die Runden kommen </strong>to make ends meet with a little money
+</li><li><strong>in dieser Lebensphase </strong>in this phase of life
+</li><li><strong>die Mieten steigen </strong>the rents are rising
+</li><li><strong>die Lebenskosten steigen </strong>the cost of living is rising
+</li><li><strong>eine günstige Option </strong>a cheap option
+</li><li><strong>das WG-Zimmer </strong>the room in a shared flat
+</li><li><strong>Das war vielleicht früher so. </strong>That may have been the case in the past.
+</li><li><strong>Ich komme zu dem Schluss, dass XY. </strong>I come to the conclusion that XY.
+</li><li><strong>Ich finde, dass XY. </strong>I find that XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Ich finde es problematisch, dass XY. </strong>I find it problematic that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich finde es problematisch, 
+</li><li> Studiengebühren einzuführen. 
+</li><li> Man verlangt Geld zu einem Zeitpunkt, 
+</li><li> an dem man vermutlich am wenigsten Geld in seinem Leben besitzt. 
+</li><li> Ob Student / Studentin oder Auszubildender / Auszubildende: 
+</li><li> In dieser Phase muss man mit wenig Geld über die Runden kommen. 
+</li><li> Das Leben in Studentenstädten wird immer teurer, 
+</li><li> und die Mieten in allen deutschen Städten steigen. 
+</li><li> WG-Zimmer sind auch nicht mehr eine günstige Option. 
+</li><li> Meines Erachtens sollte man Studierende später besteuern, 
+</li><li> zu einem Zeitpunkt, 
+</li><li> wo sie als Akademiker einen guten Verdienst haben. 
+<br /><br />= 84 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 49-----------------------------
+-------------------- LESSON 50-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das Zugabteil </strong>the train compartment
+</li><li><strong>der Personennahverkehr </strong>local passenger transport
+</li><li><strong>der Fernverkehr </strong>long-distance traffic
+</li><li><strong>die gesellschaftlichen Unterschiede </strong>the social differences
+</li><li><strong>Ich wurde mir der Absurdität bewusst. </strong>I became aware of the absurdity
+</li><li><strong>die Ruhezone </strong>the quiet zone
+</li><li><strong>sich ungestört unterhalten </strong>to talk undisturbed
+</li><li><strong>XY abschaffen </strong>abolish XY
+</li><li><strong>grenzenlos </strong>without limits
+</li><li><strong>Das ist heute nicht mehr vertretbar. </strong>This is no longer justifiable today.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Es ist doch nicht zu fassen, dass XY. </strong>I can't believe that XY.
+</li><li><strong>Ich kann immer noch nicht glauben, dass XY. </strong>I still can't believe that XY.
+</li><li><strong>Meines Erachtens sollte man XY. </strong>In my opinion, one should XY.
+</li><li><strong>Man kann doch heute nicht mehr XY. </strong>Surely one can no longer XY today.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Letzte Woche war ich mit meiner dreijährigen Tochter im Zug unterwegs. 
+</li><li> Als ich ihr erklären wollte, 
+</li><li> warum sie nicht ins Zugabteil für die 1. Klasse gehen darf, 
+</li><li> wurde mir erst die Absurdität bewusst! 
+</li><li> Es ist unglaublich, 
+</li><li> dass wir im 21. Jahrhundert noch in 1. und 2. Klasse einteilen! 
+</li><li> Meines Erachtens sollte man 1. und 2. Klasse wegfallen lassen, 
+</li><li> und in Ruhezone und Nicht-Ruhezone einteilen. 
+</li><li> Dann haben die, die ungestört sein wollen, ihre Ruhe, 
+</li><li> und die anderen können gemütlich plaudern. 
+</li><li> Und zwar alle in einem Zug, 
+</li><li> der schön und grenzenlos ist. 
+<br /><br />= 90 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 50-----------------------------
+-------------------- LESSON 51-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>der Gegenstand </strong>the object
+</li><li><strong>der Besitz </strong>the possession
+</li><li><strong>Gegenstände nutzen </strong>to use objects
+</li><li><strong>ungebrauchte Dinge weggeben </strong>to give away unused things
+</li><li><strong>neue Dinge anschaffen </strong>to buy new things
+</li><li><strong>das Einkaufsverhalten ändern </strong>to change shopping behaviour
+</li><li><strong>XY wirklich brauchen </strong>to really need XY
+</li><li><strong>notwendig sein </strong>to be necessary
+</li><li><strong>die innere Einstellung </strong>the inner attitude
+</li><li><strong>frei sein von der Einstellung </strong>to be free from the attitude
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Ich stelle mir vor, dass XY. </strong>I imagine that XY.
+</li><li><strong>Für mich selber habe ich entschieden, dass XY. </strong>For myself, I have decided that XY.
+</li><li><strong>Ich habe die Entscheidung getroffen, dass XY. </strong>I have made the decision that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Meines Erachtens besitzen wir zu viele Dinge, 
+</li><li> und schaffen uns zu viele neue Dinge an, 
+</li><li> die wir nicht nutzen. 
+</li><li> Ich glaube, dass es viel mit der inneren Einstellung zu tun hat: 
+</li><li> Definiere ich mich über meinen Besitz? 
+</li><li> Oder bin ich frei von dem Denken: 
+</li><li> “Hast du was, bist du was”. 
+</li><li> Ich selber darf nur etwas neues anschaffen, 
+</li><li> wenn ich es wirklich brauche. 
+</li><li> Dabei stelle ich mir die Frage: 
+</li><li> Wer hat den Gegenstand produziert? 
+</li><li> Wie wurde der Gegenstand produziert? 
+</li><li> Und das funktioniert… nicht immer, aber immer öfter. 
+<br /><br />= 86 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 51-----------------------------
+-------------------- LESSON 52-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Wahrheit sprechen </strong>to speak the truth
+</li><li><strong>eine kleine Notlüge </strong>a little white lie
+</li><li><strong>das Trostpflaster </strong>the consolation
+</li><li><strong>innerhalb kürzester Zeit </strong>within the shortest time
+</li><li><strong>aus Angst </strong>out of fear
+</li><li><strong>aus Scham </strong>out of shame
+</li><li><strong>Ich möchte besser dastehen. </strong>I want to look better.
+</li><li><strong>Ich möchte dich nicht enttäuschen. </strong>I don't want to disappoint you.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion, XY.
+</li><li><strong>Viel wichtiger finde ich, XY. </strong>More importantly, in my opinion, XY.
+</li><li><strong>außerdem </strong>also
+</li><li><strong>Ich persönlich finde, dass XY. </strong>Personally, I think XY.
+</li><li><strong>Was mich betrifft XY. </strong>As far as I am concerned XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Stellen Sie sich vor, ich würde immer die Wahrheit sprechen! 
+</li><li> Ich bin mir sicher, 
+</li><li> dass ich innerhalb kurzer Zeit keine Freunde mehr hätte. 
+</li><li> Viel interessanter finde ich, 
+</li><li> warum man lügt: 
+</li><li> Lüge ich aus Scham, aus Angst vor einem Konflikt, 
+</li><li> oder weil ich besser dastehen möchte? 
+</li><li> Oder lüge ich, 
+</li><li> weil ich den anderen nicht verletzen möchte? 
+</li><li> Das finde ich nämlich sehr verständlich. 
+</li><li> Und wenn mich jemand belügt, 
+</li><li> dann denke ich mir immer: 
+</li><li> “Wer lügt, hat zumindest die Wahrheit gedacht.” 
+</li><li> Das ist doch ein kleines Trostpflaster, oder? 
+<br /><br />= 85 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 52-----------------------------
+-------------------- LESSON 53-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die autofreie Innenstadt </strong>the car-free city centre
+</li><li><strong>die verkehrsberuhigte Zone </strong>the traffic-calmed zone
+</li><li><strong>der Personennahverkehr </strong>the local public transport
+</li><li><strong>der Widerstand </strong>the resistance
+</li><li><strong>die Luftverschmutzung </strong>air pollution
+</li><li><strong>die Umweltverschmutzung </strong>environmental pollution
+</li><li><strong>die gesundheitlichen Schäden </strong>damage to health
+</li><li><strong>der Unfall </strong>the accident
+</li><li><strong>gratis </strong>for free
+</li><li><strong>umsonst </strong>for free
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Ich denke, dass XY. </strong>I think XY.
+</li><li><strong>Am Ende sagen alle XY. </strong>In the end, everyone says XY.
+</li><li><strong>Wie kann es sein, dass XY? </strong>How is it possible that XY?
+</li><li><strong>Wie ist es nur möglich, dass XY? </strong>How is it possible that XY?
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Wie ist es nur möglich, 
+</li><li> dass im 21. Jahrhundert noch immer halbleere Autos durch die Städte fahren? 
+</li><li> Meiner Meinung nach sollten Bus, Straßenbahn und U-Bahn gratis, 
+</li><li> und alle Innenstädte autofrei sein. 
+</li><li> Erst wird es viel Widerstand geben. 
+</li><li> Aber danach werden fast alle froh sein, 
+</li><li> dass die Luft besser ist, 
+</li><li> dass man viel entspannter mit dem Rad fahren kann, 
+</li><li> dass es ruhiger in den Städten ist, 
+</li><li> und dass es weniger Unfälle gibt. 
+</li><li> Am Ende werden sich alle fragen: 
+</li><li> Warum haben wir das nicht schon viel früher gemacht? 
+<br /><br />= 87 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 53-----------------------------
+-------------------- LESSON 54-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die hitzige Debatte </strong>the heated debate
+</li><li><strong>die Einführung der Helmpflicht </strong>the introduction of compulsory helmets
+</li><li><strong>einen Helm tragen </strong>to wear a helmet
+</li><li><strong>die Radwege </strong>the cycle paths
+</li><li><strong>gefährlich </strong>dangerous
+</li><li><strong>tödliche Unfälle vermeiden </strong>to avoid fatal accidents
+</li><li><strong>auf einem Motorrad fahren </strong>to ride a motorbike
+</li><li><strong>sich im Auto anschnallen </strong>to wear a seat belt in a car
+</li><li><strong>über das Thema schmunzeln </strong>to smile about the subject
+</li><li><strong>die Frisur ruinieren </strong>to ruin your hairstyle
+</li><li><strong>Ich glaube, dass XY. </strong>I believe that XY.
+</li><li><strong>Aber bitte nur, wenn XY. </strong>But please only if XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Ich persönlich finde, dass XY. </strong>Personally, I think that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Offen gestanden musste ich bei diesem Thema sehr schmunzeln. 
+</li><li> Es ist ein sehr deutsches Thema. 
+</li><li> In meiner Heimatstadt gibt es das Problem nicht, 
+</li><li> weil es gar keine Radwege gibt, 
+</li><li> und alle mit dem Auto fahren! 
+</li><li> Wenn aber bewiesen ist, 
+</li><li> dass man mit dem Helm tödliche Unfälle vermeidet, 
+</li><li> sollte man auf jeden Fall die Helmpflicht einführen. 
+</li><li> Auf einem Motorrad trägt man ja schließlich auch einen Helm, 
+</li><li> und im Auto mit Airbag muss man sich anschnallen. 
+</li><li> Helmpflicht - ja gerne. 
+</li><li> Aber nur wenn es statistisch signifikant ist, 
+</li><li> und es meine Frisur nicht ruiniert. 
+<br /><br />= 93 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 54-----------------------------

@@ -1,0 +1,14 @@
+let allTriggerAnswersJSON = `[
+{"Der Iltis wurde gekocht." : ["Ich sehe einen gekochten Iltis.", "Ich sehe ein neu gekauftes Auto.", "Ich sehe eine frisch gestrichene Mauer.", "Ich sehe einen verspäteten Zug."],
+"Das Auto wurde neu gekauft." : ["Ich sehe einen frisch gefangenen Fisch.", "Ich sehe einen geschiedenen Mann.", "Ich sehe ein frisch gezapftes Bier.", "Ich sehe einen gefälschten Ausweis."],
+"Die Mauer wurde frisch gestrichen." : ["Ich sehe ein frisch gewaschenes Hemd.", "Ich sehe eine gut gepflegte Honda."],
+"Der Zug ist verspätet." : [],
+"Der Fisch ist frisch gefangen." : [],
+"Der Mann wurde geschieden." : [],
+"Das Bier wurde frisch gezapft." : [],
+"Der Ausweis wurde gefälscht." : [],
+"Das Hemd wurde frisch gewaschen." : [],
+"Die Honda* wurde gut gepflegt." : []}
+]`;
+
+const triggers = ['Der Iltis wurde gekocht.', 'Das Auto wurde neu gekauft.', 'Die Mauer wurde frisch gestrichen.', 'Der Zug ist verspätet.', 'Der Fisch ist frisch gefangen.', 'Der Mann wurde geschieden.', 'Das Bier wurde frisch gezapft.', 'Der Ausweis wurde gefälscht.', 'Das Hemd wurde frisch gewaschen.', 'Die Honda* wurde gut gepflegt.'];

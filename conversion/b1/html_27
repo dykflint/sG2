@@ -1,0 +1,75 @@
+-------------------- LESSON 27-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich möchte dich auf dem Laufenden halten. </strong>I want to keep you posted.
+</li><li><strong>ein Update schicken </strong>to send an update
+</li><li><strong>die Wohnungsanzeige </strong>a flat ad
+</li><li><strong>ein Wohnungsinserat aufgeben </strong>to post a flat ad
+</li><li><strong>umziehen - ich bin umgezogen </strong>to move - I have moved
+</li><li><strong>der Umzug </strong>the move
+</li><li><strong>die Möbelpacker </strong>the movers
+</li><li><strong>das Umzugsunternehmen </strong>the moving company
+</li><li><strong>die WG / Wohngemeinschaft </strong>the flat share / shared flat
+</li><li><strong>die Einweihungsparty feiern </strong>to celebrate the housewarming party
+</li><li><strong>aufreibend / anstrengend </strong>exhausting
+</li><li><strong>nervig </strong>annoying
+</li><li><strong>Alles hat gut geklappt. </strong>Everything went well.
+</li><li><strong>Der Umzug ist reibungslos verlaufen. </strong>The move went smoothly.
+</li><li><strong>Alles ist glatt über die Bühne gegangen. </strong>Everything went smoothly.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Maria, 
+</li><li> jetzt bekommst du endlich ein Update zum Umzug. 
+</li><li> Corona bedingt wurde es in der Wohngemeinschaft immer komplizierter. 
+</li><li> Die Bibliotheken waren geschlossen, 
+</li><li> und alle haben zu Hause studiert. 
+</li><li> Ich hatte keine Ruhe, mich auf meine Doktorarbeit zu konzentrieren. 
+</li><li> Jetzt wohne ich ein paar Straßen weiter in einer gemütlichen 2-Zimmer Wohnung. 
+</li><li> Und das alleine Wohnen gefällt mir sehr gut! 
+</li><li> Am 27.6. gibt es eine Einweihungsparty. 
+</li><li> Ich würde mich wahnsinnig freuen, 
+</li><li> wenn du kommst. 
+</li><li> Schreib doch mal, 
+</li><li>was gerade bei dir los ist. 
+</li><li> Alles Liebe 
+</li><li> Max 
+<br /><br />= 86 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 27-----------------------------

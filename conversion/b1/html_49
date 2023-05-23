@@ -1,0 +1,73 @@
+-------------------- LESSON 49-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das Studium ernst nehmen </strong>to take studies seriously
+</li><li><strong>Studiengebühren einführen </strong>to introduce tuition fees
+</li><li><strong>Studiengebühren abschaffen </strong>to abolish tuition fees
+</li><li><strong>über viel / wenig Geld verfügen </strong>to have a lot of money / a little money
+</li><li><strong>mit wenig Geld über die Runden kommen </strong>to make ends meet with a little money
+</li><li><strong>in dieser Lebensphase </strong>in this phase of life
+</li><li><strong>die Mieten steigen </strong>the rents are rising
+</li><li><strong>die Lebenskosten steigen </strong>the cost of living is rising
+</li><li><strong>eine günstige Option </strong>a cheap option
+</li><li><strong>das WG-Zimmer </strong>the room in a shared flat
+</li><li><strong>Das war vielleicht früher so. </strong>That may have been the case in the past.
+</li><li><strong>Ich komme zu dem Schluss, dass XY. </strong>I come to the conclusion that XY.
+</li><li><strong>Ich finde, dass XY. </strong>I find that XY.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Meines Erachtens XY. </strong>In my opinion XY.
+</li><li><strong>Ich finde es problematisch, dass XY. </strong>I find it problematic that XY.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich finde es problematisch, 
+</li><li> Studiengebühren einzuführen. 
+</li><li> Man verlangt Geld zu einem Zeitpunkt, 
+</li><li> an dem man vermutlich am wenigsten Geld in seinem Leben besitzt. 
+</li><li> Ob Student / Studentin oder Auszubildender / Auszubildende: 
+</li><li> In dieser Phase muss man mit wenig Geld über die Runden kommen. 
+</li><li> Das Leben in Studentenstädten wird immer teurer, 
+</li><li> und die Mieten in allen deutschen Städten steigen. 
+</li><li> WG-Zimmer sind auch nicht mehr eine günstige Option. 
+</li><li> Meines Erachtens sollte man Studierende später besteuern, 
+</li><li> zu einem Zeitpunkt, 
+</li><li> wo sie als Akademiker einen guten Verdienst haben. 
+<br /><br />= 84 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 49-----------------------------

@@ -1,0 +1,67 @@
+-------------------- LESSON 11-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>verspätet ankommen </strong>arrive late
+</li><li><strong>mit großer Verspätung losfliegen </strong>to depart with a long delay
+</li><li><strong>wegen technischer Probleme </strong>due to technical problems
+</li><li><strong>jetzt erst </strong>now only
+</li><li><strong>leider </strong>unfortunately
+</li><li><strong>spätestens </strong>at the latest
+</li><li><strong>voraussichtlich </strong>expected
+</li><li><strong>Ich bitte vielmals um Entschuldigung. </strong>I apologise for any inconvenience.
+</li><li><strong>Ich melde mich, sobald ich gelandet bin. </strong>I will let you know as soon as I have landed.
+</li><li><strong>Bescheid geben </strong>to let someone know
+</li><li><strong>Entschuldigen Sie bitte die Verspätung. </strong>Please accept my apologies for the delay.
+</li><li><strong>Entschuldigen Sie bitte die Umstände. </strong>Please accept my apologies for the inconvenience.
+</li><li><strong>Ich danke für Ihre Verständnis. </strong>Thank you for your understanding.
+</li><li><strong>Es tut mir leid, dass Sie auf ich warten müssen. </strong>I'm sorry you have to wait for me.
+</li><li><strong>Das ist mir wirklich unangenehm. </strong>This is really uncomfortable for me.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Frau Ziegler, 
+</li><li> ich sitze leider jetzt erst im Flieger nach Berlin. 
+</li><li> Wegen technischer Probleme fliegen wir mit einer Stunde Verspätung los. 
+</li><li> Ich schaffe es voraussichtlich um 12 Uhr in der Firma zu sein. 
+</li><li> Ich bitte vielmals um Entschuldigung für diese Verspätung. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Maria Mustermann 
+<br /><br />= 50 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 11-----------------------------

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Right Wrong</title>
+</head>
+<body>
+    <section class="right-wrong-quiz">
+        <div class="game-screen">
+            <div class="title"></div>
+            <!-- <audio controls constrolsList="nodownload">
+                <source src="https://www.dropbox.com/s/8vapfcbdc25j6pf/03-B2-AUDIO-Trinkgeld.mp3?raw=1">
+            </audio> -->
+            <div class="question">Der Treffpunkt ist vor dem Kino</div>
+            <div class="right-wrong-options">
+                <img class="right"></img>
+                <img class="wrong"></img>
+            </div>
+        </div>
+        <div class="finish-screen hide">
+            <div class="finish-message">
+                <p>Well done!</p>
+                <p>Your Score is</p>
+                <p class="score">30/50</p>
+            </div>
+            <a class="retake" onclick="retakeQuiz();"></a>
+        </div>
+    </section>
+</body>
+<script src="questions.js"></script>
+<script src="script.js"></script>
+</html>

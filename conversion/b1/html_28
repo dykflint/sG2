@@ -1,0 +1,73 @@
+-------------------- LESSON 28-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>die Stadt besichtigen </strong>to visit the city
+</li><li><strong>eine Stadtrundfahrt machen </strong>to take a sightseeing tour
+</li><li><strong>Sehenswürdigkeiten besichtigen </strong>to go sightseeing
+</li><li><strong>das XY Museum besuchen </strong>to visit a museum
+</li><li><strong>eine Ausstellung besuchen </strong>to visit an exhibition
+</li><li><strong>ins Theater gehen </strong>to visit the theatre
+</li><li><strong>ein Restaurant empfehlen </strong>to recommend a restaurant
+</li><li><strong>die Ermäßigung </strong>the discount
+</li><li><strong>die Konzertkarte kaufen </strong>the concert ticket
+</li><li><strong>das Infomaterial schicken </strong>the information material
+</li><li><strong>den Veranstaltungskalender schicken </strong>the calendar of events
+</li><li><strong>billig </strong>cheap
+</li><li><strong>Empfehlungen geben </strong>to give recommendations
+</li><li><strong>empfehlenswert </strong>recommendable
+</li><li><strong>Danke sehr </strong>Thank you very much
+</li><li><strong>Vielen Dank für die Mühen. </strong>Thank you very much for your efforts.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Damen und Herren, 
+</li><li> nächste Woche reise ich nach Berlin, 
+</li><li> und würde mich freuen, 
+</li><li> wenn Sie mir mit ein paar Informationen helfen könnten. 
+</li><li> Ich würde gerne wissen, 
+</li><li> welche Hotels im Stadtzentrum gut und billig sind, 
+</li><li> welche Museen Sie für moderne Kunst empfehlen können, 
+</li><li> und wo ich am besten Karten für die Philharmonie bekommen kann. 
+</li><li> Vielleicht können Sie mir ja ein paar Empfehlungen geben? 
+</li><li> Im Voraus herzlichen Dank für Ihre Mühen. 
+</li><li> Mit freundlichen Grüßen 
+</li><li> Michael Schmitz 
+<br /><br />= 76 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 28-----------------------------

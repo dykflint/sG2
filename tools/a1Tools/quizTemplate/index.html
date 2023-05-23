@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quiz Template</title>
+</head>
+<body>
+    <section class="right-wrong-quiz">
+        <div class="game-screen">
+            <div class="title"></div>
+            <audio class="audio-src" controls constrolsList="nodownload">
+                <!-- <source class="audio-src" src=""> -->
+            </audio>
+            <div class="question">Der Treffpunkt ist vor dem Kino</div>
+            <div class="options">
+                <button class="option-1"></button>
+                <button class="option-2"></button>
+                <button class="option-3"></button>
+            </div>
+        </div>
+        <div class="finish-screen hide">
+            <div class="finish-message">
+                <p>Well done!</p>
+                <p>Your Score is</p>
+                <p class="score">30/50</p>
+            </div>
+            <a class="retake" onclick="retakeQuiz();">Retake Quiz</a>
+        </div>
+    </section>
+</body>
+<script src="questions.js"></script>
+<script src="script.js"></script>
+</html>

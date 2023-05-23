@@ -1,0 +1,69 @@
+-------------------- LESSON 13-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Ich habe ein dringendes Problem. </strong>I have an urgent problem.
+</li><li><strong>Es ist wirklich dringend. </strong>It is really urgent.
+</li><li><strong>das Problem lösen </strong>to solve the problem
+</li><li><strong>seit gestern </strong>since yesterday
+</li><li><strong>seit zwei Tagen </strong>since two days
+</li><li><strong>die Heizung </strong>the heating
+</li><li><strong>XY ist defekt. </strong>XY is defective.
+</li><li><strong>XY ist kaputt. </strong>XY is broken.
+</li><li><strong>XY funktioniert nicht mehr. </strong>XY no longer works.
+</li><li><strong>XY geht nicht mehr. (spoken language) </strong>XY no longer works.
+</li><li><strong>XY ist hin. (spoken language) </strong>XY is broken.
+</li><li><strong>einen Monteur schicken </strong>to send a mechanic
+</li><li><strong>Im Voraus Dank für Ihre Hilfe. </strong>Thank you in advance for your help.
+</li><li><strong>Ich bedanke mich sehr für Ihre Hilfe / Unterstützung. </strong>Thank you very much for your help / support.
+</li><li><strong>Könnten Sie mich zurückrufen? </strong>Could you call me back?
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Sehr geehrte Frau Bachmann, 
+</li><li> Ich habe ein dringendes Problem: 
+</li><li> Seit vorgestern funktioniert die Heizung nicht, 
+</li><li> und die Temperaturen sind auf 15 Grad gefallen. 
+</li><li> Leider kann ich Sie telefonisch nicht erreichen. 
+</li><li> Von daher meine Bitte per E-Mail, 
+</li><li> ob Sie heute einen Monteur schicken könnten? 
+</li><li> Herzlichen Dank im Voraus 
+</li><li> Max Mustermann 
+<br /><br />= 49 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 13-----------------------------

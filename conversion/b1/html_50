@@ -1,0 +1,72 @@
+-------------------- LESSON 50-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>das Zugabteil </strong>the train compartment
+</li><li><strong>der Personennahverkehr </strong>local passenger transport
+</li><li><strong>der Fernverkehr </strong>long-distance traffic
+</li><li><strong>die gesellschaftlichen Unterschiede </strong>the social differences
+</li><li><strong>Ich wurde mir der Absurdität bewusst. </strong>I became aware of the absurdity
+</li><li><strong>die Ruhezone </strong>the quiet zone
+</li><li><strong>sich ungestört unterhalten </strong>to talk undisturbed
+</li><li><strong>XY abschaffen </strong>abolish XY
+</li><li><strong>grenzenlos </strong>without limits
+</li><li><strong>Das ist heute nicht mehr vertretbar. </strong>This is no longer justifiable today.
+</li><li><strong>Meiner Meinung nach XY. </strong>In my opinion XY.
+</li><li><strong>Es ist doch nicht zu fassen, dass XY. </strong>I can't believe that XY.
+</li><li><strong>Ich kann immer noch nicht glauben, dass XY. </strong>I still can't believe that XY.
+</li><li><strong>Meines Erachtens sollte man XY. </strong>In my opinion, one should XY.
+</li><li><strong>Man kann doch heute nicht mehr XY. </strong>Surely one can no longer XY today.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Letzte Woche war ich mit meiner dreijährigen Tochter im Zug unterwegs. 
+</li><li> Als ich ihr erklären wollte, 
+</li><li> warum sie nicht ins Zugabteil für die 1. Klasse gehen darf, 
+</li><li> wurde mir erst die Absurdität bewusst! 
+</li><li> Es ist unglaublich, 
+</li><li> dass wir im 21. Jahrhundert noch in 1. und 2. Klasse einteilen! 
+</li><li> Meines Erachtens sollte man 1. und 2. Klasse wegfallen lassen, 
+</li><li> und in Ruhezone und Nicht-Ruhezone einteilen. 
+</li><li> Dann haben die, die ungestört sein wollen, ihre Ruhe, 
+</li><li> und die anderen können gemütlich plaudern. 
+</li><li> Und zwar alle in einem Zug, 
+</li><li> der schön und grenzenlos ist. 
+<br /><br />= 90 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 50-----------------------------

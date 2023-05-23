@@ -1,0 +1,1 @@
+const triggers = ['Kaffee (m)', 'Stück Kuchen (n)', 'Serviette (f)', 'Sandwich (n)', 'Salat (m)', 'Quiche (f)', 'Glas (n)', 'Messer (n)', 'Gabel (f)', 'Löffel (m)'];

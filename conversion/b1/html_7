@@ -1,0 +1,66 @@
+-------------------- LESSON 7-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Herzlichen Glückwunsch zu XY. </strong>Congratulations on XY.
+</li><li><strong>Ich bin sehr froh zu hören, dass XY. </strong>I am very happy to hear that XY.
+</li><li><strong>Ich freue mich sehr / riesig für euch. </strong>I am very happy for you.
+</li><li><strong>Ich hoffe, dass XY. </strong>I hope that XY.
+</li><li><strong>Das sind phantastische Nachrichten. </strong>This is fantastic news.
+</li><li><strong>Ich sende euch XY. </strong>I send you XY.
+</li><li><strong>die allerbesten Wünsche </strong>the very best wishes
+</li><li><strong>alles Gute </strong>all the best
+</li><li><strong>viel Glück und Gesundheit </strong>good luck and health
+</li><li><strong>alles Liebe </strong>all the love
+</li><li><strong>schlaflose Nächte </strong>sleeples nights
+</li><li><strong>wohlauf / gesund sein </strong>to be well / healthy
+</li><li><strong>bis hoffentlich bald </strong>see you hopefully soon
+</li><li><strong>Ich kann es kaum erwarten, euch wiederzusehen. </strong>I can't wait to see you guys again.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Hallo ihr Lieben! 
+</li><li> Ich habe mich sehr über eure fantastische Nachricht gefreut! 
+</li><li> Wie schön zu hören, dass Mutter und Kind gesund sind. 
+</li><li> Ich schicke euch von Herzen die besten Wünsche und viel Gesundheit für eure Familie. 
+</li><li> Ich freue mich schon sehr, Frederik persönlich kennen zu lernen. 
+</li><li> Bis hoffentlich bald 
+</li><li> Michael 
+<br /><br />= 50 Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 7-----------------------------

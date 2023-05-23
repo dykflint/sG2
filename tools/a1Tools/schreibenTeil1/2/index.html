@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <title>Writing Tool</title>
+</head>
+<body>
+    <div class="container">
+        <div class="inputs-container">
+            <div class="input-field">
+                <label for="first">0. Vorname(n): </label>
+                <input type="text" id="first" name="first" readonly placeholder="Pierre" value="Pierre">
+            </div>
+            <div class="input-field">
+                <label for="second">1. Nachname(n):</label>
+                <input type="text" id="second" name="second">
+            </div>
+            <div class="input-field">
+                <label for="misc">Geschlecht: </label>
+                <div class="radio-field">
+                    <span class="radio1">
+                        <input type="radio" id="radio1" class="second" name="writing" value="weiblich" readonly>weiblich<br>
+                    </span>
+                    <span class="radio2">
+                        <input type="radio" id="radio2" class="second" name="writing" value="männlich" checked readonly>männlich<br>
+                    </span>
+                    <span class="radio3">
+                        <input type="radio" id="radio3" class="second" name="writing" value="divers" readonly>divers<br>
+                    </span>
+                </div>
+            </div>
+            <div class="input-field">
+                <label for="third">2. Geburtsdatum:</label>
+                <input type="text" id="third" name="third">
+            </div>
+            <div class="input-field">
+                <label for="fourth">3. Adresse (Straße + Nr.):</label>
+                <input type="text" id="fourth" name="fourth">
+            </div>
+            <div class="input-field">
+                <label for="fifth">4. Postleitzahl:</label>
+                <input type="text" id="fifth" name="fifth">
+            </div>
+            <div class="input-field">
+                <label for="sixth">5. Ort:</label>
+                <input type="text" id="sixth" name="sixth">
+            </div>
+            <button class="check-button">Check</button>
+        </div>
+    </div>
+</body>
+<script src="solutions.js"></script>
+<script src="script.js"></script>
+</html>
+
+<!-- (0) 	Name, Vorname: Volodymyr Zelenskyy 
+Telefon: 0611 / 654 87 98
+Straße, Hausnummer:  Hauptstraße 21
+(1) 	Postleitzahl, Wohnort: 55246 
+(2)	Alter: 
+(3) 	Krankenkasse: 
+(4) 	Beruf: 
+	Seit wann krank? 11.11. 
+(5) 	Symptome?  -->

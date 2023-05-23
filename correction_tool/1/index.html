@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+  <title>Typing Speed Tester!</title>
+  <link rel="stylesheet" href="public/style.css">
+  <meta charset=utf-8>
+</head>
+<body>
+    <div class="container hide-konstantin">
+        <!-- <div class="title">Typing Speed Tester!</div><hr> -->
+        <div class="border">
+        <div class="header">
+
+        <div class="wpm hide-konstantin">
+            <div class="head">Words/min</div>
+            <div class="init_wpm">100</div>
+        </div>
+        <div class="score">
+            <div class="head">Score</div>
+            <div class="init_score">0</div>
+        </div>
+        <div class="errors">
+            <div class="head">Errors</div>
+            <div class="init_errors">0</div>
+        </div>
+        <div class="timer hide-konstantin">
+            <div class="head">Time(s)</div>
+            <div class="init_time">60s</div>
+        </div>
+        
+        <div class="accuracy hide-konstantin">
+            <div class="head">Accuracy(%)</div>
+            <div class="init_accuracy">100</div>
+        </div>
+        </div>
+        </div>
+        <div class="checker">Checker</div>
+        <div class="content hide-konstantin"></div>
+        <div class="text-area-k">
+            <textarea class="input_box" id="tmp_text_area" placeholder="Start typing..." oninput="textInput()"
+            onfocus="startGame()"></textarea>
+            <!-- <div contenteditable="true" class="input_box" id="txtDiv-k"
+            onfocus="startGame()" oninput="textInput()" placeholder="Test...">       
+            </div> -->
+            <div class="playbutton">
+                <button class="reset-button" onclick="resetGame()"><img src="images/resetbutton.png" width="50" height="50"></button>
+            </div>
+        </div>
+        <div class="written hide-konstantin">
+        </div>
+        <!-- <br>
+        <button class="start" onclick="startGame()">Start</button><br> -->
+        <!-- <button class="restart" onclick="resetValues()">Restart</button> -->
+    </div>
+    <div class="difficulty_box">
+        Choose your difficulty
+        <div class="easy_level">
+            <button class="easy_btn" onclick="easyGame()">Easy</button>
+        </div>
+        <div class="normal_level">
+            <button class="normal_btn" onclick="normalGame()">Normal</button>
+        </div>
+        <div class="hard_level">
+            <button class="hard_btn" onclick="hardGame()">Hard</button>
+        </div>
+    </div>
+</body>
+<script src="public/index.js"></script>
+</html>

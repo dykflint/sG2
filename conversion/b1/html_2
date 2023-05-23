@@ -1,0 +1,68 @@
+-------------------- LESSON 2-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>verheiratet </strong>to be married
+</li><li><strong>ledig </strong>to be single
+</li><li><strong>geschieden </strong>to be divorced
+</li><li><strong>verwitwet </strong>to be widowed
+</li><li><strong>mein Mann / meine Frau </strong>my husband / my wife
+</li><li><strong>mein Lebenspartner / meine Lebenspartnerin </strong>my life partner
+</li><li><strong>Ich lebe mit meinem Mann / mit meiner Frau in XY. </strong>I live with my husband / with my wife in XY.
+</li><li><strong>Ich habe XY Kinder. </strong>I have XY children.
+</li><li><strong>meine Geschwister </strong>my siblings
+</li><li><strong>der Bruder (m) / die Brüder (pl) </strong>brother / brothers
+</li><li><strong>die Schwester (f) / die Schwestern (pl) </strong>the sister / the sisters
+</li><li><strong>mit unserem Hund </strong>with our dog
+</li><li><strong>mit unserer Katze </strong>with our cat
+</li><li><strong>Wir verstehen uns (nicht so) gut. </strong>We get along (not so) well.
+</li><li><strong>Ich habe viel / wenig Kontakt zu meiner Familie. </strong>I have much / little contact with my family.
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Ich bin seit fünf Jahren geschieden, 
+</li><li> und habe keine Kinder. 
+</li><li> Meine Eltern leben nicht mehr. 
+</li><li> Meine Mutter wurde 90 Jahre alt und 
+</li><li> mein Vater ist mit 42 an einem Herzinfarkt gestorben. 
+</li><li> Ich bin ein Einzelkind, 
+</li><li> und habe keine Geschwister. 
+</li><li> Mit mir lebt zusammen mein lieber Dackel Waldi. 
+<br /><br />46 =  Wörter</li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 2-----------------------------

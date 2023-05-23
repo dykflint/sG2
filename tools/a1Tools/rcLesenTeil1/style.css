@@ -1,0 +1,113 @@
+/* Reset the margins and paddings */
+body > * {
+    margin: 0;
+    padding: 0;
+}
+
+.right-wrong-quiz {
+    margin: auto;
+    text-align: center;
+    background: white;
+    border: 2px solid #ECECEC;
+    border-radius: 25px;
+    width: 500px;
+    min-height: 400px;
+    padding: 2.0rem 2.0rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+.right-wrong-quiz img {
+    width: 100%;
+    margin-bottom: 2.0rem;
+}
+.game-screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 3.0rem;
+}
+
+.question {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2.0rem;
+}
+.right-wrong-options {
+    text-align: center;
+}
+.right, .wrong {
+    background: none;
+    border: none;
+    background-color: #D7EBFA;
+    padding: 1.0rem 3.0rem;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.right {
+    margin-right: 4.0rem;
+}
+.right:hover, .wrong:hover {
+    cursor: pointer;
+    background-color: #A6BFDC;
+}
+
+/* Finish Section */
+.retake {
+    background: none;
+    border: none;
+    background-color: #F4628C;
+    padding: 1.0rem 3.0rem;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+.retake:after {
+    content: "Retake Quiz";
+}
+.finish-message {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 3.0rem;
+}
+
+/* Make something not clickable */
+.unclickable {
+    pointer-events: none;
+}
+
+/* Hide */
+.hide {
+    display: none;
+}
+
+/* Smaller Sizes */
+@media (max-width: 40.0rem){
+    .right-wrong-quiz {
+        width: 250px;
+    }
+    .title {
+        font-size: 20px;
+    }
+    .right-wrong-options {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .right, .wrong {
+        width: 100%;
+    }
+    .retake:after {
+        content: "Retake";
+    }
+}

@@ -1,0 +1,1 @@
+const triggers = ['Er putzt immer die Fenster.', 'Sie trennt immer sorgfältig den Müll.', 'Er hört immer klassische Musik.', 'Sie spielt täglich Klarinette.', 'Ich gieße für ihn die Blumen.', 'Ich bringe für sie die Pakete zur Post.', 'Ich gehe oft mit ihm Kaffee trinken.', 'Ich gehe oft mit ihr Tennis spielen.', 'Ich kenne ihn vom Yoga.', 'Ich kenne sie aus dem Club.'];

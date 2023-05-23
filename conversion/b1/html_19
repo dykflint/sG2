@@ -1,0 +1,73 @@
+-------------------- LESSON 19-------------------------------------
+<script>// <!--[CDATA[
+function myFunction(myDIV) {
+ var x = document.getElementById(myDIV);
+ if (x.style.display === "none") {
+  x.style.display = "block";
+ } else {
+  x.style.display = "none";
+ }
+}
+// ]]-->
+</script>
+<p>INSERT INTRO TEXT HERE</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV3')">View Vocabulary</button>
+</p>
+<div id="myDIV3" style="display: none;">
+<ul>
+<li><strong>Gar kein Problem. </strong>No problem at all.
+</li><li><strong>Das krieg ich hin. </strong>I can do that.
+</li><li><strong>Das schaffe ich heute noch. </strong>I can do it today.
+</li><li><strong>das Geburtstagsgeschenk besorgen </strong>to get the birthday present
+</li><li><strong>Er steht auf XY. </strong>He likes XY.
+</li><li><strong>XY findet er nicht so gut. </strong>He doesn't like XY.
+</li><li><strong>XY mag er übrigens gar nicht. </strong>He doesn't like XY at all, by the way.
+</li><li><strong>Er ist nicht so der Blumentyp. </strong>He's not the flower type.
+</li><li><strong>der Weinhändler </strong>the wine merchant
+</li><li><strong>Bei mir um die Ecke ist XY. </strong>There's XY around the corner from me.
+</li><li><strong>Ich schaffe es erst zu XY. </strong>I can only make it to XY.
+</li><li><strong>Ich kann erst um XY da sein. </strong>I can't be there until XY.
+</li><li><strong>Bis morgen </strong>See you tomorrow
+</li><li><strong>Bis dann </strong>See you then
+</li></ul>
+</div>
+<hr>
+<h2><strong>Improve your letter</strong></h2>
+<p>Now go through the text a couple of times. There are a few easily avoidable mistakes:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV2')">View Instructions</button>
+</p>
+<div id="myDIV2" style="display: none;">
+	<ul>
+		<li>Check for verb positions and -endings.</li>
+		<li>Copy and paste your own text into Deepl. </li>
+		<li>Swap languages to see Deepl's German translation.</li>
+		<li>Compare your text with Deepl's German translation.</li>
+	</ul>
+</div>
+<hr>
+<h2><strong>Performance Check</strong></h2>
+<p>Compare your work with the sample letter below:
+</p>
+<p><button class="post-body-btn" onclick="myFunction('myDIV1')">View Sample Letter</button>
+</p>
+<div id="myDIV1" style="display: none;">
+<ol>
+<li> Liebe Erika, 
+</li><li> kein Problem, das kriege ich hin. 
+</li><li> Ich besorge heute noch ein Geschenk für unseren Chef und seine Frau. 
+</li><li> Ich weiß, dass unser Chef italienische Weine mag. 
+</li><li> Ich schaue mal bei meinem Lieblingshändler vorbei. 
+</li><li> Blumen mag er jedoch gar nicht. 
+</li><li> Er steht eher auf Topfpflanzen. 
+</li><li> Bei mir um die Ecke ist ein toller Pflanzenladen. 
+</li><li> Da besorge ich was. 
+</li><li> Ich komme aber erst um 21:00 Uhr, 
+</li><li> weil ich morgen erst noch das Arbeitsessen mit unseren Kunden habe. 
+</li><li> Bis morgen 
+</li><li> Max 
+</li><li> 
+<br /><br /></li></ol>
+	</p>
+</div>
+-------------------- END OF LESSON 19-----------------------------
