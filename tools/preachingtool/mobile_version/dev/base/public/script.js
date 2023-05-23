@@ -103,7 +103,8 @@ function startPreaching(){
   nextButton.classList.add("hide-konstantin");
   gameIsFinished = false;
   sleep(3000);
-  turnOnMicro();
+  // turnOnMicro();
+  startRecording();
 }
 // ! FINISHED PREACHING 
 let gameIsFinished = true;
@@ -125,23 +126,6 @@ function finishGame(){
   const words = document.querySelector('.words');
   words.appendChild(p);
 
-  // Focus Function 
-  function triggerFocus(element) {
-    var eventType = "onfocusin" in element ? "focusin" : "focus",
-    bubbles = "onfocusin" in element,
-    event;
-    
-    if ("createEvent" in document) {
-      event = document.createEvent("Event");
-      event.initEvent(eventType, bubbles, true);
-    }
-    else if ("Event" in window) {
-      event = new Event(eventType, { bubbles: bubbles, cancelable: true });
-    }
-    
-    element.focus();
-    element.dispatchEvent(event);
-  }
   
   // Pick the current Trigger 
   let current_trigger = triggers[0]; 
@@ -178,7 +162,6 @@ function finishGame(){
     trigger_content.innerText = current_trigger;
     deleteEverything();
     correct_answers_div.innerText = "";
-    // triggerFocus(words);
     // computerSpeakingFirst = true;
     countTrigger();
   }
@@ -260,7 +243,7 @@ function finishGame(){
     recognition.interimResults = false;
     recognition.lang = 'de-DE';
     recognition.start();
-    recognition.onresult = function (e) {
+    recognition.onresult = function (event) {
 
       if (switchPlaces % 2 == 0){
         // TOOL SPEAKS FIRST 
