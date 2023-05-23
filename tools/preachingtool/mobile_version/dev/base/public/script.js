@@ -264,7 +264,8 @@ function finishGame(){
       // Here is where stuff is being written 
       if (event.results[0].isFinal) {
         audio_img.src = "https://www.filepicker.io/api/file/VyfbFTekQn6m2LEPlNm5";
-        alarm(recognition.stop());
+        recognition.stop();
+        console.log("hi");
         let poopScript = transcript;
         poopScript = transcript.replace(/grossen/gi, 'großen').replace(/gross/gi,'groß').replace(/grosse/gi,'große').replace(/grosses/gi,'großes').replace(/weiss/gi,'weiß').replace(/beisse/gi,'beiße').replace(/beisst/gi,'beißt').replace(/beissen/gi,'beißen').replace(/Fussball/gi,'Fußball');
         p.textContent = poopScript;
