@@ -87,7 +87,7 @@ function computerFirst(){
   p = document.createElement('p');
   words.appendChild(p);
   p.innerText = allTriggerAnswersData[0][current_trigger][current_trigger_index];
-  // computerOutput(allTriggerAnswersData[0][current_trigger][current_trigger_index]);
+  computerOutput(allTriggerAnswersData[0][current_trigger][current_trigger_index]);
   current_trigger_index += 1;
   p = document.createElement('p');
   words.appendChild(p);
@@ -104,7 +104,7 @@ function startPreaching(){
   gameIsFinished = false;
   sleep(3000);
   computerOutput(allTriggerAnswersData[0][current_trigger][current_trigger_index]);
-  
+
 }
 // ! FINISHED PREACHING 
 let gameIsFinished = true;
