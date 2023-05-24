@@ -258,7 +258,6 @@ function finishGame(){
       
       if(paragraphs.length > 1){
         paragraphs[paragraphs.length - 1].style.color = "black";
-        console.log(paragraphs[paragraphs.length - 1].textContent.replace('großen','grossen'));
       }
       p.textContent = transcript;
       // Here is where stuff is being written 
