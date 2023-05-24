@@ -54,21 +54,21 @@ function resetGame(){
 
 
 
-// function computerOutput(computerSpeech) {
-//   // remove all special characters from the input string 
-//   computerSpeech = computerSpeech.replace(/ä/g,"ae");
-//   computerSpeech = computerSpeech.replace(/Ä/g,"Ae");
-//   computerSpeech = computerSpeech.replace(/ö/g,"oe");
-//   computerSpeech = computerSpeech.replace(/Ö/g,"Oe");
-//   computerSpeech = computerSpeech.replace(/ü/g,"ue");
-//   computerSpeech = computerSpeech.replace(/Ü/g,"Ue");
-//   computerSpeech = computerSpeech.replace(/ß/g,"ss");
-//   computerSpeech = computerSpeech.replace(/[^a-zA-Z0-9 ]/g, "");
-//   // console.log(computerSpeech);
-//   globalThis.audio = new Audio('../audio/' + computerSpeech + '.mp3');
-//   // let audio = new Audio('audio/Ich sehe einen Stuhl.mp3');
-//   audio.play();
-// }
+function computerOutput(computerSpeech) {
+  // remove all special characters from the input string 
+  computerSpeech = computerSpeech.replace(/ä/g,"ae");
+  computerSpeech = computerSpeech.replace(/Ä/g,"Ae");
+  computerSpeech = computerSpeech.replace(/ö/g,"oe");
+  computerSpeech = computerSpeech.replace(/Ö/g,"Oe");
+  computerSpeech = computerSpeech.replace(/ü/g,"ue");
+  computerSpeech = computerSpeech.replace(/Ü/g,"Ue");
+  computerSpeech = computerSpeech.replace(/ß/g,"ss");
+  computerSpeech = computerSpeech.replace(/[^a-zA-Z0-9 ]/g, "");
+  // console.log(computerSpeech);
+  globalThis.audio = new Audio('../audio/' + computerSpeech + '.mp3');
+  // let audio = new Audio('audio/Ich sehe einen Stuhl.mp3');
+  audio.play();
+}
 
 function stopRecording(){
   recognition.stop();
@@ -157,7 +157,7 @@ function finishGame(){
   let secondHalf = false;
   let nextCounter = 0;
   function nextTrigger() {
-    // cancelSpeech();
+    cancelSpeech();
     recognition.stop();
     audio_img.src = "https://www.filepicker.io/api/file/VyfbFTekQn6m2LEPlNm5";
     nextCounter++;
@@ -252,7 +252,6 @@ function finishGame(){
   let switchPlaces = 0;
   let computerSpeakingFirst = true;
   let test = true; 
-  // recognition.start();
 // ! GET RESULT OF AUDIO 
   function startRecording(){
     recognition = new webkitSpeechRecognition();
@@ -260,7 +259,7 @@ function finishGame(){
     recognition.interimResults = false;
     recognition.lang = 'de-DE';
     recognition.start();
-    recognition.onresult = function (e) {
+    recognition.onresult = function (event) {
 
       if (switchPlaces % 2 == 0){
         // TOOL SPEAKS FIRST 
@@ -268,10 +267,6 @@ function finishGame(){
       correct_answers_div.innerText = "";
       // MIC ON
       audio_img.src = "https://www.filepicker.io/api/file/Vd1N70dPS1yslZ2XwZEJ";
-      // const transcript = Array.from(e.results)
-      // .map(result => result[0])
-      // .map(result => result.transcript)
-      // .join('');
       const transcript = event.results[event.results.length - 1][0].transcript;
       
       if(paragraphs.length > 1){
@@ -316,10 +311,6 @@ function finishGame(){
     correct_answers_div.innerText = "";
     // MIC ON 
     audio_img.src = "https://www.filepicker.io/api/file/Vd1N70dPS1yslZ2XwZEJ"
-    // const transcript = Array.from(e.results)
-    // .map(result => result[0])
-    // .map(result => result.transcript)
-    // .join('');
     const transcript = event.results[event.results.length - 1][0].transcript;
     
     // const poopScript = transcript;
