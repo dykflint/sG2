@@ -48,9 +48,9 @@ function resetGame(){
 }
 
 // cancel any ongoing speech output
-// function cancelSpeech() {
-//   audio.pause();
-// }
+function cancelSpeech() {
+  audio.pause();
+}
 
 
 
@@ -65,7 +65,7 @@ function computerOutput(computerSpeech) {
   computerSpeech = computerSpeech.replace(/ß/g,"ss");
   computerSpeech = computerSpeech.replace(/[^a-zA-Z0-9 ]/g, "");
   // console.log(computerSpeech);
-  globalThis.audio = new Audio('../audio/' + computerSpeech + '.mp3');
+  globalThis.audio = new Audio('audio/' + computerSpeech + '.mp3');
   // let audio = new Audio('audio/Ich sehe einen Stuhl.mp3');
   audio.play();
 }
@@ -75,7 +75,7 @@ function stopRecording(){
 }
 function toolAnswer(){
   p.innerText = allTriggerAnswersData[0][current_trigger][current_trigger_index +1];
-  // computerOutput(allTriggerAnswersData[0][current_trigger][current_trigger_index +1]);
+  computerOutput(allTriggerAnswersData[0][current_trigger][current_trigger_index +1]);
   current_trigger_index += 2; 
   // console.log("Trigger Index: " + current_trigger_index);
   p = document.createElement('p');
@@ -103,7 +103,8 @@ function startPreaching(){
   nextButton.classList.add("hide-konstantin");
   gameIsFinished = false;
   sleep(3000);
-  turnOnMicro();
+  computerOutput(allTriggerAnswersData[0][current_trigger][current_trigger_index]);
+  
 }
 // ! FINISHED PREACHING 
 let gameIsFinished = true;
@@ -271,7 +272,7 @@ function finishGame(){
       
       if(paragraphs.length > 1){
         paragraphs[paragraphs.length - 1].style.color = "black";
-        console.log(paragraphs[paragraphs.length - 1].textContent.replace('großen','grossen'));
+        // console.log(paragraphs[paragraphs.length - 1].textContent.replace('großen','grossen'));
       }
       p.textContent = transcript;
       // Here is where stuff is being written 
@@ -381,7 +382,7 @@ window.addEventListener("keydown", (event) => {
 
   // Button to start the microphone 
   function turnOnMicro(){
-    // cancelSpeech();
+    cancelSpeech();
     nextButton.classList.remove("hide-konstantin");
     if(initialCounter){
       countTrigger();
