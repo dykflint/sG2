@@ -67,6 +67,7 @@ function computerOutput(computerSpeech) {
   // console.log(computerSpeech);
   globalThis.audio = new Audio('audio/' + computerSpeech + '.mp3');
   // let audio = new Audio('audio/Ich sehe einen Stuhl.mp3');
+  console.log(audio);
   audio.play();
 }
 
