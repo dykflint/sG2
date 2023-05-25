@@ -103,8 +103,7 @@ function startPreaching(){
   nextButton.classList.add("hide-konstantin");
   gameIsFinished = false;
   sleep(3000);
-  computerOutput(allTriggerAnswersData[0][current_trigger][current_trigger_index]);
-
+  turnOnMicro();
 }
 // ! FINISHED PREACHING 
 let gameIsFinished = true;
@@ -382,7 +381,6 @@ window.addEventListener("keydown", (event) => {
 
   // Button to start the microphone 
   function turnOnMicro(){
-    cancelSpeech();
     nextButton.classList.remove("hide-konstantin");
     if(initialCounter){
       countTrigger();
@@ -392,6 +390,7 @@ window.addEventListener("keydown", (event) => {
     startRecording();
     if(!preachingStarted){
       // cancelSpeech();
+      deleteEverything();
       audio_img.src = "https://www.filepicker.io/api/file/Vd1N70dPS1yslZ2XwZEJ"
     } 
     if (computerSpeakingFirst && switchPlaces % 2 == 0 && test) {
