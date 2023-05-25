@@ -65,10 +65,15 @@ function computerOutput(computerSpeech) {
   computerSpeech = computerSpeech.replace(/ß/g,"ss");
   computerSpeech = computerSpeech.replace(/[^a-zA-Z0-9 ]/g, "");
   // console.log(computerSpeech);
-  globalThis.audio = new Audio('audio/' + computerSpeech + '.mp3');
-  // let audio = new Audio('audio/Ich sehe einen Stuhl.mp3');
-  console.log(audio);
-  audio.play();
+  if(!preachingStarted){
+    globalThis.audio = new Audio('audio/' + computerSpeech + '.mp3');
+    // let audio = new Audio('audio/Ich sehe einen Stuhl.mp3');
+    console.log(audio);
+    audio.play();
+  } else {
+    audio.src = 'audio/' + computerSpeech + '.mp3';
+    audio.play()
+  }
 }
 
 function stopRecording(){
