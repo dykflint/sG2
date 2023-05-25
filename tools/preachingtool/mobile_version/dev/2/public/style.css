@@ -211,12 +211,7 @@
 /* } */
 
 @media (max-width: 30.0rem){
-  .words {
-    /* min-width: 280px;
-    max-width: 280px; */
-  }
-  .starting-box-konstantin {
-    /* min-width: 280px;
-    max-width: 280px; */
+  .trigger-counter {
+    left: 75%;
   }
 }
