@@ -262,7 +262,7 @@ function finishGame(){
   function startRecording(){
     recognition = new webkitSpeechRecognition();
     recognition.continuous = true;
-    recognition.interimResults = false;
+    recognition.interimResults = true;
     recognition.lang = 'de-DE';
     recognition.start();
     recognition.onresult = function (event) {
