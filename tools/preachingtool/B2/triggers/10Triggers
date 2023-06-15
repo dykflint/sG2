@@ -1,0 +1,1 @@
+const triggers = ['Zähne putzen', 'lange aufbleiben', 'zur Schule/Arbeit gehen', 'mit dem Fahrrad zur Schule/zur Arbeit fahren', 'Süßigkeiten essen', 'vor dem Essen beten', 'zur Kirche/ in die Moschee/ in den Tempel gehen', 'Alkohol trinken', 'den Teller leer essen'];

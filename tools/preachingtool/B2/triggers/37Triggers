@@ -1,0 +1,1 @@
+const triggers = ['Toilette benutzen', 'eine Frage stellen', 'sprechen mit | Eltern', 'aufhören | Rauchen', 'abnehmen | 5 Kilo', 'bis morgen fertig werden mit | meine Hausarbeit', 'leben in | Großstadt', 'vorbeikommen bei | du (in dative)', 'leihen | dein Auto', 'anprobieren | Pullover'];

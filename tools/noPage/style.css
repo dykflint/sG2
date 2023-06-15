@@ -1,0 +1,30 @@
+.no-page-container {
+    width: 100%;
+    height: max-content;
+    position: relative;
+}
+.background-img {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+
+.buttons {
+    display: flex;
+    gap: 4%;
+    position: absolute;
+    bottom: 10%;
+    left: 40%;
+    width: 100%;
+    z-index: 2;
+}
+a {
+    width: 20%;
+}
+.login-button-img, .home-button-img {
+    /* position: absolute !important; */
+    width: 100% !important;
+    z-index: 2 !important;
+    cursor: pointer;
+    /* bottom: 10%; */
+}
