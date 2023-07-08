@@ -161,6 +161,8 @@ document.querySelectorAll('.option').forEach(item => {
             if(id < Questions.length - 1){
                 id++;
                 item.style.backgroundColor = baseButtonColor;
+                translation_button.classList.remove("hide-konstantin");
+                original_button.classList.add("hide-konstantin");
                 iterate(id);
             } else {
                 console.log("In the finish screen");
