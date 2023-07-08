@@ -37,6 +37,7 @@ let rightColor = "#BBE4DA";
 let wrongColor = "#EA7475";
 let start = true;
 let id = 0;
+let options = [];
 
 function retakeQuiz(){
     finishScreen.classList.add('hide-konstantin');
@@ -138,7 +139,8 @@ document.querySelectorAll('.option').forEach(item => {
         option2.classList.add('unclickable');
         option3.classList.add('unclickable');
         option4.classList.add('unclickable');
-        console.log(item.value);
+        options = [option1, option2, option3, option4];
+        // console.log(item.value);
         if(item.value == "true"){
             ncorrect++;
             sleepFor(1, () => {
@@ -149,8 +151,13 @@ document.querySelectorAll('.option').forEach(item => {
             sleepFor(1, () => {
                 item.style.backgroundColor = wrongColor;
             })
+            options.forEach(item => {
+                if(item.value == "true") {
+                    item.style.backgroundColor = rightColor;
+                }
+            })
         }
-        sleepFor(2, () => {
+        sleepFor(3, () => {
             if(id < Questions.length - 1){
                 id++;
                 item.style.backgroundColor = baseButtonColor;

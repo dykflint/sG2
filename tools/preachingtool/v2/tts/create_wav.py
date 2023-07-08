@@ -34,12 +34,12 @@ def synthesize_text(text):
         audio_config=audio_config
     )
 
-    with open("audio/b2/"+ text + ".wav", "wb") as out:
+    with open("audio/a2/"+ text + ".wav", "wb") as out:
         out.write(response.audio_content)
         print('Audio content written to file ' + text + '.wav')
 
 if __name__ == '__main__':
-    sentences_arr = get_sentences("b2sentences")
+    sentences_arr = get_sentences("sentence")
     # text = "Es ist ein schöner Tag. Wie jeden Montagmorgen geht Simone spazieren."
     # synthesize_text(text)
     for el in sentences_arr:
