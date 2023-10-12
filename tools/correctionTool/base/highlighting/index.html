@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text Differences Highlighter</title>
+</head>
+<body>
+  <h1>Text Differences Highlighter</h1>
+
+  <!-- Function to highlight differences on a word-by-word basis -->
+  <script>
+    function highlightDifferences(text1, text2) {
+      const words1 = text1.trim().split(/\s+/);
+      const words2 = text2.trim().split(/\s+/);
+
+      let result = '';
+      const maxLength = Math.max(words1.length, words2.length);
+
+      for (let i = 0; i < maxLength; i++) {
+        if (words1[i] !== words2[i]) {
+          result += `<span style="background-color: yellow">${words2[i] || ''}</span> `;
+        } else {
+          result += words2[i] ? `${words2[i]} ` : ' ';
+        }
+      }
+
+      return result;
+    }
+  </script>
+
+  <!-- Example usage -->
+  <div>
+    <h2>Original Text:</h2>
+    <pre id="originalText">
+The quick brown fox
+jumps over the lazy dog.
+    </pre>
+  </div>
+
+  <div>
+    <h2>Modified Text:</h2>
+    <pre id="modifiedText">
+The slow brown cat
+jumps over the sleepy dog.
+    </pre>
+  </div>
+
+  <div>
+    <h2>Highlighted Differences:</h2>
+    <div id="highlightedText"></div>
+  </div>
+
+  <script>
+    // Example usage
+    const originalText = `
+The quick brown fox
+jumps over the lazy dog.
+    `;
+
+    const modifiedText = `
+The slow brown cat
+jumps over the sleepy dog.
+    `;
+
+    const highlightedText = highlightDifferences(originalText, modifiedText);
+    document.getElementById("highlightedText").innerHTML = highlightedText;
+  </script>
+
+</body>
+</html>

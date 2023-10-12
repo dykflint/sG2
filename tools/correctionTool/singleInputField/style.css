@@ -1,10 +1,43 @@
-#inputFieldsContainer {
+body {
+    font-family: Arial, sans-serif;
+}
+
+.input-container {
     display: flex;
     flex-direction: column;
     background-color: #FFF0F1;
     width: max-content;
 }
 
+.line-numbers {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    color: gray;
+    pointer-events: none; /* Prevent interaction with line numbers */
+    user-select: none; /* Prevent text selection on line numbers */
+    line-height: 16px; /* Set line height equal to font size */
+}
+
+.adjustable-input,
+.adjustable-input:focus {
+    padding-left: 10px;
+    resize: none;
+    width: 300px;
+    min-height: 120px; /* 10 lines * (font-size + line-height) */
+    font-size: 16px;
+    line-height: 16px; /* Set line height equal to font size */
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    margin-left: 25px; /* Leave space for line numbers */
+    outline: none;
+    border: none;
+    background-color: #FFFAFA;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+}
 
 #navigation {
     display: flex;
@@ -37,28 +70,7 @@
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-}
-input {
-    width: 300px;
-    padding: 5px;
-    outline: none;
-    border: none;
-    background-color: #FFFAFA;
-}
-
-.input-field {
-    display: flex;
-    align-items: center;
-}
-
-.line-number {
-    display: inline-block;
-    width: 20px;
-    background-color: #FFF0F1;
-    color: #FF7A8B;
-    font-size: 12px;
-    text-align: right;
-    padding-right: 5px;
+    z-index: 1;
 }
 
 #check-button {

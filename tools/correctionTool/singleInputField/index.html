@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Adjustable Input Field</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="navigation">
+        <div id="wordCountRow">0 words</div>
+        <div id="copyContainer">
+            <button id="copyButton">Copy</button>
+            <div id="copiedPopup">Copied</div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="line-numbers">1</div>
+        <div class="input-container">
+            <textarea class="adjustable-input" id="txtMsg" oninput="adjustInputSize(this); updateWordCount(this)"></textarea>
+            <span id="spMsg"></span>
+        </div>
+        <div>
+            <h3>Differences to be highlighted:</h3>
+            <div id="highlightedTextDiv"></div>
+            <div id="hints"></div>
+            <div id="correct-answer"></div>
+          </div>
+        <!-- <div class="word-count" id="wordCount">0 words</div>
+        <button class="copy-btn" onclick="copyToClipboard()">Copy</button> -->
+    </div>
+    <div id="check-button" onclick="callGPT()">Check</div>
+</body>
+<script src="chatgpt.js"></script>
+<!-- <script src="highlighting.js"></script> -->
+<script src="script.js"></script>
+</html>

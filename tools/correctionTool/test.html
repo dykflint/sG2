@@ -1,216 +1,117 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Dynamic Input Fields</title>
-  <style>
-    input {
-      width: 300px;
-      padding: 5px;
-      margin-bottom: 10px;
-    }
+    <title>Adjustable Input Field</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
 
-    .input-field {
-      display: flex;
-    }
+        .input-container {
+            position: relative;
+        }
 
-    .line-number {
-      display: inline-block;
-      width: 20px;
-      text-align: center;
-      margin-right: 5px;
-    }
+        .line-numbers {
+            position: absolute;
+            left: 5px;
+            top: 5px;
+            color: gray;
+            pointer-events: none; /* Prevent interaction with line numbers */
+            user-select: none; /* Prevent text selection on line numbers */
+            line-height: 16px; /* Set line height equal to font size */
+        }
 
-    #inputFieldsContainer {
-      display: flex;
-      flex-direction: column;
-    }
-  </style>
+        .editable-input {
+            padding-left: 10px;
+            width: 200px;
+            min-height: 220px; /* 10 lines * (font-size + line-height) */
+            font-size: 16px;
+            line-height: 16px; /* Set line height equal to font size */
+            border: 1px solid #ccc;
+            overflow-y: hidden; /* Hide vertical scrollbar */
+            margin-left: 50px; /* Leave space for line numbers */
+        }
+
+        .container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .word-count {
+            margin-top: 10px;
+            color: darkgray;
+        }
+
+        .copy-btn {
+            margin-top: 10px;
+        }
+    </style>
 </head>
 <body>
-  <div id="wordCountRow">Total Words: 0</div>
-  <div id="inputFieldsContainer">
-    <div class="input-field">
-      <span class="line-number">1</span>
-      <input type="text" onkeydown="handleKeyDown(event)" data-line="1">
+    <div class="container">
+        <div class="line-numbers"></div>
+        <div class="input-container">
+            <div class="editable-input" contenteditable="true" oninput="adjustInputSize(this); updateWordCount(this); updateLineNumbers(this)"></div>
+        </div>
+        <div class="word-count" id="wordCount">Word Count: 0</div>
+        <button class="copy-btn" onclick="copyToClipboard()">Copy to Clipboard</button>
     </div>
-  </div>
 
-  <script>
-  let totalWords = 0;
-  function handleKeyDown(event) {
-    const currentInput = event.target;
-    if (event.key === 'Enter') {
-      event.preventDefault();
-      createInputFieldAfter(currentInput);
-    } else if (event.key === 'ArrowDown') {
-      event.preventDefault();
-      focusNextInputField(currentInput);
-    } else if (event.key === 'ArrowUp') {
-      event.preventDefault();
-      focusPreviousInputField(currentInput);
-    } else if (event.key === 'Backspace') {
-      handleBackspaceKey(currentInput);
-    }
-  }
+    <script>
+        function adjustInputSize(div) {
+            let lines = div.textContent.split("\n");
+            let lineCount = lines.length;
+            let lineHeight = parseInt(getComputedStyle(div).lineHeight);
 
-    function createInputFieldAfter(currentInput) {
-      const inputField = document.createElement('div');
-      inputField.className = 'input-field';
+            // Calculate the scroll height of the div
+            let scrollHeight = div.scrollHeight;
 
-      const input = document.createElement('input');
-      input.type = 'text';
-      input.onkeydown = handleKeyDown;
+            // Adjust the height of the div to match its content
+            div.style.height = scrollHeight + 'px';
 
-      const lineNumber = parseInt(currentInput.dataset.line) + 1;
-      input.dataset.line = lineNumber;
-
-      const lineNumberElement = document.createElement('span');
-      lineNumberElement.className = 'line-number';
-      lineNumberElement.textContent = lineNumber;
-
-      inputField.appendChild(lineNumberElement);
-      inputField.appendChild(input);
-
-      const container = document.getElementById('inputFieldsContainer');
-      container.insertBefore(inputField, currentInput.parentElement.nextSibling);
-      input.focus();
-
-      // Update line numbers of all input fields
-      updateLineNumbers();
-      
-      // Add input event listener to the newly created input field
-      input.addEventListener('input', handleInput);
-    }
-
-    function updateLineNumbers() {
-      const container = document.getElementById('inputFieldsContainer');
-      const inputFields = container.querySelectorAll('.input-field');
-      let lineNumber = 1;
-
-      inputFields.forEach((inputField) => {
-        const input = inputField.querySelector('input');
-        const lineNumberElement = inputField.querySelector('.line-number');
-        lineNumberElement.textContent = lineNumber;
-        input.dataset.line = lineNumber;
-        lineNumber++;
-      });
-    }
-
-    function focusNextInputField(currentInput) {
-      const container = document.getElementById('inputFieldsContainer');
-      const inputFields = container.querySelectorAll('.input-field');
-      const currentIndex = Array.from(inputFields).indexOf(currentInput.parentElement);
-      const nextIndex = (currentIndex + 1) % inputFields.length;
-
-      if (nextIndex !== 0 || currentIndex !== inputFields.length - 1) {
-        inputFields[nextIndex].querySelector('input').focus();
-      }
-    }
-
-    function focusPreviousInputField(currentInput) {
-      const container = document.getElementById('inputFieldsContainer');
-      const inputFields = container.querySelectorAll('.input-field');
-      const currentIndex = Array.from(inputFields).indexOf(currentInput.parentElement);
-      const previousIndex = (currentIndex - 1 + inputFields.length) % inputFields.length;
-
-      if (previousIndex !== inputFields.length - 1 || currentIndex !== 0) {
-        inputFields[previousIndex].querySelector('input').focus();
-      }
-    }
-
-    function handleBackspaceKey(currentInput) {
-    if (currentInput.selectionStart === 0 && currentInput.selectionEnd === 0) {
-      const previousInput = getPreviousInput(currentInput);
-      if (previousInput) {
-        event.preventDefault();
-        const textToMove = currentInput.value;
-        const previousInputValue = previousInput.value;
-        const previousInputCursorPosition = previousInput.value.length;
-
-        currentInput.value = '';
-
-        if (previousInputValue !== '' || textToMove !== '') {
-          previousInput.value = previousInputValue + textToMove;
-
-          // Move cursor to the end of the previous input field
-          previousInput.setSelectionRange(previousInputCursorPosition, previousInputCursorPosition);
-        } else {
-          removeInputField(currentInput);
+            // Limit the minimum height of the div
+            if (scrollHeight < lineHeight * 10) {
+                div.style.height = lineHeight * 10 + 'px';
+            }
         }
 
-        previousInput.focus();
+        function updateLineNumbers(div) {
+            let lineNumberContainer = document.querySelector(".line-numbers");
+            let lines = div.textContent.split("\n");
+            let lineCount = lines.length;
+            let lineHeight = parseInt(getComputedStyle(div).lineHeight);
 
-        // Update line numbers of all input fields
-        updateLineNumbers();
-      }
-    }
-  }
-  function handleInput(event) {
-    const currentInput = event.target;
-    const textToMove = currentInput.value;
-    const previousInput = getPreviousInput(currentInput);
-    
-    if (currentInput.selectionStart === 0 && currentInput.selectionEnd === 0) {
-      if (previousInput && (previousInput.value !== '' || textToMove !== '')) {
-        event.preventDefault();
-        const previousInputValue = previousInput.value;
-        const previousInputCursorPosition = previousInput.value.length;
+            // Generate the line numbers content
+            let lineNumbersHTML = '';
+            for (let i = 1; i <= lineCount; i++) {
+                lineNumbersHTML += '<div style="line-height: ' + lineHeight + 'px;">' + i + '</div>';
+            }
 
-        previousInput.value = previousInputValue + textToMove;
-        currentInput.value = '';
-
-        // Move cursor to the end of the previous input field
-        previousInput.setSelectionRange(previousInputCursorPosition, previousInputCursorPosition);
-        previousInput.focus();
-      } else if (!previousInput && textToMove === '') {
-        removeInputField(currentInput);
-        // Update line numbers of all input fields
-        updateLineNumbers();
-      }
-    }
-    updateWordCount();
-  }
-
-  function removeInputField(inputFieldToRemove) {
-    const container = document.getElementById('inputFieldsContainer');
-    container.removeChild(inputFieldToRemove.parentElement);
-  }
-
-  function getPreviousInput(currentInput) {
-    const container = document.getElementById('inputFieldsContainer');
-    const inputFields = container.querySelectorAll('.input-field');
-
-    for (let i = 0; i < inputFields.length; i++) {
-      if (inputFields[i].querySelector('input') === currentInput) {
-        const previousInput = inputFields[i - 1]?.querySelector('input');
-        if (previousInput && currentInput.value === '') {
-          removeInputField(currentInput);
+            // Set the line numbers content and update the container height
+            lineNumberContainer.innerHTML = lineNumbersHTML;
+            lineNumberContainer.style.height = div.style.height;
         }
-        return previousInput;
-      }
-    }
-    return null;
-  }
 
-  function updateWordCount() {
-      const inputFields = document.querySelectorAll('input');
+        function updateWordCount(div) {
+            let wordCount = 0;
+            if (div.textContent.trim() !== '') {
+                let words = div.textContent.trim().split(/\s+/);
+                wordCount = words.length;
+            }
 
-      totalWords = 0;
-      inputFields.forEach((input) => {
-        totalWords += input.value.trim().split(/\s+/).length;
-        console.log("total words = " + totalWords);
-      });
+            document.getElementById("wordCount").innerText = "Word Count: " + wordCount;
+        }
 
-      const wordCountRow = document.getElementById('wordCountRow');
-      wordCountRow.textContent = `Total Words: ${totalWords}`;
-    }
-    // Add input event listener to each input field
-    const inputFields = document.querySelectorAll('input');
-    inputFields.forEach((input) => {
-      input.addEventListener('input', handleInput);
-    });
-    // Update the word count initially
-    updateWordCount();
-  </script>
+        function copyToClipboard() {
+            let div = document.querySelector(".editable-input");
+            let range = document.createRange();
+            range.selectNodeContents(div);
+            let selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            document.execCommand("copy");
+            selection.removeAllRanges();
+        }
+    </script>
 </body>
 </html>
