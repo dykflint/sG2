@@ -355,11 +355,11 @@ const Translations = [{
 },
 {
     id: 19,
-    q: 'Was ist kein Merkmal unserer Demokratie?',
-    a: [{ text: ' regelmäßige Wahlen', isCorrect: false},
-        { text: '  Pressezensur', isCorrect: true},
-        { text: ' Meinungsfreiheit', isCorrect: false},
-        { text: ' verschiedene Parteien', isCorrect: false},
+    q: 'What is not a feature of our democracy?',
+    a: [{ text: ' Regular elections', isCorrect: false},
+        { text: '  Press censorship', isCorrect: true},
+        { text: 'Freedom of expression', isCorrect: false},
+        { text: ' Various parties', isCorrect: false},
 ]
 }
 ]
